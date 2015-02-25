@@ -1,0 +1,52 @@
+BRANCH=stable
+DATE=2015-02-25 00:50:48+01:00
+PRIORITY=3
+
+tp-link-cpe210-v1.0 0.6.4 077783673882a4b804761848242023d9f0b5d0d71c90bcc774422de8bb061ee6c566bf7cd81fd209265ccfd841b303e051b0cc1ba5c1200c0210d6be0baaa7e0 gluon-fftr-0.6.4-tp-link-cpe210-v1.0-sysupgrade.bin
+tp-link-cpe220-v1.0 0.6.4 077783673882a4b804761848242023d9f0b5d0d71c90bcc774422de8bb061ee6c566bf7cd81fd209265ccfd841b303e051b0cc1ba5c1200c0210d6be0baaa7e0 gluon-fftr-0.6.4-tp-link-cpe220-v1.0-sysupgrade.bin
+tp-link-cpe510-v1.0 0.6.4 077783673882a4b804761848242023d9f0b5d0d71c90bcc774422de8bb061ee6c566bf7cd81fd209265ccfd841b303e051b0cc1ba5c1200c0210d6be0baaa7e0 gluon-fftr-0.6.4-tp-link-cpe510-v1.0-sysupgrade.bin
+tp-link-cpe520-v1.0 0.6.4 077783673882a4b804761848242023d9f0b5d0d71c90bcc774422de8bb061ee6c566bf7cd81fd209265ccfd841b303e051b0cc1ba5c1200c0210d6be0baaa7e0 gluon-fftr-0.6.4-tp-link-cpe520-v1.0-sysupgrade.bin
+tp-link-tl-wr703n-v1 0.6.4 4ff383cea5283b44c39de48da840dc13201aec204de8e011672f52f8e35a117e8086cea4252cd70b60fb95ec8fb76fedb7c80a82f929d7266862588125aad405 gluon-fftr-0.6.4-tp-link-tl-wr703n-v1-sysupgrade.bin
+tp-link-tl-wr710n-v1 0.6.4 6424de0e06e2ae4db77834ed8c850d093d5f8d4cccfd52feacfd783d71776329de8c8c599737ef53e7afab29c78b52ddeaf19e882dc31d3fae31283345b5d94e gluon-fftr-0.6.4-tp-link-tl-wr710n-v1-sysupgrade.bin
+tp-link-tl-wr740n-nd-v1 0.6.4 ed0b856445c64527f71d991d44ffced3f3fe3bf3d07262eef40e85c6c4efc14bdaa0a698c7345820dff8283b003f7f76748b926d016751a4dd67857c4133c459 gluon-fftr-0.6.4-tp-link-tl-wr740n-nd-v1-sysupgrade.bin
+tp-link-tl-wr740n-nd-v3 0.6.4 0c60901f11b1ba9ea9c9693ca5c73211dbf3578858b16b837a562256bb3461390129a50232e73813b0590ca951c09e40331e8d3a2a7feb66e0848998814a0d49 gluon-fftr-0.6.4-tp-link-tl-wr740n-nd-v3-sysupgrade.bin
+tp-link-tl-wr740n-nd-v4 0.6.4 0cb778bb0bab7ab951072832ef2ed8bb7da412245e8df4110f7158b3332b14e45a9522e36b1f3a933c7fb2e46f1af98ed53ceec2b18cd94f98ba65e5ef13a5f6 gluon-fftr-0.6.4-tp-link-tl-wr740n-nd-v4-sysupgrade.bin
+tp-link-tl-wr741n-nd-v1 0.6.4 142c35d427b0015a4441c309df99e2b51fe51c2d1a1af59a0d17c4c747aa252642feb68974841d302cc677bed2d5794d527b641a25749b20349c40de7d483a65 gluon-fftr-0.6.4-tp-link-tl-wr741n-nd-v1-sysupgrade.bin
+tp-link-tl-wr741n-nd-v2 0.6.4 142c35d427b0015a4441c309df99e2b51fe51c2d1a1af59a0d17c4c747aa252642feb68974841d302cc677bed2d5794d527b641a25749b20349c40de7d483a65 gluon-fftr-0.6.4-tp-link-tl-wr741n-nd-v2-sysupgrade.bin
+tp-link-tl-wr741n-nd-v4 0.6.4 b7dc2c57cb736a3eac0a68ec53a525068ce5f0aef5caa590ecba0fc3a8b28e573d2b32d0949663220b85359e4c6d502359404c31222813496484c6f8e970fd79 gluon-fftr-0.6.4-tp-link-tl-wr741n-nd-v4-sysupgrade.bin
+tp-link-tl-wa801n-nd-v2 0.6.4 faa5a48ee26c0a3bc319ca40f0eac7ff9a55476ce167c6a1818c3edca1b367db0893b3cb109e2542f7f148e05f1db4d9b58f0ae2979acfbf09a9f22ffdc748e5 gluon-fftr-0.6.4-tp-link-tl-wa801n-nd-v2-sysupgrade.bin
+tp-link-tl-wr841n-nd-v3 0.6.4 039351e30d2e53fe5916ce7476c102bd2399c59accb978e42829c9b2bacfdff15ff60481f260673d3948c58f3e46301f3b5afb82371d9480cc5c4706be24f223 gluon-fftr-0.6.4-tp-link-tl-wr841n-nd-v3-sysupgrade.bin
+tp-link-tl-wr841n-nd-v5 0.6.4 e4b0a12ef7f7a15b004b56168dfff4c5d825194ce0b3f0c3c405cd74c33b52aa25b4f93d52de5e4e47bdc5c592d8452e1a7afca351511a1473d29ad2357600f6 gluon-fftr-0.6.4-tp-link-tl-wr841n-nd-v5-sysupgrade.bin
+tp-link-tl-wr841n-nd-v7 0.6.4 d05be69688cc34ce27be5e1dd96673984297a17fb3467ceb1b59a32e9d0963d82884c5a3a66db53b3094647ebf0101b520c56d5ee8646d1889c5d8e7c7008cf4 gluon-fftr-0.6.4-tp-link-tl-wr841n-nd-v7-sysupgrade.bin
+tp-link-tl-wr841n-nd-v8 0.6.4 82a1fe630bad15289adc288938d5a5dd8315e0b92551688560c8c3cf304044a3373ac47dbac5d96e161e526a41c3a81c78e0ed9f9673b1b3020197109fd657b0 gluon-fftr-0.6.4-tp-link-tl-wr841n-nd-v8-sysupgrade.bin
+tp-link-tl-wr841n-nd-v9 0.6.4 d2b5fd744e9ab09a6983a10e5c9ae86ffb565f05703e6f21688a2e1614348667e52b7613fb2419dad101c66c9b22b06505cf5b9d9aacf2b42fade9abd9d5cd03 gluon-fftr-0.6.4-tp-link-tl-wr841n-nd-v9-sysupgrade.bin
+tp-link-tl-wr842n-nd-v1 0.6.4 81630fbb54a73bdf1c7aef0a1db1652c0c1b3112fbc64008bac3680b7f6f3b38b3c474e854b025b27dce642db0333a143c511951f1115da35a5ebaab1c699fda gluon-fftr-0.6.4-tp-link-tl-wr842n-nd-v1-sysupgrade.bin
+tp-link-tl-wr842n-nd-v2 0.6.4 1acbeab520da8ef33eb4ce5ab3a1e47f7df98a27248cd2e61560e19db5c141962c348861ed5816567cff64838369eb7000385597abaf91863c1f35e766f52298 gluon-fftr-0.6.4-tp-link-tl-wr842n-nd-v2-sysupgrade.bin
+tp-link-tl-wr941n-nd-v2 0.6.4 6f182502d86b10d04d9eeec46b18fd26bf5c703e903d08de1e55931a86e89621b4489ba06585d940c37b2fa753d7a64954334bf707c5cb2b710252a1c67b1bda gluon-fftr-0.6.4-tp-link-tl-wr941n-nd-v2-sysupgrade.bin
+tp-link-tl-wr941n-nd-v3 0.6.4 6f182502d86b10d04d9eeec46b18fd26bf5c703e903d08de1e55931a86e89621b4489ba06585d940c37b2fa753d7a64954334bf707c5cb2b710252a1c67b1bda gluon-fftr-0.6.4-tp-link-tl-wr941n-nd-v3-sysupgrade.bin
+tp-link-tl-wr941n-nd-v4 0.6.4 2baea57da81fca9e5358669ae9fcc8a32d07a2d96de41cd32dc13c636ff7ece16a1e750e55070c604f3f5234741f9560ee5b483a9f7149decff563e04410e471 gluon-fftr-0.6.4-tp-link-tl-wr941n-nd-v4-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v1 0.6.4 2d77ad1dbc485991e010fad45d2834ac01ffc1232490c261f3a179a12ce4bb2f9369888e543551b20c65fb4e6ab746e1a40add2013a27162e61b40383c1eeff6 gluon-fftr-0.6.4-tp-link-tl-wr1043n-nd-v1-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v2 0.6.4 017843db40e77d27087cf59f30dd052dfde912ca615a7affb243691d0cef415a6a31f01495cf8169fe0be51b37aa343016da66472c0d85ac30453861e546dad7 gluon-fftr-0.6.4-tp-link-tl-wr1043n-nd-v2-sysupgrade.bin
+tp-link-tl-wdr3500-v1 0.6.4 e28489d79efe84d8dcaca712a804b375520db745190ed8278aeff8fd3319f274caea4a367fb2adb0123f5804aeef5ad5527e299f2a463f8c3fcbc5def9657ccd gluon-fftr-0.6.4-tp-link-tl-wdr3500-v1-sysupgrade.bin
+tp-link-tl-wdr3600-v1 0.6.4 7ab6050a6cd56a8c8667643dd27fecafcf122d1b8fd9ea95e03154bed4dfeba7ac4f999ebb6127eb62c7adb42482d1119e838424935c6a131b175b5ea3d4786d gluon-fftr-0.6.4-tp-link-tl-wdr3600-v1-sysupgrade.bin
+tp-link-tl-wdr4300-v1 0.6.4 3f0cdbd0da6d3576b23c5d3765a56e9f45f21826a910d164b196efc886d1339a6161eb698e29d924443efdecfb06b3c2cd32fbe0b4ea7dc732e48aa86ef3f2a8 gluon-fftr-0.6.4-tp-link-tl-wdr4300-v1-sysupgrade.bin
+tp-link-tl-wa750re-v1 0.6.4 adfc1c7016befeffa0aa07540be6377fa70b4cc466420059d7a8f55b8ad97665a13f21cd2eeb37bb63c948e53804fc22d02777b1bdd408e2d4dbe2dfccae68a7 gluon-fftr-0.6.4-tp-link-tl-wa750re-v1-sysupgrade.bin
+tp-link-tl-wa850re-v1 0.6.4 6b60dda89062ab5eae7f89a3e463bc9c9d33f0f78383fdbc9bd90658c0774a4a4aff241fdabda9bbab06f4ef4c134a785e1da61cb4658fd796b5532225fa62ab gluon-fftr-0.6.4-tp-link-tl-wa850re-v1-sysupgrade.bin
+tp-link-tl-wa901n-nd-v2 0.6.4 f5aba148cc0617f1a68b86a60e6617145ad3bb12e62d0a1f56f871ba09b31b8ccbc25fc74ca5d461f7ab79dfa3f7d1ed9791a6c07520d468183276c6f8d1132e gluon-fftr-0.6.4-tp-link-tl-wa901n-nd-v2-sysupgrade.bin
+tp-link-tl-mr3020-v1 0.6.4 3836cd68fa73158d26465b8650e22127e0deb60ca9094c9137a5b2ff1674dda656f4f384527c25e5fae2422a007c1009c298a404e56e64f8931532b6a0b8a0ed gluon-fftr-0.6.4-tp-link-tl-mr3020-v1-sysupgrade.bin
+tp-link-tl-mr3040-v1 0.6.4 ac90da9c6e6c03d8790b0fae2a8b48590aa21d9cd2a33bcff79ae97eb42ffa91275f3e6726d37935cd83634a473a0df1958e2911a6e2590e6614a6f996ee05a7 gluon-fftr-0.6.4-tp-link-tl-mr3040-v1-sysupgrade.bin
+tp-link-tl-mr3040-v2 0.6.4 56f1c104a12129a7c01a463518fa9c07483de20b8a88e63fc2d8886061822f531c8fbee7e1667e85a3f706f6cbcfbe56837039bef1ea797329f72a578b6d48bf gluon-fftr-0.6.4-tp-link-tl-mr3040-v2-sysupgrade.bin
+tp-link-tl-mr3220-v1 0.6.4 a4066a82275087272897d441d63fc35610e6f96f1fe31219094e864466bd82eb928cf17d835be2250e2304d60018c79f2dff58ddba33c397d3363fecc694c1f8 gluon-fftr-0.6.4-tp-link-tl-mr3220-v1-sysupgrade.bin
+tp-link-tl-mr3420-v1 0.6.4 b3221309ccb02033e020e2fbda842ed1f1033e5f0a19dfd4baa929f57af23baa12649926e3a49d3b7521996c819910123fdbeadbb5d8d1f1e01774fc46a043dc gluon-fftr-0.6.4-tp-link-tl-mr3420-v1-sysupgrade.bin
+tp-link-tl-mr3420-v2 0.6.4 c73b1ed040fe07d953a001ac5fdfa14df83f12aeebbc71e7972c0878a4f8c061523d34b624844572ec071621be0a7f4af0883e99ffa61bb90c71dbb0fad51c21 gluon-fftr-0.6.4-tp-link-tl-mr3420-v2-sysupgrade.bin
+ubiquiti-bullet-m 0.6.4 6bc8296baf62fe420c0f816ebda61c6315a6967e5aaa738a81c7a481b4ad4bd1d41a760eb48c3b4ccbf431a3c66ccd09c0fbae19f99a94b05fd18556551cd302 gluon-fftr-0.6.4-ubiquiti-bullet-m-sysupgrade.bin
+ubiquiti-nanostation-m 0.6.4 01599f9618e5a0b487b48d948e5b0ba3e22e16a240a362854c7f40f2f7025e48f98922eaeb8a4a66870a81bb59cf4b3e8ade0559aac22f6b7410e15797a1bbfe gluon-fftr-0.6.4-ubiquiti-nanostation-m-sysupgrade.bin
+ubiquiti-unifi 0.6.4 9460def636a1b6747b1a71fc96c7245454110be5f53d13e4fb3caa522908e877186733e046c23cf5e8165d3f8c48e36293f4f4b504142bfa47e51446bbe90e7a gluon-fftr-0.6.4-ubiquiti-unifi-sysupgrade.bin
+ubiquiti-unifiap-outdoor 0.6.4 45f27dac8c7d17ac81d05be663443805bbe76aab1398609397391181402726c663b56022bf94e52e3ae5351af4f7f16c7810c1b45366c1d8bb35d07faa11a01a gluon-fftr-0.6.4-ubiquiti-unifiap-outdoor-sysupgrade.bin
+d-link-dir-825-rev-b1 0.6.4 d8eecd0c0ee52703643cedbbd1044435f5bd69c0bf1ffdf228e6a813e2fdad7811b792bcc0450f888c4e620c2ca0f415300d95562076c978ff7c224158329364 gluon-fftr-0.6.4-d-link-dir-825-rev-b1-sysupgrade.bin
+linksys-wrt160nl 0.6.4 6736cdba3b41ee318b1f67834d90583a7133c81a71f417e40a02969a8e8abffa1e1da5aafac37293839f20faded3acb6daab1ad5e469d8e75cfc20448aed15af gluon-fftr-0.6.4-linksys-wrt160nl-sysupgrade.bin
+buffalo-wzr-hp-g450h 0.6.4 316c4d446b0a2c2dbc0a74bc6e2c89ff2ceddd7a4994d7e79bf49a88f9503f3cb0b74d80077c1ed2b2bc866aaf991a7e18a14dec649c5b8059d1bd1bf7df586d gluon-fftr-0.6.4-buffalo-wzr-hp-g450h-sysupgrade.bin
+buffalo-wzr-hp-ag300h-wzr-600dhp 0.6.4 9a8b4a127c4d7e290154ea48ed167399513dde207df82d6ac93bff688f14b8772aa64d44fc30f4c42b17d41a8c5d6c9a61fc5bafda404f0f876f701c44257dfc gluon-fftr-0.6.4-buffalo-wzr-hp-ag300h-wzr-600dhp-sysupgrade.bin
+---
+eb7ddad4247db277c641c1d3fe6bc71e5bdda344d91aae9f31bef1d21b111004f4d2da8c490e5ab4679eb7a14595c23b1987d9d976a86c39526e7bb88804eb0e
+8da50a0ced8a8445a8626c15f379e522755dcc191e924beadb1ad8e4264fee006b248dee2ddaf3b6348cc0acdc0260d0fe624f114201935e513b40683b19370d
