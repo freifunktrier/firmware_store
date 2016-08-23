@@ -1,6 +1,6 @@
 BRANCH=stable
-DATE=2016-08-20 17:45:33+02:00
-PRIORITY=3
+DATE=2016-??-?? 17:45:33+02:00
+PRIORITY=14
 
 tp-link-cpe510-v1.0 0.8.1 ea7359b27ccee58b93aa1c59fd2295297651a89307f1be434dfa9a2d7261495dd516db30b1969f96024384097f9ff5ac35d0f564a96c5c79fa477f3f41dde09d gluon-fftr-0.8.1-tp-link-cpe510-v1.0-sysupgrade.bin
 tp-link-cpe210-v1.0 0.8.1 ea7359b27ccee58b93aa1c59fd2295297651a89307f1be434dfa9a2d7261495dd516db30b1969f96024384097f9ff5ac35d0f564a96c5c79fa477f3f41dde09d gluon-fftr-0.8.1-tp-link-cpe210-v1.0-sysupgrade.bin
