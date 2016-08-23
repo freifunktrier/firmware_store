@@ -1,1 +1,1 @@
-Builds for special porpose
+Builds for special purposes.
