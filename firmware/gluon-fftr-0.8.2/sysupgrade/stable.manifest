@@ -70,7 +70,7 @@ tp-link-tl-mr3420-v1 0.8.2 34c4863f4ace1eb31e5fbca1cb2f32272fe5cb05939afa91cc8d8
 tp-link-tl-mr3420-v2 0.8.2 73e1b8694b08c91e242353a4ee7465cfbb0264040ee9ea893adf1ad39b23157ef54a3d430d1d3b1136d5bfa5cee59176d16b1e3710003182081a356b5c3e42c7 gluon-fftr-0.8.2-tp-link-tl-mr3420-v2-sysupgrade.bin
 tp-link-tl-wr2543n-nd-v1 0.8.2 8bcb2c96383bc48a4807be91e5f806d5b660d6778e889a4b08a8e19d84660f858725cbf4994887fea3117ad0b413c622429fdc13844fdc41f3716db5d3ff6ea3 gluon-fftr-0.8.2-tp-link-tl-wr2543n-nd-v1-sysupgrade.bin
 tp-link-archer-c5-v1 0.8.2 e23ada00dd0c54e1d807fa5fe9322a71ae59a39f3ce7c2cf55c7ee6a3641e97d5fc4ea3727555d739b2eaefe3e3c974903f82e7df99cb7a7a86764fa9436fd01 gluon-fftr-0.8.2-tp-link-archer-c5-v1-sysupgrade.bin
-tp-link-archer-c7-v2 0.8.2 5dd564cb859d0548f333f4c36c17744a00bdf7e85435b632f85ef90f89014ce5e6bb66098f7b29e331b49fdba71fa230ac1f0951d3f164d073fc0ad3ff3177f3 gluon-fftr-0.8.2-tp-link-archer-c7-v2-sysupgrade.bin
+tp-link-archer-c7-v2 0.8.2 3d06c6dc87628092f186ff71023ea07107d2f4267147e83dd126850f8d6a6c09ed79285d5982908db79136294a67495673d4c4fc246e6ece7e18f4f5730fe4fe gluon-fftr-0.8.2-tp-link-archer-c7-v2-sysupgrade.bin
 ubiquiti-airgateway 0.8.2 ea6fdb8035e938ad25bd2746646d8d1f07e9ddb6b0523a35f042a52bdd71e1846ff01019b4d04f915a37ffe88869447efb1c70da74e98e77387a2993cbae62d1 gluon-fftr-0.8.2-ubiquiti-airgateway-sysupgrade.bin
 ubiquiti-airrouter 0.8.2 36eea0483504a7f611d6497a44d2bc7e568ad5f9c13f6c2da4164fa8e8b822dfddfb0658a7728da049541cfaf4bf1683e1b5c0b71341e755908eb6eb9de6d9b4 gluon-fftr-0.8.2-ubiquiti-airrouter-sysupgrade.bin
 ubiquiti-bullet-m 0.8.2 898f507d3cf0944ab664dd432a207f817dcf0b8889c7e426a01f841b3cf79d06c1fce36eec792cd80a6b4911a81a1b399fd4010e76573c2e1671f3b65e01c85a gluon-fftr-0.8.2-ubiquiti-bullet-m-sysupgrade.bin
