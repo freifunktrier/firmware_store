@@ -148,6 +148,10 @@ tp-link-tl-mr3420-v2 0.8.5+jenk_tackin b4ac59bac5b0e76b5c4e08e44536fefbab8232e37
 tp-link-tl-mr3420-v2 0.8.5+jenk_tackin cff6cf3746afc101770cfd9210a195ec868eaf052decd5f2c261ac584845545d4afb9f5c1ba883a9214b48ac012427f73f4764afe39a08d50228d63998644b2e gluon-fftr-0.8.5+jenk_tackin-tp-link-tl-mr3420-v2-sysupgrade.bin
 tp-link-tl-wr2543n-nd-v1 0.8.5+jenk_tackin a7553d6582e8249ceec0b375ec0e15972d74165675aa5e1c89d5939b122d37ef gluon-fftr-0.8.5+jenk_tackin-tp-link-tl-wr2543n-nd-v1-sysupgrade.bin
 tp-link-tl-wr2543n-nd-v1 0.8.5+jenk_tackin ffdf1102be96a3193e99ba00f3f650449a36c25927c3fcf268cc7cc5a233fb4b0c64246ea387ac8b695d46fbc2ac62182ab67c7ddad1d8aa89166c3cd26e1236 gluon-fftr-0.8.5+jenk_tackin-tp-link-tl-wr2543n-nd-v1-sysupgrade.bin
+tp-link-archer-c5-v1 0.8.5+jenk_tackin 95a971818f6bb2fdecf09f0c7c8352960a4a51f4e20f6571fa44ce252321bd6d gluon-fftr-0.8.5+jenk_tackin-tp-link-archer-c5-v1-sysupgrade.bin
+tp-link-archer-c5-v1 0.8.5+jenk_tackin 0e8241dad60c4320bfd93f20fb5259ee71f7eb88620d4b29df7e7832ea376dadc7052d973dc434f1fd780102ab78ddf322829dda837fb95a2414cd3e37624455 gluon-fftr-0.8.5+jenk_tackin-tp-link-archer-c5-v1-sysupgrade.bin
+tp-link-archer-c7-v2 0.8.5+jenk_tackin b38ec5c0f79985d27e1157a2c52cecd331397327bb85548b2e2ea7fca6c79e46 gluon-fftr-0.8.5+jenk_tackin-tp-link-archer-c7-v2-sysupgrade.bin
+tp-link-archer-c7-v2 0.8.5+jenk_tackin 4be2ffd32c3fadda62af88dc414c8796081f74de554fbfad8b1ba8c056d905fcd2a4cece4e3ccc30e01105d3e3fec826ede94bcb9619bf5fca3f41df2f330b67 gluon-fftr-0.8.5+jenk_tackin-tp-link-archer-c7-v2-sysupgrade.bin
 ubiquiti-airgateway 0.8.5+jenk_tackin 5b2fb8820ce2d724b4609a9538b974b3901f06015c562a6a2c842f757c730d3f gluon-fftr-0.8.5+jenk_tackin-ubiquiti-airgateway-sysupgrade.bin
 ubiquiti-airgateway 0.8.5+jenk_tackin cc7a02e1977d486856de429e8ccce9123d67abfe63a8a828c281792c1fbdac16924c6eefe4bfe641587dda77305661eea8b8077ac9330c6be30a8d1d9f80bfed gluon-fftr-0.8.5+jenk_tackin-ubiquiti-airgateway-sysupgrade.bin
 ubiquiti-airrouter 0.8.5+jenk_tackin 0eeeb445fb298bb6a2ff6507ecebd4759d2e5479a52446de7dd1f8469965b821 gluon-fftr-0.8.5+jenk_tackin-ubiquiti-airrouter-sysupgrade.bin
@@ -190,6 +194,10 @@ ubiquiti-unifiap-outdoor+ 0.8.5+jenk_tackin e2c5b7b8daec5acc7ea4c6410b1a68ba7a1c
 ubiquiti-unifiap-outdoor+ 0.8.5+jenk_tackin 25efca939d5817625492450c72fc26e6e5959177043524ae95d892c7a028db0ebfd2bbd8165c0685bcfc35aed3c7296e7261a5b41482badcdbb1f61e8a216267 gluon-fftr-0.8.5+jenk_tackin-ubiquiti-unifiap-outdoor+-sysupgrade.bin
 ubiquiti-ls-sr71 0.8.5+jenk_tackin 07865076fce9d57639b49c463522c465f95fa554ae8aa57285f17a9642356b79 gluon-fftr-0.8.5+jenk_tackin-ubiquiti-ls-sr71-sysupgrade.bin
 ubiquiti-ls-sr71 0.8.5+jenk_tackin 168661c4ff7c7f68def4f0d8a7eda04365b2bb59ec75929bf9e24a907ac21beec8227fddbc710dc946db06b578ecb9598b409699de0353ae1d954ce08d49933c gluon-fftr-0.8.5+jenk_tackin-ubiquiti-ls-sr71-sysupgrade.bin
+ubiquiti-unifi-ac-lite 0.8.5+jenk_tackin b5c93d0d52ef1f6371f9bc55c8ffa3e01dbe0773bc15dbf8a80177388eb46064 gluon-fftr-0.8.5+jenk_tackin-ubiquiti-unifi-ac-lite-sysupgrade.bin
+ubiquiti-unifi-ac-lite 0.8.5+jenk_tackin b0c874ac1a9f6b203731c20df6d72db1e8b4bf23c8e25fde99d919186aa6b14c2bdf338f7116802b8cb7ec590e6d6c61d8411a8e915638a6fa0d0123bf82bc7f gluon-fftr-0.8.5+jenk_tackin-ubiquiti-unifi-ac-lite-sysupgrade.bin
+ubiquiti-unifi-ac-pro 0.8.5+jenk_tackin 04aae69dc43bfe359a5c61b1707e1da3d2d91c8fac141a5cb17a5c13df17c3ea gluon-fftr-0.8.5+jenk_tackin-ubiquiti-unifi-ac-pro-sysupgrade.bin
+ubiquiti-unifi-ac-pro 0.8.5+jenk_tackin 65990f415850c70f1debf55dd1d7603b8a25c1c7a263a47bb5bd5dd607bea89e9de299cc14037aaa2bc32df10c19c77f9c10357d03a1d93925dfbb850974316d gluon-fftr-0.8.5+jenk_tackin-ubiquiti-unifi-ac-pro-sysupgrade.bin
 d-link-dir-505-rev-a1 0.8.5+jenk_tackin 2bfc7d50e8d170edb6a19b706b8e29ce329c8a89b2dc45f4e94ee235ddf82eec gluon-fftr-0.8.5+jenk_tackin-d-link-dir-505-rev-a1-sysupgrade.bin
 d-link-dir-505-rev-a1 0.8.5+jenk_tackin e3999141fcfe5f9fcbba4808fc99ee928328a875cfeb408adbfb7d5b0b5bec6a02220f8b6f17aa2aa46e2c2af06caafff11cd174380136dee5a97d8549926cbf gluon-fftr-0.8.5+jenk_tackin-d-link-dir-505-rev-a1-sysupgrade.bin
 d-link-dir-505-rev-a2 0.8.5+jenk_tackin 2bfc7d50e8d170edb6a19b706b8e29ce329c8a89b2dc45f4e94ee235ddf82eec gluon-fftr-0.8.5+jenk_tackin-d-link-dir-505-rev-a2-sysupgrade.bin
@@ -234,6 +242,10 @@ wd-my-net-n750 0.8.5+jenk_tackin 95d31fe612cc2ab10a42c92057eeac741872e744b1ce364
 wd-my-net-n750 0.8.5+jenk_tackin bd7ede9ee19f4ea75cacb104bfd6d819d42d502c6763b71d52c8cf823dfc0d04e347713047c5df976c1d7fc255dbe64251f93154c392d4e5c900f94e7c61fa3b gluon-fftr-0.8.5+jenk_tackin-wd-my-net-n750-sysupgrade.bin
 onion-omega 0.8.5+jenk_tackin 107bebbc70ec682cd33500b7fff3268e03338e8dbe741cf2eb38a964a4f6bd32 gluon-fftr-0.8.5+jenk_tackin-onion-omega-sysupgrade.bin
 onion-omega 0.8.5+jenk_tackin 86fcf75b99466bacf8c5aa257a06db15533b5ef4b80484686bf5b7ec91545ce33e50be4204f0218d8fe955a742dbbfa9e3cbb6ff87129f6bb737e63f83de57c5 gluon-fftr-0.8.5+jenk_tackin-onion-omega-sysupgrade.bin
+openmesh-mr1750 0.8.5+jenk_tackin 573da3445539ac00daaf0f2ad04ec370ac79d0b10285277cb5d053c8f7f0b901 gluon-fftr-0.8.5+jenk_tackin-openmesh-mr1750-sysupgrade.bin
+openmesh-mr1750 0.8.5+jenk_tackin e2fc4e17070b8b82ffaa64160a472273369bfe399cd03e71fb2329b07942df3ce96dee86e521dfc81178e7ae7ba2db32c39bd5e50e60c12fb882dcf92cad68e3 gluon-fftr-0.8.5+jenk_tackin-openmesh-mr1750-sysupgrade.bin
+openmesh-mr1750v2 0.8.5+jenk_tackin 573da3445539ac00daaf0f2ad04ec370ac79d0b10285277cb5d053c8f7f0b901 gluon-fftr-0.8.5+jenk_tackin-openmesh-mr1750v2-sysupgrade.bin
+openmesh-mr1750v2 0.8.5+jenk_tackin e2fc4e17070b8b82ffaa64160a472273369bfe399cd03e71fb2329b07942df3ce96dee86e521dfc81178e7ae7ba2db32c39bd5e50e60c12fb882dcf92cad68e3 gluon-fftr-0.8.5+jenk_tackin-openmesh-mr1750v2-sysupgrade.bin
 openmesh-mr600 0.8.5+jenk_tackin a8a7bab59a466b88bf863f2f5117013958ad22a3cb032e3f3de1530ceaf932dc gluon-fftr-0.8.5+jenk_tackin-openmesh-mr600-sysupgrade.bin
 openmesh-mr600 0.8.5+jenk_tackin 4c7a2202c271859306769311dd1246e8eeea0210ab4b604a5fcc47d83a9ff456c40f3d66f03c53921a4e8d4b787b429c641a525292c34340c136acd7a8828089 gluon-fftr-0.8.5+jenk_tackin-openmesh-mr600-sysupgrade.bin
 openmesh-mr600v2 0.8.5+jenk_tackin a8a7bab59a466b88bf863f2f5117013958ad22a3cb032e3f3de1530ceaf932dc gluon-fftr-0.8.5+jenk_tackin-openmesh-mr600v2-sysupgrade.bin
@@ -258,6 +270,10 @@ openmesh-om5p 0.8.5+jenk_tackin 513cb5344e9698604d8c0b4a4bbdf6256076b8a0668956dc
 openmesh-om5p 0.8.5+jenk_tackin cd311c47af220b8385ca90afb9b041e6edac78569fd8b08969f02449f3a3e0df301276ff7c1fc9bcf02de06cc3acab14dde5011604177fcab4709d9e2747d5be gluon-fftr-0.8.5+jenk_tackin-openmesh-om5p-sysupgrade.bin
 openmesh-om5p-an 0.8.5+jenk_tackin 513cb5344e9698604d8c0b4a4bbdf6256076b8a0668956dc3d17f87ce2dc5957 gluon-fftr-0.8.5+jenk_tackin-openmesh-om5p-an-sysupgrade.bin
 openmesh-om5p-an 0.8.5+jenk_tackin cd311c47af220b8385ca90afb9b041e6edac78569fd8b08969f02449f3a3e0df301276ff7c1fc9bcf02de06cc3acab14dde5011604177fcab4709d9e2747d5be gluon-fftr-0.8.5+jenk_tackin-openmesh-om5p-an-sysupgrade.bin
+openmesh-om5p-ac 0.8.5+jenk_tackin e854dbc7f453e52b5cb6f6a21de5d43ac7ffc4fa4e6753da33dc9d855a446fe9 gluon-fftr-0.8.5+jenk_tackin-openmesh-om5p-ac-sysupgrade.bin
+openmesh-om5p-ac 0.8.5+jenk_tackin 8f34b7b84c7b0dad189c8378730a00aa86d842a7cf3121f1e8ffe31b5c80306947e05ed3bee8778823656d600561840c04fb82927cac738fd7637ec761a56a1a gluon-fftr-0.8.5+jenk_tackin-openmesh-om5p-ac-sysupgrade.bin
+openmesh-om5p-acv2 0.8.5+jenk_tackin e854dbc7f453e52b5cb6f6a21de5d43ac7ffc4fa4e6753da33dc9d855a446fe9 gluon-fftr-0.8.5+jenk_tackin-openmesh-om5p-acv2-sysupgrade.bin
+openmesh-om5p-acv2 0.8.5+jenk_tackin 8f34b7b84c7b0dad189c8378730a00aa86d842a7cf3121f1e8ffe31b5c80306947e05ed3bee8778823656d600561840c04fb82927cac738fd7637ec761a56a1a gluon-fftr-0.8.5+jenk_tackin-openmesh-om5p-acv2-sysupgrade.bin
 alfa-network-hornet-ub 0.8.5+jenk_tackin ffcf2b67c4bac8554ef36c2bf68cfc74d92828a7c852254820bf7fe04f6c862f gluon-fftr-0.8.5+jenk_tackin-alfa-network-hornet-ub-sysupgrade.bin
 alfa-network-hornet-ub 0.8.5+jenk_tackin 790e48acb80f61c82e8b554c9bcf823e3f12e4165ee064adcc65687be9511107ff3aaf67b7b5a3ceb8233bed76114394ad7a82488e18c8fc647f8219a0fd92e4 gluon-fftr-0.8.5+jenk_tackin-alfa-network-hornet-ub-sysupgrade.bin
 alfa-network-ap121 0.8.5+jenk_tackin ffcf2b67c4bac8554ef36c2bf68cfc74d92828a7c852254820bf7fe04f6c862f gluon-fftr-0.8.5+jenk_tackin-alfa-network-ap121-sysupgrade.bin
