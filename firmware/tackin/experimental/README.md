@@ -6,8 +6,8 @@ Dieser Firmwarebuild basiert auf gluon 2016.2.4
 Voreinstellung: autoupdate in "stable" Releases  
 Wer also von dieser Experimental nicht auf dei nächste stable-release updaten möchte, muss im GUI das "autoupdate" deaktivieren.
 
-Infos:  
-Archer C7:  
+## Hinweise
+**Archer C7:**  
 Seltsame Dinge passieren, wenn man das Experimental-Sysupgrade einspielt und die im Router schon vorhandene Konfiguration übernimmt. Ihr müsst in dem Fall damit rechnen, dass der Router nicht mehr ins Freifunk-Netz findet, er keine Clients per LAN oder WLAN annimmt oder er den Client-Traffic einfach nicht weiterleitet.  Es ist also **keine gute Idee** diesen Router "aus der Ferne" mit einem Update zu versorgen! Nach einer sauberen Installation funktioniert mein Router aber perfekt ... na ja fast.  
 Generell ist der Router mit dem neuen ath10k-Chip-Treiber ausgestattet. Die Unterstützung durch Gluon ist dabei derzeit leider nur rudimentär möglich. Meshing im 5GHz funktioniert nicht und ihr könnt neben dem WLAN-Clientnetz hier nur **11s** ODER **ibss** zum Meshen nutzen, aber nicht beides gleichzeitig. Mein Build nutzt ibss wie in unserem Netz derzeit üblich.
 
