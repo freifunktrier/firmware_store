@@ -1,5 +1,5 @@
 BRANCH=stable
-DATE=2017-09-03 12:48:34+02:00
+DATE=2017-09-30 12:48:34+02:00
 PRIORITY=3
 
 tp-link-cpe210-v1.0 0.9.1+tackin 33c17dc562bfa5fb29ae4751f8b08fde9ff90c816a49cf6939d0daa4919bd12d gluon-fftr-0.9.1+tackin-tp-link-cpe210-v1.0-sysupgrade.bin
@@ -296,3 +296,5 @@ x86-64 0.9.1+tackin 199148da255b59a1bab2a8b10a263931c4554e8a4e8c68d307d6c3d653eb
 x86-64 0.9.1+tackin b43d3cdcba0c6bc1bb1478a8f0b70d24eb1e4697f312bf5051ef51de8b455025d0560e6e94976be7741aa385d4dfafb844c03837ae33ff87def72f42d2063219 gluon-fftr-0.9.1+tackin-x86-64-sysupgrade.img.gz
 x86-xen 0.9.1+tackin 94363a34ff73a35bde57a751c151c3fee4f214aab8b0799a018243b69b8b2cb3 gluon-fftr-0.9.1+tackin-x86-xen-sysupgrade.img.gz
 x86-xen 0.9.1+tackin c8e6a852c0c71aed6bbc250abee09103b92152d5e719e451ced667db450c811e762eec3ec2950dd6b877e8dec7d43a0ff2af8c596b82164bf0faf18ba87710d9 gluon-fftr-0.9.1+tackin-x86-xen-sysupgrade.img.gz
+---
+73841a1085a13e86b5247e02045a420d5978e489d1273638e427829f47e1b801f909744bb4ecbcbf421e5be327b971e415a0519578d0d41eb43e74b46b1e5b07
