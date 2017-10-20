@@ -1,5 +1,5 @@
 BRANCH=stable
-DATE=2017-10-11 17:54:08+02:00
+DATE=2017-10-20 17:54:08+02:00
 PRIORITY=2
 
 8devices-carambola2-board 0.10.0+tackin 20e48d83865d8ffdc6aa50d19e0b506dbc14d37190737878901692e17c822390 gluon-fftr-0.10.0+tackin-8devices-carambola2-board-sysupgrade.bin
@@ -330,3 +330,5 @@ x86-geode 0.10.0+tackin 7bb383ae9278b9cd6abebfb2c4f545862981b3760421222e240dc73b
 x86-geode 0.10.0+tackin 93eed09238e1eade79fd65b45d945444beb8e794eb3f06b5576a836882f413befb26d1eb41bb4b52881cde1bb06f1f5a9bd3d003a994180de685e2f1926323c8 gluon-fftr-0.10.0+tackin-x86-geode-sysupgrade.img.gz
 x86-64 0.10.0+tackin 790290863e032785c92300a5256b9bd43288b67c440eeb5fbd3e9d9f2e74527f gluon-fftr-0.10.0+tackin-x86-64-sysupgrade.img.gz
 x86-64 0.10.0+tackin 175f2892f470cb8fe2412f48fb6242d34e677888d14979e7b78fb2e26b0cd9b1dd28590fdebb848dfe91e0ed8d1b34e81a1fe9a6b19d79a886aceee69cf0b35a gluon-fftr-0.10.0+tackin-x86-64-sysupgrade.img.gz
+---
+79c44ed21f8b751d3babdf392b64bb9a8f2a22cd36c41c6347fe2b761b3cb50e08b6c396c874de539b00b6e7f0cae0a70376a16064f6d82d26eaf4c53a8eee04
