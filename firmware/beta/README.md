@@ -13,10 +13,12 @@ So it is no good idea to use "autoupdater -f -b beta" via ssh to update from 0.1
 The more safer way is to use the sysupgrade-function.  
 
 you may instead do:  
+
     cd /tmp  
     wget http://[2001:bf7:fc0f:1::19]/mirror/gluon-fftr-0.11.2+tackin.....sysupgrade.bin
  
 or  
+
     cd /tmp  
     wget http://2.updates.services.fftr/firmware/beta/sysupgrade/gluon-fftr-0.11.2+tackin.....sysupgrade.bin  
 (please add the right file for your node-type and node-version)
