@@ -15,7 +15,7 @@ The more safer way is to use the sysupgrade-function.
 you may instead do:  
 
     cd /tmp  
-    wget http://[2001:bf7:fc0f:1::19]/mirror/gluon-fftr-0.11.2+tackin.....sysupgrade.bin
+    wget http://pegol.tackin.de/firmware/beta/sysupgrade/gluon-fftr-0.11.2+tackin.....sysupgrade.bin
  
 or  
 
