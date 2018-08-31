@@ -27,7 +27,7 @@ or
     sysupgrade gluon-fftr-0.11.2+tackin....sysupgrade.bin  
 
 
-If you still want/need to take the risk, you may try an autoupdate.  I did my best to make it work and tested it on some routers.  
+If you still want/need to take the risk, you may try an autoupdate.  I did my best to make it work and tested it on some routers with no problems.  
 But as the older beta "gluon 0.11.1" also has a minor bug in the "beta.good.signatures", please make sure to first do  
 
     uci set autoupdater.beta.good_signatures='1'  
