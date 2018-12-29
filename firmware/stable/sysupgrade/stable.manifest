@@ -1,353 +1,558 @@
 BRANCH=stable
-DATE=2018-07-18 10:00:00+02:00
+DATE=2018-12-31 12:25:16+01:00
 PRIORITY=2
 
-8devices-carambola2-board 0.10.6+tackin f6e77c0791bd138e772a9cb6e6f7ff65e810dfe9b91a15c746db76f644517bf0 gluon-fftr-0.10.6+tackin-8devices-carambola2-board-sysupgrade.bin
-8devices-carambola2-board 0.10.6+tackin 661c46fe19675239ccdce1cb9564eb9c7a7960220e0eeac47e0a66de51ca2295b6b7437443bab47834a0609b7fa9bfddfb7d5eab9f80a8bdfceeaf15baf07dd2 gluon-fftr-0.10.6+tackin-8devices-carambola2-board-sysupgrade.bin
-alfa-network-hornet-ub 0.10.6+tackin 8b49c0a6b2044a5153aeb7394a5572315c103c9e2104ff62d96f0f659f79cf04 gluon-fftr-0.10.6+tackin-alfa-network-hornet-ub-sysupgrade.bin
-alfa-network-hornet-ub 0.10.6+tackin cb3bbd8398378d8762e33a54f480665a50c5c3810d6f29f962ec508bfbf585ef8f8b9767b80eb138fffe68489b8a32a88ff5649af764124bc5da33df71ab9fc0 gluon-fftr-0.10.6+tackin-alfa-network-hornet-ub-sysupgrade.bin
-alfa-network-ap121 0.10.6+tackin 8b49c0a6b2044a5153aeb7394a5572315c103c9e2104ff62d96f0f659f79cf04 gluon-fftr-0.10.6+tackin-alfa-network-ap121-sysupgrade.bin
-alfa-network-ap121 0.10.6+tackin cb3bbd8398378d8762e33a54f480665a50c5c3810d6f29f962ec508bfbf585ef8f8b9767b80eb138fffe68489b8a32a88ff5649af764124bc5da33df71ab9fc0 gluon-fftr-0.10.6+tackin-alfa-network-ap121-sysupgrade.bin
-alfa-network-ap121u 0.10.6+tackin 8b49c0a6b2044a5153aeb7394a5572315c103c9e2104ff62d96f0f659f79cf04 gluon-fftr-0.10.6+tackin-alfa-network-ap121u-sysupgrade.bin
-alfa-network-ap121u 0.10.6+tackin cb3bbd8398378d8762e33a54f480665a50c5c3810d6f29f962ec508bfbf585ef8f8b9767b80eb138fffe68489b8a32a88ff5649af764124bc5da33df71ab9fc0 gluon-fftr-0.10.6+tackin-alfa-network-ap121u-sysupgrade.bin
-alfa-network-tube2h 0.10.6+tackin 5f692d98374d8b137dc94047e8298429286b1546fac026200b85806e298f94d6 gluon-fftr-0.10.6+tackin-alfa-network-tube2h-sysupgrade.bin
-alfa-network-tube2h 0.10.6+tackin 94d4355bfd81f73aca99f06b6c4f24a9725ab901870ebe09bdb32f56418dc2ff4cdaf6170a55ebed23973c13c8daaa919837e3037fb43aab00d3ad973f1e0326 gluon-fftr-0.10.6+tackin-alfa-network-tube2h-sysupgrade.bin
-alfa-network-n2-n5 0.10.6+tackin d450b308f16daa885eb6cdb34691152ce102231e45e6b23d2ea15b90129a9fa8 gluon-fftr-0.10.6+tackin-alfa-network-n2-n5-sysupgrade.bin
-alfa-network-n2-n5 0.10.6+tackin 379b4ab70754e1310cb8b2b33fb958efeded28de7207ac7d554dc534633033e7c509f34b105c0a775657f12ea78a69067e840fb82bf3f252c86063a5d9fa501f gluon-fftr-0.10.6+tackin-alfa-network-n2-n5-sysupgrade.bin
-allnet-all0315n 0.10.6+tackin 75dee44fcd28f9505934d158ea3e119768d26eec8eec60c700cea54df557d5ea gluon-fftr-0.10.6+tackin-allnet-all0315n-sysupgrade.bin
-allnet-all0315n 0.10.6+tackin eb0bf7094166afb886d1bfa58090382f7f60274a5cea541239ba8ff8541b0a4bcb437d20035cc0ccb5205f7f9fecaae3dddb27663ed997def4c47adc55cb5dab gluon-fftr-0.10.6+tackin-allnet-all0315n-sysupgrade.bin
-buffalo-wzr-hp-g300nh 0.10.6+tackin b4f796f06c0ffe8da515dde7139f251b71169529daf252bf5ce85883f6b7168e gluon-fftr-0.10.6+tackin-buffalo-wzr-hp-g300nh-sysupgrade.bin
-buffalo-wzr-hp-g300nh 0.10.6+tackin 3723aa240e8707445718076511682190d3484ba4df59ee88df9b5bd8a6a47c4051091a068fa21f8f817c84109b4ed0cf29d2133594a8dbfb54157f79352bdd13 gluon-fftr-0.10.6+tackin-buffalo-wzr-hp-g300nh-sysupgrade.bin
-buffalo-wzr-hp-g300nh2 0.10.6+tackin ee3b612cc2c0ac5380596ff201b200af08b17b4237de2b4fe5a2628572214198 gluon-fftr-0.10.6+tackin-buffalo-wzr-hp-g300nh2-sysupgrade.bin
-buffalo-wzr-hp-g300nh2 0.10.6+tackin 10aa00f212e9042190d12e037bd572ef430715a7f467fa4c227ad94bea5af775a024e5ca7d40a28cf98705b2a3bff4082e2d117c2b2d1b5bebdcd1980b137c05 gluon-fftr-0.10.6+tackin-buffalo-wzr-hp-g300nh2-sysupgrade.bin
-buffalo-wzr-hp-g450h 0.10.6+tackin dde78d32f7a61ae7dc3ec435cee1f70c209c36949694d0f56a85c5453a886c64 gluon-fftr-0.10.6+tackin-buffalo-wzr-hp-g450h-sysupgrade.bin
-buffalo-wzr-hp-g450h 0.10.6+tackin df142441b01ac200f19637ecd3a48a56e1984359f9f6b8dde963f40eb48a454bd148d8598a87fc995fa8868a18a235a147885da873e3ab80913298f624e10feb gluon-fftr-0.10.6+tackin-buffalo-wzr-hp-g450h-sysupgrade.bin
-buffalo-wzr-hp-ag300h-wzr-600dhp 0.10.6+tackin b50a12abe11295da030119a71fbb3644306e7a0e4b2606a5e4a6500d48b021d1 gluon-fftr-0.10.6+tackin-buffalo-wzr-hp-ag300h-wzr-600dhp-sysupgrade.bin
-buffalo-wzr-hp-ag300h-wzr-600dhp 0.10.6+tackin 2c6cb3dc1c2fbe778202a2cb0515d495a8e30431fa13c3594f7f8e17d47c6bef00014edbc871a9b4b11ca012299dd656cde85f0d3cbb2cce9b76e31e1f80ed14 gluon-fftr-0.10.6+tackin-buffalo-wzr-hp-ag300h-wzr-600dhp-sysupgrade.bin
-d-link-dir-505-rev-a1 0.10.6+tackin ccdb4d4e21df37f1e435a14e772f13685e4fab074dc12907176267180bbdc1d0 gluon-fftr-0.10.6+tackin-d-link-dir-505-rev-a1-sysupgrade.bin
-d-link-dir-505-rev-a1 0.10.6+tackin 12845d726747a92d67c022dfdb1eac46bbe3b71c5e1fb663063644fc54d0d86725184c12dfe7a9f8e1a3873bbf85b6036b1ad35407a6932ead6ce95d55453766 gluon-fftr-0.10.6+tackin-d-link-dir-505-rev-a1-sysupgrade.bin
-d-link-dir-505-rev-a2 0.10.6+tackin ccdb4d4e21df37f1e435a14e772f13685e4fab074dc12907176267180bbdc1d0 gluon-fftr-0.10.6+tackin-d-link-dir-505-rev-a2-sysupgrade.bin
-d-link-dir-505-rev-a2 0.10.6+tackin 12845d726747a92d67c022dfdb1eac46bbe3b71c5e1fb663063644fc54d0d86725184c12dfe7a9f8e1a3873bbf85b6036b1ad35407a6932ead6ce95d55453766 gluon-fftr-0.10.6+tackin-d-link-dir-505-rev-a2-sysupgrade.bin
-d-link-dir-825-rev-b1 0.10.6+tackin ba982815d30652559d113e2a2966711a5548d8fdc633aa11c5a87af737ac00e1 gluon-fftr-0.10.6+tackin-d-link-dir-825-rev-b1-sysupgrade.bin
-d-link-dir-825-rev-b1 0.10.6+tackin 0045d3219480e979745963e74cccf4d5c754b5d3ef4ed5296d80395da27aaaab1b6ef28831b5ec520261ee71b008927e911b4f705142f7145d94b773ba742bf1 gluon-fftr-0.10.6+tackin-d-link-dir-825-rev-b1-sysupgrade.bin
-gl-inet-6408a-v1 0.10.6+tackin 3981953b584ab9f8b78033ad7de555c146c97b699a8e9562e6fd1d17ef164ccd gluon-fftr-0.10.6+tackin-gl-inet-6408a-v1-sysupgrade.bin
-gl-inet-6408a-v1 0.10.6+tackin 3e31782cbf1b93c6fd989815056391c3b84ab4eb14c6e8d659d6b66ec6ce5d1b49ef731f83badaf5be209525a9150800bc50ab2ebea8f35aa64799b68acde935 gluon-fftr-0.10.6+tackin-gl-inet-6408a-v1-sysupgrade.bin
-gl-inet-6416a-v1 0.10.6+tackin 7cd31ef7f0da38def30d3cafefa11c706c6806e3023a7136736fc23afb585a51 gluon-fftr-0.10.6+tackin-gl-inet-6416a-v1-sysupgrade.bin
-gl-inet-6416a-v1 0.10.6+tackin 52561159c28c8f582d27e15bc1f75be4637dd1ccaaf7ca6a4942949523234139d9000d999cf674655e524d7e49bd43a71b9a08933e7b91aa709bc9c796399f5a gluon-fftr-0.10.6+tackin-gl-inet-6416a-v1-sysupgrade.bin
-gl-ar150 0.10.6+tackin 7d63db6f6ea2fabe885603c8babd75156dd40f6d09f5eaae3eb8878b55bb1a1c gluon-fftr-0.10.6+tackin-gl-ar150-sysupgrade.bin
-gl-ar150 0.10.6+tackin 487b28fb789e46f77c3eff08e4a8ab5d81a49833cc7c0415eb8b1b385ce7d25878a617e3af21553cfe4dffc375bc685dedece7e73f61d1de6919a174d911e85a gluon-fftr-0.10.6+tackin-gl-ar150-sysupgrade.bin
-gl-ar300m 0.10.6+tackin 60dafe41c00975dac4eb578b7ebd41f84264715449b72d190d186325f37271b5 gluon-fftr-0.10.6+tackin-gl-ar300m-sysupgrade.bin
-gl-ar300m 0.10.6+tackin 745bd770ac7aa9b66b8b8e5a982f1237e592747298303ea86cf7de0f1ca83119f0d796c9438a9b9d161826c756005df85150f3d823f51e4a2a6c96d79668f16c gluon-fftr-0.10.6+tackin-gl-ar300m-sysupgrade.bin
-gl-ar750 0.10.6+tackin 2c6ca6619adf84f54a393cfb8eafb98adf1d9d1d0670296a76716205011139e5 gluon-fftr-0.10.6+tackin-gl-ar750-sysupgrade.bin
-gl-ar750 0.10.6+tackin 9fa298602bbf329a9fd99fa1b8d304ff5b313f6236f1c8622243399ffa5945c2eb315751877b48b66850a397960c575c033532c74eca68298379624af6f2c6c3 gluon-fftr-0.10.6+tackin-gl-ar750-sysupgrade.bin
-linksys-wrt160nl 0.10.6+tackin 2d9a22af17db48656bad7fba36d2cc313bf4fd7ee657f1fbdc9a4d416e379773 gluon-fftr-0.10.6+tackin-linksys-wrt160nl-sysupgrade.bin
-linksys-wrt160nl 0.10.6+tackin ad3f8e14f833d37126405c00634719d881727c1341264609e1142ea98dbf1f688299d0486c2d355cb7d2fcfa7bc902bb0306859a431641a93ac03613f1f9fec1 gluon-fftr-0.10.6+tackin-linksys-wrt160nl-sysupgrade.bin
-netgear-wndr3700 0.10.6+tackin e126bc1d13e326519d3341ddd6ce8cb937e357b23a23bb8dc325801c6054f388 gluon-fftr-0.10.6+tackin-netgear-wndr3700-sysupgrade.bin
-netgear-wndr3700 0.10.6+tackin e188728efca26bf597e4a418bd7fa7ed045a1137ac18f56edab12e6d3b74447253e820ad9c360d7a32a2a58e800292a831513221eb819b6f5ed9f9690c20267a gluon-fftr-0.10.6+tackin-netgear-wndr3700-sysupgrade.bin
-netgear-wndr3700v2 0.10.6+tackin 1ebbeabcdedfd2f81fd45edcf25dd4f9e5b458c0b95408a2b5829426c6dc2edb gluon-fftr-0.10.6+tackin-netgear-wndr3700v2-sysupgrade.bin
-netgear-wndr3700v2 0.10.6+tackin a9e53f8c017734ebb0b5aab8f1574222697f0765bc2c1766133ccd6ee762aa5fbe8e36ba85471ace3d66145c096f7c00425c1ac597121a2a5aace29afe3e83bf gluon-fftr-0.10.6+tackin-netgear-wndr3700v2-sysupgrade.bin
-netgear-wndr3800 0.10.6+tackin 1ebbeabcdedfd2f81fd45edcf25dd4f9e5b458c0b95408a2b5829426c6dc2edb gluon-fftr-0.10.6+tackin-netgear-wndr3800-sysupgrade.bin
-netgear-wndr3800 0.10.6+tackin a9e53f8c017734ebb0b5aab8f1574222697f0765bc2c1766133ccd6ee762aa5fbe8e36ba85471ace3d66145c096f7c00425c1ac597121a2a5aace29afe3e83bf gluon-fftr-0.10.6+tackin-netgear-wndr3800-sysupgrade.bin
-netgear-wndrmacv2 0.10.6+tackin 1ebbeabcdedfd2f81fd45edcf25dd4f9e5b458c0b95408a2b5829426c6dc2edb gluon-fftr-0.10.6+tackin-netgear-wndrmacv2-sysupgrade.bin
-netgear-wndrmacv2 0.10.6+tackin a9e53f8c017734ebb0b5aab8f1574222697f0765bc2c1766133ccd6ee762aa5fbe8e36ba85471ace3d66145c096f7c00425c1ac597121a2a5aace29afe3e83bf gluon-fftr-0.10.6+tackin-netgear-wndrmacv2-sysupgrade.bin
-onion-omega 0.10.6+tackin bd95aac658c2ada403b7e03fa2ee50903d8ec3fd6f30d771f79e22d57395e33f gluon-fftr-0.10.6+tackin-onion-omega-sysupgrade.bin
-onion-omega 0.10.6+tackin 150d32ef639f760c9db8a8f7dc130625312c6a61e7fbc1a6c55cae46e60e8f333163a6a04a7c5c568977bb84639a020af58d2e77389167fbccd4f3f4a2afa517 gluon-fftr-0.10.6+tackin-onion-omega-sysupgrade.bin
-openmesh-mr1750 0.10.6+tackin 8d905c23ff8165196397e1cc59929a9b92a61c7c2b8f70f13bd42275740661cb gluon-fftr-0.10.6+tackin-openmesh-mr1750-sysupgrade.bin
-openmesh-mr1750 0.10.6+tackin ae2da225a825482f291937f44d70d68e94f88741ea4ea81aada42720782fb5ea56a9d60c083fc00cfbc299f8194b4f48186bc45e3e73f4b250c3337116a65455 gluon-fftr-0.10.6+tackin-openmesh-mr1750-sysupgrade.bin
-openmesh-mr1750v2 0.10.6+tackin 8d905c23ff8165196397e1cc59929a9b92a61c7c2b8f70f13bd42275740661cb gluon-fftr-0.10.6+tackin-openmesh-mr1750v2-sysupgrade.bin
-openmesh-mr1750v2 0.10.6+tackin ae2da225a825482f291937f44d70d68e94f88741ea4ea81aada42720782fb5ea56a9d60c083fc00cfbc299f8194b4f48186bc45e3e73f4b250c3337116a65455 gluon-fftr-0.10.6+tackin-openmesh-mr1750v2-sysupgrade.bin
-openmesh-mr600 0.10.6+tackin 711e8e5e34c1e41ceafe035f68e46e72234b4cae1f4777adb5e201f9fe26c6ab gluon-fftr-0.10.6+tackin-openmesh-mr600-sysupgrade.bin
-openmesh-mr600 0.10.6+tackin 4161c19b206a7b95f0935cd886e367a781a55dde92489f57551378e962ac374a413beab3e61c51a518c42da2026768948be4095b99e30ba75d1c0b753b06fbc6 gluon-fftr-0.10.6+tackin-openmesh-mr600-sysupgrade.bin
-openmesh-mr600v2 0.10.6+tackin 711e8e5e34c1e41ceafe035f68e46e72234b4cae1f4777adb5e201f9fe26c6ab gluon-fftr-0.10.6+tackin-openmesh-mr600v2-sysupgrade.bin
-openmesh-mr600v2 0.10.6+tackin 4161c19b206a7b95f0935cd886e367a781a55dde92489f57551378e962ac374a413beab3e61c51a518c42da2026768948be4095b99e30ba75d1c0b753b06fbc6 gluon-fftr-0.10.6+tackin-openmesh-mr600v2-sysupgrade.bin
-openmesh-mr900 0.10.6+tackin 8f4441bcae9d75512062fd688a89139f3d061e3cc6b95ad40f7b88932576df5a gluon-fftr-0.10.6+tackin-openmesh-mr900-sysupgrade.bin
-openmesh-mr900 0.10.6+tackin a04be8fac41ea9c3aee8b16b16694c2ac6500146a5ea19cf52aaa21a393e18e8a19625771f3bf760ae562c1bcfb0a24fe7df9f1c2004c2122e61ffbeb1070160 gluon-fftr-0.10.6+tackin-openmesh-mr900-sysupgrade.bin
-openmesh-mr900v2 0.10.6+tackin 8f4441bcae9d75512062fd688a89139f3d061e3cc6b95ad40f7b88932576df5a gluon-fftr-0.10.6+tackin-openmesh-mr900v2-sysupgrade.bin
-openmesh-mr900v2 0.10.6+tackin a04be8fac41ea9c3aee8b16b16694c2ac6500146a5ea19cf52aaa21a393e18e8a19625771f3bf760ae562c1bcfb0a24fe7df9f1c2004c2122e61ffbeb1070160 gluon-fftr-0.10.6+tackin-openmesh-mr900v2-sysupgrade.bin
-openmesh-om2p 0.10.6+tackin c1c1c031d417b781b2b1a824b5b0eb9491690f04bdad9fab93f8544f6bf2ced4 gluon-fftr-0.10.6+tackin-openmesh-om2p-sysupgrade.bin
-openmesh-om2p 0.10.6+tackin 599e370c54e4252daee676bd6f64a4b7e17a36598b072b422aad4685a1415fa2ec3195f98b776ebfe5b984a52fb6227690d5e92cb75e0f763ff40bc70bf786f1 gluon-fftr-0.10.6+tackin-openmesh-om2p-sysupgrade.bin
-openmesh-om2pv2 0.10.6+tackin c1c1c031d417b781b2b1a824b5b0eb9491690f04bdad9fab93f8544f6bf2ced4 gluon-fftr-0.10.6+tackin-openmesh-om2pv2-sysupgrade.bin
-openmesh-om2pv2 0.10.6+tackin 599e370c54e4252daee676bd6f64a4b7e17a36598b072b422aad4685a1415fa2ec3195f98b776ebfe5b984a52fb6227690d5e92cb75e0f763ff40bc70bf786f1 gluon-fftr-0.10.6+tackin-openmesh-om2pv2-sysupgrade.bin
-openmesh-om2p-hs 0.10.6+tackin c1c1c031d417b781b2b1a824b5b0eb9491690f04bdad9fab93f8544f6bf2ced4 gluon-fftr-0.10.6+tackin-openmesh-om2p-hs-sysupgrade.bin
-openmesh-om2p-hs 0.10.6+tackin 599e370c54e4252daee676bd6f64a4b7e17a36598b072b422aad4685a1415fa2ec3195f98b776ebfe5b984a52fb6227690d5e92cb75e0f763ff40bc70bf786f1 gluon-fftr-0.10.6+tackin-openmesh-om2p-hs-sysupgrade.bin
-openmesh-om2p-hsv2 0.10.6+tackin c1c1c031d417b781b2b1a824b5b0eb9491690f04bdad9fab93f8544f6bf2ced4 gluon-fftr-0.10.6+tackin-openmesh-om2p-hsv2-sysupgrade.bin
-openmesh-om2p-hsv2 0.10.6+tackin 599e370c54e4252daee676bd6f64a4b7e17a36598b072b422aad4685a1415fa2ec3195f98b776ebfe5b984a52fb6227690d5e92cb75e0f763ff40bc70bf786f1 gluon-fftr-0.10.6+tackin-openmesh-om2p-hsv2-sysupgrade.bin
-openmesh-om2p-hsv3 0.10.6+tackin c1c1c031d417b781b2b1a824b5b0eb9491690f04bdad9fab93f8544f6bf2ced4 gluon-fftr-0.10.6+tackin-openmesh-om2p-hsv3-sysupgrade.bin
-openmesh-om2p-hsv3 0.10.6+tackin 599e370c54e4252daee676bd6f64a4b7e17a36598b072b422aad4685a1415fa2ec3195f98b776ebfe5b984a52fb6227690d5e92cb75e0f763ff40bc70bf786f1 gluon-fftr-0.10.6+tackin-openmesh-om2p-hsv3-sysupgrade.bin
-openmesh-om2p-lc 0.10.6+tackin c1c1c031d417b781b2b1a824b5b0eb9491690f04bdad9fab93f8544f6bf2ced4 gluon-fftr-0.10.6+tackin-openmesh-om2p-lc-sysupgrade.bin
-openmesh-om2p-lc 0.10.6+tackin 599e370c54e4252daee676bd6f64a4b7e17a36598b072b422aad4685a1415fa2ec3195f98b776ebfe5b984a52fb6227690d5e92cb75e0f763ff40bc70bf786f1 gluon-fftr-0.10.6+tackin-openmesh-om2p-lc-sysupgrade.bin
-openmesh-om5p 0.10.6+tackin ea3428662ef9ab12e218d4cec3a23b2a1a878cdac78adbf1b586f11d71cccf75 gluon-fftr-0.10.6+tackin-openmesh-om5p-sysupgrade.bin
-openmesh-om5p 0.10.6+tackin 62c2570b1add42df01627d74f4439cfe1017f6c86d4a217bad02fc1d7d0f01e386fb2894a2b09721da6265c6501e4f2802e9da05af96e18ec814c06c2722fff9 gluon-fftr-0.10.6+tackin-openmesh-om5p-sysupgrade.bin
-openmesh-om5p-an 0.10.6+tackin ea3428662ef9ab12e218d4cec3a23b2a1a878cdac78adbf1b586f11d71cccf75 gluon-fftr-0.10.6+tackin-openmesh-om5p-an-sysupgrade.bin
-openmesh-om5p-an 0.10.6+tackin 62c2570b1add42df01627d74f4439cfe1017f6c86d4a217bad02fc1d7d0f01e386fb2894a2b09721da6265c6501e4f2802e9da05af96e18ec814c06c2722fff9 gluon-fftr-0.10.6+tackin-openmesh-om5p-an-sysupgrade.bin
-openmesh-om5p-ac 0.10.6+tackin 8088b698ceb28cb9608b3838087500b054505c00fae6de0ed5ce51c1e7659bdf gluon-fftr-0.10.6+tackin-openmesh-om5p-ac-sysupgrade.bin
-openmesh-om5p-ac 0.10.6+tackin 907f5ea94d7439be3573795fc08c96fccc35a166663d177515650f990fbbb96c326b6f5470014e27a436bffc02fcd819bf96be78ec15a3c277b2445ca1391ce7 gluon-fftr-0.10.6+tackin-openmesh-om5p-ac-sysupgrade.bin
-openmesh-om5p-acv2 0.10.6+tackin 8088b698ceb28cb9608b3838087500b054505c00fae6de0ed5ce51c1e7659bdf gluon-fftr-0.10.6+tackin-openmesh-om5p-acv2-sysupgrade.bin
-openmesh-om5p-acv2 0.10.6+tackin 907f5ea94d7439be3573795fc08c96fccc35a166663d177515650f990fbbb96c326b6f5470014e27a436bffc02fcd819bf96be78ec15a3c277b2445ca1391ce7 gluon-fftr-0.10.6+tackin-openmesh-om5p-acv2-sysupgrade.bin
-tp-link-cpe210-v1.0 0.10.6+tackin 7db05cf42ed1ccb05d52a69935e4ed91a705604dd898d4aa1597764def5712f9 gluon-fftr-0.10.6+tackin-tp-link-cpe210-v1.0-sysupgrade.bin
-tp-link-cpe210-v1.0 0.10.6+tackin 58ce8ad1d9377b7146bbfa1a4c585fd541608726573364825267f8b511a69d8d5f455a2ed6e368946625564563896fd953cf89085e5d41103b58b362fd798fe9 gluon-fftr-0.10.6+tackin-tp-link-cpe210-v1.0-sysupgrade.bin
-tp-link-cpe210-v1.1 0.10.6+tackin 7db05cf42ed1ccb05d52a69935e4ed91a705604dd898d4aa1597764def5712f9 gluon-fftr-0.10.6+tackin-tp-link-cpe210-v1.1-sysupgrade.bin
-tp-link-cpe210-v1.1 0.10.6+tackin 58ce8ad1d9377b7146bbfa1a4c585fd541608726573364825267f8b511a69d8d5f455a2ed6e368946625564563896fd953cf89085e5d41103b58b362fd798fe9 gluon-fftr-0.10.6+tackin-tp-link-cpe210-v1.1-sysupgrade.bin
-tp-link-cpe220-v1.1 0.10.6+tackin 7db05cf42ed1ccb05d52a69935e4ed91a705604dd898d4aa1597764def5712f9 gluon-fftr-0.10.6+tackin-tp-link-cpe220-v1.1-sysupgrade.bin
-tp-link-cpe220-v1.1 0.10.6+tackin 58ce8ad1d9377b7146bbfa1a4c585fd541608726573364825267f8b511a69d8d5f455a2ed6e368946625564563896fd953cf89085e5d41103b58b362fd798fe9 gluon-fftr-0.10.6+tackin-tp-link-cpe220-v1.1-sysupgrade.bin
-tp-link-cpe510-v1.0 0.10.6+tackin 384ba6233e2e168adbef7a33b3b6443d87529a86f3b4d70c0a15b801f12d7ebc gluon-fftr-0.10.6+tackin-tp-link-cpe510-v1.0-sysupgrade.bin
-tp-link-cpe510-v1.0 0.10.6+tackin 587eee521b055a4302632043de521cf32ac5b566c373d4536a9a036082f3bd8adbef9ccf02a310c3b4ad3609850707a23dce54e5f297fe67c428e71eb7510d31 gluon-fftr-0.10.6+tackin-tp-link-cpe510-v1.0-sysupgrade.bin
-tp-link-cpe510-v1.1 0.10.6+tackin 384ba6233e2e168adbef7a33b3b6443d87529a86f3b4d70c0a15b801f12d7ebc gluon-fftr-0.10.6+tackin-tp-link-cpe510-v1.1-sysupgrade.bin
-tp-link-cpe510-v1.1 0.10.6+tackin 587eee521b055a4302632043de521cf32ac5b566c373d4536a9a036082f3bd8adbef9ccf02a310c3b4ad3609850707a23dce54e5f297fe67c428e71eb7510d31 gluon-fftr-0.10.6+tackin-tp-link-cpe510-v1.1-sysupgrade.bin
-tp-link-cpe520-v1.1 0.10.6+tackin 384ba6233e2e168adbef7a33b3b6443d87529a86f3b4d70c0a15b801f12d7ebc gluon-fftr-0.10.6+tackin-tp-link-cpe520-v1.1-sysupgrade.bin
-tp-link-cpe520-v1.1 0.10.6+tackin 587eee521b055a4302632043de521cf32ac5b566c373d4536a9a036082f3bd8adbef9ccf02a310c3b4ad3609850707a23dce54e5f297fe67c428e71eb7510d31 gluon-fftr-0.10.6+tackin-tp-link-cpe520-v1.1-sysupgrade.bin
-tp-link-wbs210-v1.20 0.10.6+tackin 191dc6ee171e3d5b64ead084423a5df19ef9174dc204bbde4d0dbcb02e8044b8 gluon-fftr-0.10.6+tackin-tp-link-wbs210-v1.20-sysupgrade.bin
-tp-link-wbs210-v1.20 0.10.6+tackin 45482be96e204604cd03309518da66e48149d35e83c1ae7696bc1642ffe3b912478778f5488ad660b9e5d5b90a6c2418fa03a63f15907a7198ccf06c3a62f586 gluon-fftr-0.10.6+tackin-tp-link-wbs210-v1.20-sysupgrade.bin
-tp-link-wbs510-v1.20 0.10.6+tackin 453e1ed7f961a98d0b55d77586d1a96910d68a6b26075e13547544fec995d36b gluon-fftr-0.10.6+tackin-tp-link-wbs510-v1.20-sysupgrade.bin
-tp-link-wbs510-v1.20 0.10.6+tackin e028461936a670be7eb2e8107527322b3e2ba6bdea1e857a60e548b86ec8933019d9ecee8da9f339d167fef58667517e67c279af30df088c135624aeda294f57 gluon-fftr-0.10.6+tackin-tp-link-wbs510-v1.20-sysupgrade.bin
-tp-link-tl-wr710n-v1 0.10.6+tackin 11076775a009ffd43088d83e4ff5a9010970f965c479817f81059c0ce91b9d79 gluon-fftr-0.10.6+tackin-tp-link-tl-wr710n-v1-sysupgrade.bin
-tp-link-tl-wr710n-v1 0.10.6+tackin 3d0b436915f201a8d01419837133286160822ec645ab9df633fb03a0ac5659234a9ebd6f1683d604615fe73f9ffdf62cd4b3c037539d8f5412d7b2a90c4e8dca gluon-fftr-0.10.6+tackin-tp-link-tl-wr710n-v1-sysupgrade.bin
-tp-link-tl-wr710n-v2.1 0.10.6+tackin a8c14c4875b55db73b7c307d77cd2e354f83bc12ee68bd13923ba77c3518f2e6 gluon-fftr-0.10.6+tackin-tp-link-tl-wr710n-v2.1-sysupgrade.bin
-tp-link-tl-wr710n-v2.1 0.10.6+tackin 85d58067ee688fe4a11c17e81783555cd9ea7791041e8b5f764ff4c47e2f79baa9bfdc4a024f4f5feacb2b9d33b7d9f681c571f1a29651413a2debcb77d65762 gluon-fftr-0.10.6+tackin-tp-link-tl-wr710n-v2.1-sysupgrade.bin
-tp-link-tl-wr842n-nd-v1 0.10.6+tackin 8e7e150061d4cfc557341211ad1331b6342bba58dcec2865f336419c29b0c4dd gluon-fftr-0.10.6+tackin-tp-link-tl-wr842n-nd-v1-sysupgrade.bin
-tp-link-tl-wr842n-nd-v1 0.10.6+tackin fa82500d38805c1fd115ac52d930db5cb043bef1ded5f92e7bb6953de49607b77c278b021396b16d40609f3300474478580de57d55d7a49062525a1caa89bae1 gluon-fftr-0.10.6+tackin-tp-link-tl-wr842n-nd-v1-sysupgrade.bin
-tp-link-tl-wr842n-nd-v2 0.10.6+tackin 9a8ab205a0f11b211b474f8948c452f199a32adead6b8497108480ac40a80cfd gluon-fftr-0.10.6+tackin-tp-link-tl-wr842n-nd-v2-sysupgrade.bin
-tp-link-tl-wr842n-nd-v2 0.10.6+tackin 62a2294f9929bc1c58acc0e6a4ca4eda6f32444d93a59b280caceec57949ce24ea5ad14125a75cc0837c23bbc291de1ae3e447ee058f8f8d0e229cf8025519ff gluon-fftr-0.10.6+tackin-tp-link-tl-wr842n-nd-v2-sysupgrade.bin
-tp-link-tl-wr842n-nd-v3 0.10.6+tackin 403f154c32c2c34d2b027b2ebc4a1b508f88a8a80306118ef91f8bfd56b4e801 gluon-fftr-0.10.6+tackin-tp-link-tl-wr842n-nd-v3-sysupgrade.bin
-tp-link-tl-wr842n-nd-v3 0.10.6+tackin 21870eeb28c31283c7ca38fa8d23d9d9bf45b1751a84711c0c9b7882fb17a3b37e649fbc963a1add634404958ef744c9d376219a5fe581d7d025a7c0653dc290 gluon-fftr-0.10.6+tackin-tp-link-tl-wr842n-nd-v3-sysupgrade.bin
-tp-link-tl-wr1043n-nd-v1 0.10.6+tackin 0085f01e3776b243d38de6f4f50a21e9736479db73e602d65df153bacf8ddfa5 gluon-fftr-0.10.6+tackin-tp-link-tl-wr1043n-nd-v1-sysupgrade.bin
-tp-link-tl-wr1043n-nd-v1 0.10.6+tackin f0cb75858aa78a40c9eaae4496eb9b97d03732d67cc322094d57a2d116173e5e2befdefce8b73bb6ff6084de60015e033192db0df1cbec79a9dcf2fdbefc0f2e gluon-fftr-0.10.6+tackin-tp-link-tl-wr1043n-nd-v1-sysupgrade.bin
-tp-link-tl-wr1043n-nd-v2 0.10.6+tackin 31045b576068306053a84ed7710eefc787d6c6bc4930f53fe56825a0f0f29bc7 gluon-fftr-0.10.6+tackin-tp-link-tl-wr1043n-nd-v2-sysupgrade.bin
-tp-link-tl-wr1043n-nd-v2 0.10.6+tackin 0f808fcf798a2389950fcd01aa5c71fe478c026b30e00076cbfd3546b8718cf8b9ee591b108c72aa547b81b4d1cb3cafdd475a7541e43cfeea31126badfdd425 gluon-fftr-0.10.6+tackin-tp-link-tl-wr1043n-nd-v2-sysupgrade.bin
-tp-link-tl-wr1043n-nd-v3 0.10.6+tackin a0a51aae9884d825f4cc49fbfa6173a08a3ec1582bff0effe55fa859aa383d02 gluon-fftr-0.10.6+tackin-tp-link-tl-wr1043n-nd-v3-sysupgrade.bin
-tp-link-tl-wr1043n-nd-v3 0.10.6+tackin 5634ea2ea12961ae653faf33b78959ccc717b62a872c3e70184c4d9abef71f7622c46b491bc2602224fa3e833b73afa61d46352923f443e6f5e8dce00f39a52e gluon-fftr-0.10.6+tackin-tp-link-tl-wr1043n-nd-v3-sysupgrade.bin
-tp-link-tl-wr1043n-nd-v4 0.10.6+tackin 78a79d8c44bd3f0fbf475b5c1cd3a97e60c254ae6fbf2a491dbcb667e5b09599 gluon-fftr-0.10.6+tackin-tp-link-tl-wr1043n-nd-v4-sysupgrade.bin
-tp-link-tl-wr1043n-nd-v4 0.10.6+tackin f01ba931b94335e4c27ca2d003eee49d514fcdd61129a3ead837f17fc7c94722bf7cd67fcaab93a4dec6b2fa6e0b19e6520405587433cc1cc42e14380d852cc8 gluon-fftr-0.10.6+tackin-tp-link-tl-wr1043n-nd-v4-sysupgrade.bin
-tp-link-tl-wr1043n-v5 0.10.6+tackin 08f4bf880eb3e641c3578e507b5b1da3390d1d1a76b004e6827d35f4c0c164d1 gluon-fftr-0.10.6+tackin-tp-link-tl-wr1043n-v5-sysupgrade.bin
-tp-link-tl-wr1043n-v5 0.10.6+tackin 878e1f96e2b06fdd25d92032ed1c485b254023bfc18e68f208f5afa4a1d45877cf52ff36da6f5813d75349cdf6426f477492068f9bf334f50bbd3b817e15df00 gluon-fftr-0.10.6+tackin-tp-link-tl-wr1043n-v5-sysupgrade.bin
-tp-link-tl-wdr3500-v1 0.10.6+tackin 9860d1691bf8b390f2425dc69b85e5f12b421fd023bb65ce0f105d1ba0138f95 gluon-fftr-0.10.6+tackin-tp-link-tl-wdr3500-v1-sysupgrade.bin
-tp-link-tl-wdr3500-v1 0.10.6+tackin 827889a91c36853b9445a746f665b8886e53481f3ca66b6617509bde2c1752d48d9d954363d21a966b6368f49b87c81d05ce699ef0ce02a72d4a1871b2ad6cce gluon-fftr-0.10.6+tackin-tp-link-tl-wdr3500-v1-sysupgrade.bin
-tp-link-tl-wdr3600-v1 0.10.6+tackin d37762debc51ad13eb28a5f5128569780d83583c9c296dfa6e443107ee8a9cec gluon-fftr-0.10.6+tackin-tp-link-tl-wdr3600-v1-sysupgrade.bin
-tp-link-tl-wdr3600-v1 0.10.6+tackin 1269eaf61bea72c1da3cb5100433d797e2059d29225e7074c160cab8afd5c0baa86cd6626f95a4abbf7f86d9e85c869a7a92acdfa0ab7196efde492e46e6ba51 gluon-fftr-0.10.6+tackin-tp-link-tl-wdr3600-v1-sysupgrade.bin
-tp-link-tl-wdr4300-v1 0.10.6+tackin 8561773068e203aa704d8b724f6c66736076ebbb922c9d6e19f70b453b5a3638 gluon-fftr-0.10.6+tackin-tp-link-tl-wdr4300-v1-sysupgrade.bin
-tp-link-tl-wdr4300-v1 0.10.6+tackin 11da951d6318e30f42a00626862ed9e528091cb03b739a5e29dedf803abc56abc463826af4bead16e68181095a24fe45141ef11ec290795d50cc4840fd8b1bb6 gluon-fftr-0.10.6+tackin-tp-link-tl-wdr4300-v1-sysupgrade.bin
-tp-link-tl-wr2543n-nd-v1 0.10.6+tackin 67088fcc235b1e63618fd090e94660542ab552313e66249f881bc0ec2d11b4e6 gluon-fftr-0.10.6+tackin-tp-link-tl-wr2543n-nd-v1-sysupgrade.bin
-tp-link-tl-wr2543n-nd-v1 0.10.6+tackin 649100103965b650512310c920a6588e80aa24c18109e0c97429f9cea17c1844004868fda84f0edee87d23f7b6343c1c8c564b8220b2f79ade905350acd369b4 gluon-fftr-0.10.6+tackin-tp-link-tl-wr2543n-nd-v1-sysupgrade.bin
-tp-link-archer-c5-v1 0.10.6+tackin 5915833e91ab802c09b9ddb860928c180bbfd49a399e6f363e47cc0de7428d4d gluon-fftr-0.10.6+tackin-tp-link-archer-c5-v1-sysupgrade.bin
-tp-link-archer-c5-v1 0.10.6+tackin 16539b96989ba0ece470c830c5e77325d79743f8c3f8d73d5aa7cdb63c375d4203b226b5713df6308f471a2723bef7428c4ce208b5cef3419d6491740b19fa52 gluon-fftr-0.10.6+tackin-tp-link-archer-c5-v1-sysupgrade.bin
-tp-link-archer-c7-v2 0.10.6+tackin c7646477e1877921e756b0caf5e08c8719bf1461dfd5f0e63dd5bcecb6600b8c gluon-fftr-0.10.6+tackin-tp-link-archer-c7-v2-sysupgrade.bin
-tp-link-archer-c7-v2 0.10.6+tackin a56952a824596305a227dc1ff2c1673e342680bca508120ac8cf5707d29eed1923a56a4cd3b56a627361afb7cb4b0841c412ddf613a7a6bdd0961c02e1279609 gluon-fftr-0.10.6+tackin-tp-link-archer-c7-v2-sysupgrade.bin
-tp-link-archer-c7-v4 0.10.6+tackin 0d9247ad7fbe5552721c802aa4c55d9fcd59b87ac3cb4202b6d5d29303dec4f8 gluon-fftr-0.10.6+tackin-tp-link-archer-c7-v4-sysupgrade.bin
-tp-link-archer-c7-v4 0.10.6+tackin 1e1dcefd132d26992cc1fc1dc8c822d8c952ee3c8f531cc165405edfcd222f8108669beb36d4a461661c23226e32cf3e789dfce90db74481854bc204d954848e gluon-fftr-0.10.6+tackin-tp-link-archer-c7-v4-sysupgrade.bin
-tp-link-re450 0.10.6+tackin 7a01e9547a0df4c9fae29342568cb61d429dc10529c76d541aca1c5f03f54c56 gluon-fftr-0.10.6+tackin-tp-link-re450-sysupgrade.bin
-tp-link-re450 0.10.6+tackin 8aef5a1fa71d33f00c4edc6c6ef39fd71a3dcb8b26320b5bc7781c9242fe819f94f5aa5a839ef06fe803f4d95d670f5626814e6abb6e9307119d8615580079c8 gluon-fftr-0.10.6+tackin-tp-link-re450-sysupgrade.bin
-ubiquiti-airgateway 0.10.6+tackin cbfb2b5e484c1d5f9e7e36d92ccb8921a658ddbdf4ecc3c8c4c4f79b74bb1d45 gluon-fftr-0.10.6+tackin-ubiquiti-airgateway-sysupgrade.bin
-ubiquiti-airgateway 0.10.6+tackin eb6080ba7c899b5b512b623502a27f7a2cc02e9d37c4f065a4387edfcb38115f252f51d4362cad80f2301a1a89578b3da85b4a694828bbb23b3346996d4fed4c gluon-fftr-0.10.6+tackin-ubiquiti-airgateway-sysupgrade.bin
-ubiquiti-airgateway-lr 0.10.6+tackin cbfb2b5e484c1d5f9e7e36d92ccb8921a658ddbdf4ecc3c8c4c4f79b74bb1d45 gluon-fftr-0.10.6+tackin-ubiquiti-airgateway-lr-sysupgrade.bin
-ubiquiti-airgateway-lr 0.10.6+tackin eb6080ba7c899b5b512b623502a27f7a2cc02e9d37c4f065a4387edfcb38115f252f51d4362cad80f2301a1a89578b3da85b4a694828bbb23b3346996d4fed4c gluon-fftr-0.10.6+tackin-ubiquiti-airgateway-lr-sysupgrade.bin
-ubiquiti-airgateway-pro 0.10.6+tackin 23183f147963da294061270c7b29f2e662bfdd676893af5505a1232dc1729bae gluon-fftr-0.10.6+tackin-ubiquiti-airgateway-pro-sysupgrade.bin
-ubiquiti-airgateway-pro 0.10.6+tackin a15c8822540bbf1eec8f9763a07e3718b212be23aff13b45e06aeb591616cc128554f2009ec789ebce71ecec684d53ff81a2b7874f8427b920ad9345f7318f0b gluon-fftr-0.10.6+tackin-ubiquiti-airgateway-pro-sysupgrade.bin
-ubiquiti-airrouter 0.10.6+tackin 0d86e74afb2200fd8cb76fdd97ee79be44a27e7a1f14946af8766c51c6ca5378 gluon-fftr-0.10.6+tackin-ubiquiti-airrouter-sysupgrade.bin
-ubiquiti-airrouter 0.10.6+tackin 5f9cff67e0a6ab2230b830f007b28e7ccec1727ffa80e48d5f0fecd9c322645d9eb0e63bec68202b714ccd758bfd836cc65c7c9e5fd69fee8b00d071f985a12d gluon-fftr-0.10.6+tackin-ubiquiti-airrouter-sysupgrade.bin
-ubiquiti-bullet-m 0.10.6+tackin a086bbd8816297c1ec5e37d0df3735fc40b7cbcfb10c41274477eec06c96f523 gluon-fftr-0.10.6+tackin-ubiquiti-bullet-m-sysupgrade.bin
-ubiquiti-bullet-m 0.10.6+tackin 24996e8c1f9f90630ab5cc78630faf73a959b3354fb92cd1077382b46cb2d06a46fe83789c6c0a172eddc8cdbcaf07b0919c7e1ab7ea1aee0fa54ced33067bf8 gluon-fftr-0.10.6+tackin-ubiquiti-bullet-m-sysupgrade.bin
-ubiquiti-nanostation-loco-m2 0.10.6+tackin a086bbd8816297c1ec5e37d0df3735fc40b7cbcfb10c41274477eec06c96f523 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-loco-m2-sysupgrade.bin
-ubiquiti-nanostation-loco-m2 0.10.6+tackin 24996e8c1f9f90630ab5cc78630faf73a959b3354fb92cd1077382b46cb2d06a46fe83789c6c0a172eddc8cdbcaf07b0919c7e1ab7ea1aee0fa54ced33067bf8 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-loco-m2-sysupgrade.bin
-ubiquiti-nanostation-loco-m5 0.10.6+tackin a086bbd8816297c1ec5e37d0df3735fc40b7cbcfb10c41274477eec06c96f523 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-loco-m5-sysupgrade.bin
-ubiquiti-nanostation-loco-m5 0.10.6+tackin 24996e8c1f9f90630ab5cc78630faf73a959b3354fb92cd1077382b46cb2d06a46fe83789c6c0a172eddc8cdbcaf07b0919c7e1ab7ea1aee0fa54ced33067bf8 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-loco-m5-sysupgrade.bin
-ubiquiti-rocket-m2 0.10.6+tackin a086bbd8816297c1ec5e37d0df3735fc40b7cbcfb10c41274477eec06c96f523 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m2-sysupgrade.bin
-ubiquiti-rocket-m2 0.10.6+tackin 24996e8c1f9f90630ab5cc78630faf73a959b3354fb92cd1077382b46cb2d06a46fe83789c6c0a172eddc8cdbcaf07b0919c7e1ab7ea1aee0fa54ced33067bf8 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m2-sysupgrade.bin
-ubiquiti-rocket-m5 0.10.6+tackin a086bbd8816297c1ec5e37d0df3735fc40b7cbcfb10c41274477eec06c96f523 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m5-sysupgrade.bin
-ubiquiti-rocket-m5 0.10.6+tackin 24996e8c1f9f90630ab5cc78630faf73a959b3354fb92cd1077382b46cb2d06a46fe83789c6c0a172eddc8cdbcaf07b0919c7e1ab7ea1aee0fa54ced33067bf8 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m5-sysupgrade.bin
-ubiquiti-bullet-m2 0.10.6+tackin a086bbd8816297c1ec5e37d0df3735fc40b7cbcfb10c41274477eec06c96f523 gluon-fftr-0.10.6+tackin-ubiquiti-bullet-m2-sysupgrade.bin
-ubiquiti-bullet-m2 0.10.6+tackin 24996e8c1f9f90630ab5cc78630faf73a959b3354fb92cd1077382b46cb2d06a46fe83789c6c0a172eddc8cdbcaf07b0919c7e1ab7ea1aee0fa54ced33067bf8 gluon-fftr-0.10.6+tackin-ubiquiti-bullet-m2-sysupgrade.bin
-ubiquiti-bullet-m5 0.10.6+tackin a086bbd8816297c1ec5e37d0df3735fc40b7cbcfb10c41274477eec06c96f523 gluon-fftr-0.10.6+tackin-ubiquiti-bullet-m5-sysupgrade.bin
-ubiquiti-bullet-m5 0.10.6+tackin 24996e8c1f9f90630ab5cc78630faf73a959b3354fb92cd1077382b46cb2d06a46fe83789c6c0a172eddc8cdbcaf07b0919c7e1ab7ea1aee0fa54ced33067bf8 gluon-fftr-0.10.6+tackin-ubiquiti-bullet-m5-sysupgrade.bin
-ubiquiti-picostation-m2 0.10.6+tackin a086bbd8816297c1ec5e37d0df3735fc40b7cbcfb10c41274477eec06c96f523 gluon-fftr-0.10.6+tackin-ubiquiti-picostation-m2-sysupgrade.bin
-ubiquiti-picostation-m2 0.10.6+tackin 24996e8c1f9f90630ab5cc78630faf73a959b3354fb92cd1077382b46cb2d06a46fe83789c6c0a172eddc8cdbcaf07b0919c7e1ab7ea1aee0fa54ced33067bf8 gluon-fftr-0.10.6+tackin-ubiquiti-picostation-m2-sysupgrade.bin
-ubiquiti-nanostation-m 0.10.6+tackin bab16f5ee409d096741273a2e3b4b75068006fab2d464549bd835b389746ade3 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-m-sysupgrade.bin
-ubiquiti-nanostation-m 0.10.6+tackin e3b656b6fcf786a188b9710ec203b959bfc76f0740a02e5b5b21cdae2614f3bafb11cb6e34287f286a94c1a321b6a66d0970fbf679e10183ec00c468a6dcc450 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-m-sysupgrade.bin
-ubiquiti-nanostation-m2 0.10.6+tackin bab16f5ee409d096741273a2e3b4b75068006fab2d464549bd835b389746ade3 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-m2-sysupgrade.bin
-ubiquiti-nanostation-m2 0.10.6+tackin e3b656b6fcf786a188b9710ec203b959bfc76f0740a02e5b5b21cdae2614f3bafb11cb6e34287f286a94c1a321b6a66d0970fbf679e10183ec00c468a6dcc450 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-m2-sysupgrade.bin
-ubiquiti-nanostation-m5 0.10.6+tackin bab16f5ee409d096741273a2e3b4b75068006fab2d464549bd835b389746ade3 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-m5-sysupgrade.bin
-ubiquiti-nanostation-m5 0.10.6+tackin e3b656b6fcf786a188b9710ec203b959bfc76f0740a02e5b5b21cdae2614f3bafb11cb6e34287f286a94c1a321b6a66d0970fbf679e10183ec00c468a6dcc450 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-m5-sysupgrade.bin
-ubiquiti-loco-m-xw 0.10.6+tackin 8d793175fb093cdaf8157f0c870e1c6e0dd6e5aff73379b8a4b389a20f3b6eef gluon-fftr-0.10.6+tackin-ubiquiti-loco-m-xw-sysupgrade.bin
-ubiquiti-loco-m-xw 0.10.6+tackin b142823ee25a0fd0ef7cc998a91d7beb5d23ccabfc067890fe0ad225be9fd5f828eb646000ce9f2694b73f38cea439005f34cbcc775253928ef9ba3b148bb423 gluon-fftr-0.10.6+tackin-ubiquiti-loco-m-xw-sysupgrade.bin
-ubiquiti-nanostation-loco-m2-xw 0.10.6+tackin 8d793175fb093cdaf8157f0c870e1c6e0dd6e5aff73379b8a4b389a20f3b6eef gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-loco-m2-xw-sysupgrade.bin
-ubiquiti-nanostation-loco-m2-xw 0.10.6+tackin b142823ee25a0fd0ef7cc998a91d7beb5d23ccabfc067890fe0ad225be9fd5f828eb646000ce9f2694b73f38cea439005f34cbcc775253928ef9ba3b148bb423 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-loco-m2-xw-sysupgrade.bin
-ubiquiti-nanostation-loco-m5-xw 0.10.6+tackin 8d793175fb093cdaf8157f0c870e1c6e0dd6e5aff73379b8a4b389a20f3b6eef gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-loco-m5-xw-sysupgrade.bin
-ubiquiti-nanostation-loco-m5-xw 0.10.6+tackin b142823ee25a0fd0ef7cc998a91d7beb5d23ccabfc067890fe0ad225be9fd5f828eb646000ce9f2694b73f38cea439005f34cbcc775253928ef9ba3b148bb423 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-loco-m5-xw-sysupgrade.bin
-ubiquiti-nanostation-m-xw 0.10.6+tackin 6564cef46e2b00bc17f1872d1de7502816dae632b84be4291b15e3852e553206 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-m-xw-sysupgrade.bin
-ubiquiti-nanostation-m-xw 0.10.6+tackin 8cdfe7e47f531db016742a1c8b08c35b97cfa77e7a4c3f7f92a47cb4ac9ca183d4194b74b13499570baa419978f09f33e1b1851be3ef8ccedf86604a430655e0 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-m-xw-sysupgrade.bin
-ubiquiti-nanostation-m2-xw 0.10.6+tackin 6564cef46e2b00bc17f1872d1de7502816dae632b84be4291b15e3852e553206 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-m2-xw-sysupgrade.bin
-ubiquiti-nanostation-m2-xw 0.10.6+tackin 8cdfe7e47f531db016742a1c8b08c35b97cfa77e7a4c3f7f92a47cb4ac9ca183d4194b74b13499570baa419978f09f33e1b1851be3ef8ccedf86604a430655e0 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-m2-xw-sysupgrade.bin
-ubiquiti-nanostation-m5-xw 0.10.6+tackin 6564cef46e2b00bc17f1872d1de7502816dae632b84be4291b15e3852e553206 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-m5-xw-sysupgrade.bin
-ubiquiti-nanostation-m5-xw 0.10.6+tackin 8cdfe7e47f531db016742a1c8b08c35b97cfa77e7a4c3f7f92a47cb4ac9ca183d4194b74b13499570baa419978f09f33e1b1851be3ef8ccedf86604a430655e0 gluon-fftr-0.10.6+tackin-ubiquiti-nanostation-m5-xw-sysupgrade.bin
-ubiquiti-rocket-m-xw 0.10.6+tackin 80d5eaa470e030d6b1d85976c46079a3498f5c914b358a06d78c6317e5343660 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m-xw-sysupgrade.bin
-ubiquiti-rocket-m-xw 0.10.6+tackin 10f069b244895d1e91612cccaebc93798dddc91b073a3b1db949f4b9ff1857a13e26a9c82c41ce4780c2cadea2ef4943949a74654e8921fd5ed86cbcf2f495c7 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m-xw-sysupgrade.bin
-ubiquiti-rocket-m2-xw 0.10.6+tackin 80d5eaa470e030d6b1d85976c46079a3498f5c914b358a06d78c6317e5343660 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m2-xw-sysupgrade.bin
-ubiquiti-rocket-m2-xw 0.10.6+tackin 10f069b244895d1e91612cccaebc93798dddc91b073a3b1db949f4b9ff1857a13e26a9c82c41ce4780c2cadea2ef4943949a74654e8921fd5ed86cbcf2f495c7 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m2-xw-sysupgrade.bin
-ubiquiti-rocket-m5-xw 0.10.6+tackin 80d5eaa470e030d6b1d85976c46079a3498f5c914b358a06d78c6317e5343660 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m5-xw-sysupgrade.bin
-ubiquiti-rocket-m5-xw 0.10.6+tackin 10f069b244895d1e91612cccaebc93798dddc91b073a3b1db949f4b9ff1857a13e26a9c82c41ce4780c2cadea2ef4943949a74654e8921fd5ed86cbcf2f495c7 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m5-xw-sysupgrade.bin
-ubiquiti-rocket-m-ti 0.10.6+tackin ddf974ffa79c1195253a45cfa0fe3d3ba2b13887209ae3acef8962cdab6be964 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m-ti-sysupgrade.bin
-ubiquiti-rocket-m-ti 0.10.6+tackin 6c4d98c5cef9cdb448e8ceebf4e3a09b8dc93954bdbc966000bd6a768eed6803042b99904c89f4972922c4335598671303330105778d23bc0642070142015978 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m-ti-sysupgrade.bin
-ubiquiti-rocket-m2-ti 0.10.6+tackin ddf974ffa79c1195253a45cfa0fe3d3ba2b13887209ae3acef8962cdab6be964 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m2-ti-sysupgrade.bin
-ubiquiti-rocket-m2-ti 0.10.6+tackin 6c4d98c5cef9cdb448e8ceebf4e3a09b8dc93954bdbc966000bd6a768eed6803042b99904c89f4972922c4335598671303330105778d23bc0642070142015978 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m2-ti-sysupgrade.bin
-ubiquiti-rocket-m5-ti 0.10.6+tackin ddf974ffa79c1195253a45cfa0fe3d3ba2b13887209ae3acef8962cdab6be964 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m5-ti-sysupgrade.bin
-ubiquiti-rocket-m5-ti 0.10.6+tackin 6c4d98c5cef9cdb448e8ceebf4e3a09b8dc93954bdbc966000bd6a768eed6803042b99904c89f4972922c4335598671303330105778d23bc0642070142015978 gluon-fftr-0.10.6+tackin-ubiquiti-rocket-m5-ti-sysupgrade.bin
-ubiquiti-unifi 0.10.6+tackin 2d658ccfdac0fe1b318f2de3a906c96f7308186f68e74971efcb2671fe05fd85 gluon-fftr-0.10.6+tackin-ubiquiti-unifi-sysupgrade.bin
-ubiquiti-unifi 0.10.6+tackin e6b952e7d684bb7a089578d87a93647851ed20a3d8a47bd97e59df9412d7ce1b6fdc8db72fdfd7f900712e5624862779a508e2f2449d3a7b02785743735b99ea gluon-fftr-0.10.6+tackin-ubiquiti-unifi-sysupgrade.bin
-ubiquiti-unifi-ap 0.10.6+tackin 2d658ccfdac0fe1b318f2de3a906c96f7308186f68e74971efcb2671fe05fd85 gluon-fftr-0.10.6+tackin-ubiquiti-unifi-ap-sysupgrade.bin
-ubiquiti-unifi-ap 0.10.6+tackin e6b952e7d684bb7a089578d87a93647851ed20a3d8a47bd97e59df9412d7ce1b6fdc8db72fdfd7f900712e5624862779a508e2f2449d3a7b02785743735b99ea gluon-fftr-0.10.6+tackin-ubiquiti-unifi-ap-sysupgrade.bin
-ubiquiti-unifi-ap-lr 0.10.6+tackin 2d658ccfdac0fe1b318f2de3a906c96f7308186f68e74971efcb2671fe05fd85 gluon-fftr-0.10.6+tackin-ubiquiti-unifi-ap-lr-sysupgrade.bin
-ubiquiti-unifi-ap-lr 0.10.6+tackin e6b952e7d684bb7a089578d87a93647851ed20a3d8a47bd97e59df9412d7ce1b6fdc8db72fdfd7f900712e5624862779a508e2f2449d3a7b02785743735b99ea gluon-fftr-0.10.6+tackin-ubiquiti-unifi-ap-lr-sysupgrade.bin
-ubiquiti-unifi-ap-pro 0.10.6+tackin 4147a38bdea2737f17a0a02e8f2cab46b3f689d10e8e1fd81fe73d444eba6206 gluon-fftr-0.10.6+tackin-ubiquiti-unifi-ap-pro-sysupgrade.bin
-ubiquiti-unifi-ap-pro 0.10.6+tackin ce6416d181d7bb40b8010a3589a24d7255893012b23399dd291d5763bd09d222f6c21c5a07cbbf5aef2a1ca3b36c706b3c7b82e1c9445dad99b8f23caa4d1154 gluon-fftr-0.10.6+tackin-ubiquiti-unifi-ap-pro-sysupgrade.bin
-ubiquiti-unifiap-outdoor 0.10.6+tackin a519e3b38da039bf494e466a9c54a434ea2c4bc3a962ede4a0c76b82ab81df17 gluon-fftr-0.10.6+tackin-ubiquiti-unifiap-outdoor-sysupgrade.bin
-ubiquiti-unifiap-outdoor 0.10.6+tackin 357c8d332cf0f8310f0cd9661f0391c5a97e1f68261ee851ab7197fd53ccb7787baf7b1107ea5dd849e39206534c2567c47d2be85392881b85b3f875f273bc2b gluon-fftr-0.10.6+tackin-ubiquiti-unifiap-outdoor-sysupgrade.bin
-ubiquiti-unifiap-outdoor+ 0.10.6+tackin 284d42e7c5dbdfa87751455ec7c85b71cdda92bc3ad78275c352c592d4533fb3 gluon-fftr-0.10.6+tackin-ubiquiti-unifiap-outdoor+-sysupgrade.bin
-ubiquiti-unifiap-outdoor+ 0.10.6+tackin 80bf52c5d43c852edae44540f509b8bfc6e62c123e91279148c65201c2be7c381d6ce205ea72cfaf7f7a7cc00d795c90fe75d65f83965765cd49012f29a9a8fb gluon-fftr-0.10.6+tackin-ubiquiti-unifiap-outdoor+-sysupgrade.bin
-ubiquiti-unifi-ac-lite 0.10.6+tackin c78a1f6d173ac7b681753b31115f833d4780f794e2e14e16d4a6975d35b9f4a3 gluon-fftr-0.10.6+tackin-ubiquiti-unifi-ac-lite-sysupgrade.bin
-ubiquiti-unifi-ac-lite 0.10.6+tackin d0f0a21ede7c773811557292bf7732fcac3b17e8e60307afd758175379017d360fc6044b16bc48e1afd15fcea4ed8eb129c4a30e97d5879d3c9c14548334e35c gluon-fftr-0.10.6+tackin-ubiquiti-unifi-ac-lite-sysupgrade.bin
-ubiquiti-unifi-ac-mesh 0.10.6+tackin c78a1f6d173ac7b681753b31115f833d4780f794e2e14e16d4a6975d35b9f4a3 gluon-fftr-0.10.6+tackin-ubiquiti-unifi-ac-mesh-sysupgrade.bin
-ubiquiti-unifi-ac-mesh 0.10.6+tackin d0f0a21ede7c773811557292bf7732fcac3b17e8e60307afd758175379017d360fc6044b16bc48e1afd15fcea4ed8eb129c4a30e97d5879d3c9c14548334e35c gluon-fftr-0.10.6+tackin-ubiquiti-unifi-ac-mesh-sysupgrade.bin
-ubiquiti-unifi-ac-pro 0.10.6+tackin f6f83adefb6c71443ecbf1e44be80211aef5a3bf5e61d62c9639830abcbb3749 gluon-fftr-0.10.6+tackin-ubiquiti-unifi-ac-pro-sysupgrade.bin
-ubiquiti-unifi-ac-pro 0.10.6+tackin 3cc948024144a7e7c530cb91921277c1c5503f9791c69f3e7c9b8d7c0bf26f3e162f39419fef03e05cca299860891e54079de241e1c8e4cb1b1a5cbf2b4e0794 gluon-fftr-0.10.6+tackin-ubiquiti-unifi-ac-pro-sysupgrade.bin
-wd-my-net-n600 0.10.6+tackin 903effc1c76861f75f1da7e2ae900f7fe8f072fb3ec7a596176d4da87f7fc60f gluon-fftr-0.10.6+tackin-wd-my-net-n600-sysupgrade.bin
-wd-my-net-n600 0.10.6+tackin 58b6234f8e13ebef573475baaf30e192a903c92f068f412bb6e31ecbc41176d96c0e4519472da07124a869d97bee52fdd774dca14e70497ef63652ebe89045e0 gluon-fftr-0.10.6+tackin-wd-my-net-n600-sysupgrade.bin
-wd-my-net-n750 0.10.6+tackin bcd2ee0e275fe43eb1edbf3370f292655d73ccc9b5ddb155babe99625f71336f gluon-fftr-0.10.6+tackin-wd-my-net-n750-sysupgrade.bin
-wd-my-net-n750 0.10.6+tackin 7d78e6c2da49c0755217fa354aabd50acdba0f446491dcfb68c45f1909b3728ce9e0c75e192e7cc0b85a41e00c4f210c729e062cbaf22444f6ac9a583250d564 gluon-fftr-0.10.6+tackin-wd-my-net-n750-sysupgrade.bin
-d-link-dir-615-rev-c1 0.10.6+tackin b2ea419dfc233db2ac31b00b0b1774ea6b1ef3f84196846f4844c84274e1c6ed gluon-fftr-0.10.6+tackin-d-link-dir-615-rev-c1-sysupgrade.bin
-d-link-dir-615-rev-c1 0.10.6+tackin 9baee86955fc389c25091677ebb7c3ebc535943ad024643a22dafc34a3a1eea69c9277d5351b61658c47d8c53d42cb387ce7fbf35ea86c34fd1d3686b9eec4ae gluon-fftr-0.10.6+tackin-d-link-dir-615-rev-c1-sysupgrade.bin
-tp-link-tl-wa701n-nd-v1 0.10.6+tackin b2ca234c6e322c7256b35332e8615365d3a2a4e72d6ea5b5179d8b8defff42b8 gluon-fftr-0.10.6+tackin-tp-link-tl-wa701n-nd-v1-sysupgrade.bin
-tp-link-tl-wa701n-nd-v1 0.10.6+tackin b05098021f6f2b47cf004845cbe17f61982e537e0168983797c44d1055f859951dc94f5810d285d759f9e0b42214a39054b18241c6f53838be9cb7799f5e6817 gluon-fftr-0.10.6+tackin-tp-link-tl-wa701n-nd-v1-sysupgrade.bin
-tp-link-tl-wa701n-nd-v2 0.10.6+tackin a243b09b291a3594dbdea4c0df6224f4f19c26800e7427949e887f96745a0784 gluon-fftr-0.10.6+tackin-tp-link-tl-wa701n-nd-v2-sysupgrade.bin
-tp-link-tl-wa701n-nd-v2 0.10.6+tackin 577a85f361862856e0a4997d07e42dc00b30ce2b7d9ad05583f4e92e4e4537a5f144cc6684ee6c588c8b91ebc384c3be95a37179d22c8c8504b73b3fc01c5520 gluon-fftr-0.10.6+tackin-tp-link-tl-wa701n-nd-v2-sysupgrade.bin
-tp-link-tl-wa7210n-v2 0.10.6+tackin 2e614a89ac77decf70bc48f7705e64287d1eccd7ef42609a83218d8f40e2c1d9 gluon-fftr-0.10.6+tackin-tp-link-tl-wa7210n-v2-sysupgrade.bin
-tp-link-tl-wa7210n-v2 0.10.6+tackin 9ee17034b14ec13d4975115df65a94f62cda5644c5c162878c511a49b305e299fa6820e1d54fbcc2661b500448030c33057774fb20b6cd3227152ecfabe6731a gluon-fftr-0.10.6+tackin-tp-link-tl-wa7210n-v2-sysupgrade.bin
-tp-link-tl-wa7510n-v1 0.10.6+tackin 375e912c2b97039ae4c07125a07ce7ef8af130c0a5526deb6ea6cd502b388665 gluon-fftr-0.10.6+tackin-tp-link-tl-wa7510n-v1-sysupgrade.bin
-tp-link-tl-wa7510n-v1 0.10.6+tackin c335659a2dee41809951f6fd5f3b40975ba2142a09abc45c7a34cc0cfe04203a70654c42ad340d299851d17cea137eef8bb48009cdd7faca123596d169cfeef1 gluon-fftr-0.10.6+tackin-tp-link-tl-wa7510n-v1-sysupgrade.bin
-tp-link-tl-wr703n-v1 0.10.6+tackin 5cfa9fd59cb73bfb7c1631a05b8bb8e11b69bbcf9699445121354ac5e318bc02 gluon-fftr-0.10.6+tackin-tp-link-tl-wr703n-v1-sysupgrade.bin
-tp-link-tl-wr703n-v1 0.10.6+tackin 6a07d57bbce78eb710eb67ba958d5ec3662a5e7c0650ca3f938900e6906d3d6cffc192d7564816ab8439d90c288826990ba4f5311680b180261342f6ca611eb5 gluon-fftr-0.10.6+tackin-tp-link-tl-wr703n-v1-sysupgrade.bin
-tp-link-tl-wr710n-v2 0.10.6+tackin 68485d91d9c3a498e49502ff8d12ee6828f21a56faf9233266ebcf5e7c91f27c gluon-fftr-0.10.6+tackin-tp-link-tl-wr710n-v2-sysupgrade.bin
-tp-link-tl-wr710n-v2 0.10.6+tackin a1789f951febcb2f62efea669961beac2c56e78bb6d7921bb0519e6541c64854369a2299eee4a26b05fd6f5b804fc7fc447b230749abca1e578f1865369bd927 gluon-fftr-0.10.6+tackin-tp-link-tl-wr710n-v2-sysupgrade.bin
-tp-link-tl-wr740n-nd-v1 0.10.6+tackin 7b223b9c8f4e405940676f33711a0cb865f27f9b49d477247d5dc1920b10686e gluon-fftr-0.10.6+tackin-tp-link-tl-wr740n-nd-v1-sysupgrade.bin
-tp-link-tl-wr740n-nd-v1 0.10.6+tackin a4923ce07b435d98ec40f7d359cd7f963f172b717bf4421a5623e057219d77ee24843b2ea69e9c9978460312ad4ab7016197ade081f21d83a0e2ef3f074d68a7 gluon-fftr-0.10.6+tackin-tp-link-tl-wr740n-nd-v1-sysupgrade.bin
-tp-link-tl-wr740n-nd-v3 0.10.6+tackin fbe18ef7b9144f4929b497d317646d8eb846415b158ea3e94499807d4914280d gluon-fftr-0.10.6+tackin-tp-link-tl-wr740n-nd-v3-sysupgrade.bin
-tp-link-tl-wr740n-nd-v3 0.10.6+tackin 4539b7f4be9ef2c3a1a7a12d436d1d9bd9f7d5c62c8434c867d682370341cb9c6862b24fd142d679e7b02d453187a62ba6c3bc970f12e951abc3e6736bf4baed gluon-fftr-0.10.6+tackin-tp-link-tl-wr740n-nd-v3-sysupgrade.bin
-tp-link-tl-wr740n-nd-v4 0.10.6+tackin 21d02eeda0c25c9c16e49228a7daf40268167544dec7f5a34cc35071960d1c27 gluon-fftr-0.10.6+tackin-tp-link-tl-wr740n-nd-v4-sysupgrade.bin
-tp-link-tl-wr740n-nd-v4 0.10.6+tackin 7bba7f6829b0c6fff8bc70b33761c3d55a8ccfba4f9aaeadfa3a5ffcc8cd63aa73e1b7c8d5bad956f6068613a54af01d18dce6d56889172329b5c7b1996f61c0 gluon-fftr-0.10.6+tackin-tp-link-tl-wr740n-nd-v4-sysupgrade.bin
-tp-link-tl-wr740n-nd-v5 0.10.6+tackin c1736d11f92248a64c0a2e3ef7d56c5a7cee0994ed72e089d9aa6f8a55559499 gluon-fftr-0.10.6+tackin-tp-link-tl-wr740n-nd-v5-sysupgrade.bin
-tp-link-tl-wr740n-nd-v5 0.10.6+tackin 0a18309adf35b40f3bbe758007e24afba3aa65fd13fce1c4ce1260224278436450b59cdfdaf5f2593a994533462181a6409c78f52afc988ef7db4778cc10241d gluon-fftr-0.10.6+tackin-tp-link-tl-wr740n-nd-v5-sysupgrade.bin
-tp-link-tl-wr741n-nd-v1 0.10.6+tackin d34b18d0df222e68d05a373a3357a3365f629c69e2d360dfcf96c45688d885a7 gluon-fftr-0.10.6+tackin-tp-link-tl-wr741n-nd-v1-sysupgrade.bin
-tp-link-tl-wr741n-nd-v1 0.10.6+tackin d032c64653dd5295da58f8c0ecf50d59fdabd10ea040e2718ed21b00cbe9a668734e67bfdd48f516b44609483ccf8a89e797afd6af4477c3d4ee14291f630c14 gluon-fftr-0.10.6+tackin-tp-link-tl-wr741n-nd-v1-sysupgrade.bin
-tp-link-tl-wr741n-nd-v2 0.10.6+tackin d34b18d0df222e68d05a373a3357a3365f629c69e2d360dfcf96c45688d885a7 gluon-fftr-0.10.6+tackin-tp-link-tl-wr741n-nd-v2-sysupgrade.bin
-tp-link-tl-wr741n-nd-v2 0.10.6+tackin d032c64653dd5295da58f8c0ecf50d59fdabd10ea040e2718ed21b00cbe9a668734e67bfdd48f516b44609483ccf8a89e797afd6af4477c3d4ee14291f630c14 gluon-fftr-0.10.6+tackin-tp-link-tl-wr741n-nd-v2-sysupgrade.bin
-tp-link-tl-wr741n-nd-v4 0.10.6+tackin d03c7348488a6716ea2c3b1ae57c86a37189c574eb12af5e5b3b0747d0588ac5 gluon-fftr-0.10.6+tackin-tp-link-tl-wr741n-nd-v4-sysupgrade.bin
-tp-link-tl-wr741n-nd-v4 0.10.6+tackin 913e2779aae3421d1ef099077dad07043e8bc3e61bc93fad55c3de2031f3d369714fcf8a80edaff20b6a97b4f9a9745b90d9009b68d9923069b024b30dca0008 gluon-fftr-0.10.6+tackin-tp-link-tl-wr741n-nd-v4-sysupgrade.bin
-tp-link-tl-wr741n-nd-v5 0.10.6+tackin c1736d11f92248a64c0a2e3ef7d56c5a7cee0994ed72e089d9aa6f8a55559499 gluon-fftr-0.10.6+tackin-tp-link-tl-wr741n-nd-v5-sysupgrade.bin
-tp-link-tl-wr741n-nd-v5 0.10.6+tackin 0a18309adf35b40f3bbe758007e24afba3aa65fd13fce1c4ce1260224278436450b59cdfdaf5f2593a994533462181a6409c78f52afc988ef7db4778cc10241d gluon-fftr-0.10.6+tackin-tp-link-tl-wr741n-nd-v5-sysupgrade.bin
-tp-link-tl-wr743n-nd-v1 0.10.6+tackin 7041edd46b073b312cb8203ee85c24f5ccbdcc72d43460557fbfdf2b226252eb gluon-fftr-0.10.6+tackin-tp-link-tl-wr743n-nd-v1-sysupgrade.bin
-tp-link-tl-wr743n-nd-v1 0.10.6+tackin 28487f4102d3061aae8f371df2671a1332f9a6604574e27b48fa7a59b4fcc728b4fd18deb863d41f7e7f9306056b3d08ae2e4f341ae32bda1afb7d11364f50df gluon-fftr-0.10.6+tackin-tp-link-tl-wr743n-nd-v1-sysupgrade.bin
-tp-link-tl-wr743n-nd-v2 0.10.6+tackin 5436690f1a5016acbb351939bc96023fb92cd5f42d37a92e92e28d71cf8b571b gluon-fftr-0.10.6+tackin-tp-link-tl-wr743n-nd-v2-sysupgrade.bin
-tp-link-tl-wr743n-nd-v2 0.10.6+tackin 029ef8fde46b4f3296987f8ae96af4257301e0835202c2c0e1ded333d5ac2a2fcdb7cfce9fddb1cd78eadba6665e13d37c7fc467c9524971ad756afdde4a0f7b gluon-fftr-0.10.6+tackin-tp-link-tl-wr743n-nd-v2-sysupgrade.bin
-tp-link-tl-wa801n-nd-v1 0.10.6+tackin 7ff3869042b6f4575b1ed0fe28f9d14c0170b3157b467ba2694e9f89f206ded2 gluon-fftr-0.10.6+tackin-tp-link-tl-wa801n-nd-v1-sysupgrade.bin
-tp-link-tl-wa801n-nd-v1 0.10.6+tackin 83f35c967f74ad646eddf3fa3874ce2ddb8791e5e1f4d7d74533c422fe14b9f2c2234e59d077e311202214d4f67797c5bbc5c0c48ccec1786cda0c4fcf84fe61 gluon-fftr-0.10.6+tackin-tp-link-tl-wa801n-nd-v1-sysupgrade.bin
-tp-link-tl-wa801n-nd-v2 0.10.6+tackin 99fb97d7ccbc214afb2053e3d84262dd9c21f5702442cd504cf44fdf29797f06 gluon-fftr-0.10.6+tackin-tp-link-tl-wa801n-nd-v2-sysupgrade.bin
-tp-link-tl-wa801n-nd-v2 0.10.6+tackin c5a1d5e9ead8756af04d98755864291c6bdc75b387f45965cf6ec8239a00860725ef4fdb70aeb5b3c2ea24057c5deee7abb6145cdd8fe965123d07d1d64601ea gluon-fftr-0.10.6+tackin-tp-link-tl-wa801n-nd-v2-sysupgrade.bin
-tp-link-tl-wa801n-nd-v3 0.10.6+tackin 720f53f868798bfdeb38dc1f16167264e1ff052a375dcb8f357058926be5b5a2 gluon-fftr-0.10.6+tackin-tp-link-tl-wa801n-nd-v3-sysupgrade.bin
-tp-link-tl-wa801n-nd-v3 0.10.6+tackin 7f02594a0a58c9c8a2e3abad7a28b954d5b12613044b1ca12e81fbdfdd8cf15d66165495ecd554434f4bcfe0355dffa1b76bb8787b0fd80d7a9917e9c8ccbc0e gluon-fftr-0.10.6+tackin-tp-link-tl-wa801n-nd-v3-sysupgrade.bin
-tp-link-tl-wr841n-nd-v3 0.10.6+tackin 1ad373b316f98bc25f408c943d7dd6fd2b07e43745351e01ffc0b0301dd9cae8 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v3-sysupgrade.bin
-tp-link-tl-wr841n-nd-v3 0.10.6+tackin 77c9ab6e1e3f15c4aaabca6e1baabba43bd153b0d911256ed50ba410944b58b9d9b3658ef646304adb63106cd1c0fd447ac2b7083a88821aa4691d0bbc96261b gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v3-sysupgrade.bin
-tp-link-tl-wr841n-nd-v5 0.10.6+tackin 5613ae5327548a215fcad7c06633f2da946cff17ba617e70a78dc78665276327 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v5-sysupgrade.bin
-tp-link-tl-wr841n-nd-v5 0.10.6+tackin 9f4b603fa33412e96fdc71e8328590e486902ed3b7abf320d0816965115a9330a0b1139d4bf035d7cbae5de9016225003b260b7565ee24613b38657a34199c43 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v5-sysupgrade.bin
-tp-link-tl-wr841n-nd-v7 0.10.6+tackin 0fbe35611ba0f0850b5c6d692509142fdcb080fcda81828048d821575db84ef7 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v7-sysupgrade.bin
-tp-link-tl-wr841n-nd-v7 0.10.6+tackin bc63a1786ed2a7e70183f44960366a8fd2cb6c6941cf66eff581df0345fc5b6d31aaf820eeae3a52e8ae6a32ecf5c9b322080d19fb89d6c5d580dc913dd2a998 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v7-sysupgrade.bin
-tp-link-tl-wr841n-nd-v8 0.10.6+tackin 7988469488bcb8a5dc70f7067604ff67ad371bb91d31bd8c47376730a7fd167f gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v8-sysupgrade.bin
-tp-link-tl-wr841n-nd-v8 0.10.6+tackin 9a9462e9a1b6ff1652f184514ced929867e9c546e83d6c37320a08c64c11a661a78e603041920ca919a8411c5675e840a2a7975a67fddaa92dd42812fa0c3c5c gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v8-sysupgrade.bin
-tp-link-tl-wr841n-nd-v9 0.10.6+tackin ef3e859254c25b3ee6b51932038dc9e5c2df4adfb5c5492b9b8a8a75f062d3a0 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v9-sysupgrade.bin
-tp-link-tl-wr841n-nd-v9 0.10.6+tackin b8d0526775747c6ea6b2fb9c8ff5c0c6f9242cacb0ad887bd68e823d829e55b66f413a7934accab5a66aa359f4ba3b84b9b55d250b9dbbb2cf0c5d31e55cd5d5 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v9-sysupgrade.bin
-tp-link-tl-wr841n-nd-v10 0.10.6+tackin 2e90b5a94c06585c052a64613e914770d6d54c18a9733ccb46ba8dae9c77ba09 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v10-sysupgrade.bin
-tp-link-tl-wr841n-nd-v10 0.10.6+tackin 1740e0fa5b655a7c7e2e0fea122c6c9510d75371d06d7b297d4b89f69d83aef1558631d63f5b79dc5ab0e9f5d25b1e0b543d3c2880ab3d4b9206b39ab660ff78 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v10-sysupgrade.bin
-tp-link-tl-wr841n-nd-v11 0.10.6+tackin cff321023f0932824de140198d0c2978c4d9124e515f2ce211ccf603e53ea692 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v11-sysupgrade.bin
-tp-link-tl-wr841n-nd-v11 0.10.6+tackin cd90537d44d18a9ab3a94802a6f2a72a84b713a2431e9ab980d108e04acdf60c17c08057ed460497d92ec61205a6ba6086b024bd915a5066311a476ea9052637 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v11-sysupgrade.bin
-tp-link-tl-wr841n-nd-v12 0.10.6+tackin 271806ac17b4b2b24185cd9f84a037030a182b547358bd5e38a99a663775c7a9 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v12-sysupgrade.bin
-tp-link-tl-wr841n-nd-v12 0.10.6+tackin 387f84d4b39053566119257377ea060b8c2dc3807366439afd2a35258161087560a5205eed210c63f193f1aefda5f4e316de1d77b3aa491879a34bd7600eb816 gluon-fftr-0.10.6+tackin-tp-link-tl-wr841n-nd-v12-sysupgrade.bin
-tp-link-tl-wr843n-nd-v1 0.10.6+tackin 6f306688978945b93f09ebe79a34fca06e83cc9dfd7d13439f759c9bba7b7327 gluon-fftr-0.10.6+tackin-tp-link-tl-wr843n-nd-v1-sysupgrade.bin
-tp-link-tl-wr843n-nd-v1 0.10.6+tackin ef23af7035be0141d8a6d097703dcda1ea973bfd61d349a2c567ae0ef9dc51464aa2882c58a356013e5901d5a7dc73f00cc9ba556b9e6770c416de939da1544d gluon-fftr-0.10.6+tackin-tp-link-tl-wr843n-nd-v1-sysupgrade.bin
-tp-link-tl-wr941n-nd-v2 0.10.6+tackin 0e409598f1051a49eddcf0ad3d19ea2f77e691509816cbe11dfb72050e38ecc3 gluon-fftr-0.10.6+tackin-tp-link-tl-wr941n-nd-v2-sysupgrade.bin
-tp-link-tl-wr941n-nd-v2 0.10.6+tackin 3e3f48b43dfc02c6a7db036c03a4551057d8c662c7c4c46ef84feff2a1012b3c687df2e634a8ebf90c3b5ce871da1d6ef2f4d9992e9ea92f620293d03aa23c7e gluon-fftr-0.10.6+tackin-tp-link-tl-wr941n-nd-v2-sysupgrade.bin
-tp-link-tl-wr941n-nd-v3 0.10.6+tackin 0e409598f1051a49eddcf0ad3d19ea2f77e691509816cbe11dfb72050e38ecc3 gluon-fftr-0.10.6+tackin-tp-link-tl-wr941n-nd-v3-sysupgrade.bin
-tp-link-tl-wr941n-nd-v3 0.10.6+tackin 3e3f48b43dfc02c6a7db036c03a4551057d8c662c7c4c46ef84feff2a1012b3c687df2e634a8ebf90c3b5ce871da1d6ef2f4d9992e9ea92f620293d03aa23c7e gluon-fftr-0.10.6+tackin-tp-link-tl-wr941n-nd-v3-sysupgrade.bin
-tp-link-tl-wr941n-nd-v4 0.10.6+tackin 99aae56d0072f3d847e3191abaeed697e901d90754a72437c45196e4f783c70b gluon-fftr-0.10.6+tackin-tp-link-tl-wr941n-nd-v4-sysupgrade.bin
-tp-link-tl-wr941n-nd-v4 0.10.6+tackin c167f270d6e2ab763bb111ab242469aea51ee389e53d377b961e882a8ad11d43c9825374757b9ea760dba2afbd4e2eefe3baa5b5787b58e0b09ae4d6198722b3 gluon-fftr-0.10.6+tackin-tp-link-tl-wr941n-nd-v4-sysupgrade.bin
-tp-link-tl-wr940n-v1 0.10.6+tackin 99aae56d0072f3d847e3191abaeed697e901d90754a72437c45196e4f783c70b gluon-fftr-0.10.6+tackin-tp-link-tl-wr940n-v1-sysupgrade.bin
-tp-link-tl-wr940n-v1 0.10.6+tackin c167f270d6e2ab763bb111ab242469aea51ee389e53d377b961e882a8ad11d43c9825374757b9ea760dba2afbd4e2eefe3baa5b5787b58e0b09ae4d6198722b3 gluon-fftr-0.10.6+tackin-tp-link-tl-wr940n-v1-sysupgrade.bin
-tp-link-tl-wr941n-nd-v5 0.10.6+tackin 581943aec3d25189a6cc294a21e3b4dc2bc067574f111bf119c777c8842a123c gluon-fftr-0.10.6+tackin-tp-link-tl-wr941n-nd-v5-sysupgrade.bin
-tp-link-tl-wr941n-nd-v5 0.10.6+tackin d2db2a08800ab0d54a01e7b2b2d7c0d9f460d4f7535497068d694f99df383a6fde448b47b4bc5024190f2de4f0605130e45e879ec14e6fc6f1e4311c45824481 gluon-fftr-0.10.6+tackin-tp-link-tl-wr941n-nd-v5-sysupgrade.bin
-tp-link-tl-wr940n-v2 0.10.6+tackin 581943aec3d25189a6cc294a21e3b4dc2bc067574f111bf119c777c8842a123c gluon-fftr-0.10.6+tackin-tp-link-tl-wr940n-v2-sysupgrade.bin
-tp-link-tl-wr940n-v2 0.10.6+tackin d2db2a08800ab0d54a01e7b2b2d7c0d9f460d4f7535497068d694f99df383a6fde448b47b4bc5024190f2de4f0605130e45e879ec14e6fc6f1e4311c45824481 gluon-fftr-0.10.6+tackin-tp-link-tl-wr940n-v2-sysupgrade.bin
-tp-link-tl-wr941n-nd-v6 0.10.6+tackin 12809a279b324f025bac8fdce2ed0c7b0fe1a3ae3b45fb9a3d5be5bf7119313c gluon-fftr-0.10.6+tackin-tp-link-tl-wr941n-nd-v6-sysupgrade.bin
-tp-link-tl-wr941n-nd-v6 0.10.6+tackin 8274264ec9928880ac10cdd72bbd0b338c86a22d36d8226be6ea6ba25a502ceb22bfc9f90bfa4105ddb53c4b236a2f449d955d6b723ed08420fdbd980d570576 gluon-fftr-0.10.6+tackin-tp-link-tl-wr941n-nd-v6-sysupgrade.bin
-tp-link-tl-wr940n-v3 0.10.6+tackin 12809a279b324f025bac8fdce2ed0c7b0fe1a3ae3b45fb9a3d5be5bf7119313c gluon-fftr-0.10.6+tackin-tp-link-tl-wr940n-v3-sysupgrade.bin
-tp-link-tl-wr940n-v3 0.10.6+tackin 8274264ec9928880ac10cdd72bbd0b338c86a22d36d8226be6ea6ba25a502ceb22bfc9f90bfa4105ddb53c4b236a2f449d955d6b723ed08420fdbd980d570576 gluon-fftr-0.10.6+tackin-tp-link-tl-wr940n-v3-sysupgrade.bin
-tp-link-tl-wr940n-v4 0.10.6+tackin d7ecaad7494bdd42b977c7ba3cd213a853379fb1b7d1ed4af8b0f1c55f211846 gluon-fftr-0.10.6+tackin-tp-link-tl-wr940n-v4-sysupgrade.bin
-tp-link-tl-wr940n-v4 0.10.6+tackin 2f7b87416695da2d595e2858348b2c925539cb7c7d05c01c3fa5e3a02b83cf4572994488c2577b6a98b2c231bc6f2077ad762464287439b82db8f50d3d5bf957 gluon-fftr-0.10.6+tackin-tp-link-tl-wr940n-v4-sysupgrade.bin
-tp-link-tl-wr940n-v5 0.10.6+tackin d7ecaad7494bdd42b977c7ba3cd213a853379fb1b7d1ed4af8b0f1c55f211846 gluon-fftr-0.10.6+tackin-tp-link-tl-wr940n-v5-sysupgrade.bin
-tp-link-tl-wr940n-v5 0.10.6+tackin 2f7b87416695da2d595e2858348b2c925539cb7c7d05c01c3fa5e3a02b83cf4572994488c2577b6a98b2c231bc6f2077ad762464287439b82db8f50d3d5bf957 gluon-fftr-0.10.6+tackin-tp-link-tl-wr940n-v5-sysupgrade.bin
-tp-link-tl-wr940n-v6 0.10.6+tackin bd41f2985c9269e00ccd8fa272477c6f0a15c8631fd50aac074cd89e3ece1a76 gluon-fftr-0.10.6+tackin-tp-link-tl-wr940n-v6-sysupgrade.bin
-tp-link-tl-wr940n-v6 0.10.6+tackin 9103522868909c1f89719199fe0c84861155acd8f94b411efc3d70f439497d7e81d12c9903a416ee1d7acb980437803b6e43f5e1f98baa8bc6e4e53450e3f0d8 gluon-fftr-0.10.6+tackin-tp-link-tl-wr940n-v6-sysupgrade.bin
-tp-link-tl-wa730re-v1 0.10.6+tackin 377892bb5c5c9b8c6eaec6a96e33bf954d3a387efc688abbc7d2838f209c738e gluon-fftr-0.10.6+tackin-tp-link-tl-wa730re-v1-sysupgrade.bin
-tp-link-tl-wa730re-v1 0.10.6+tackin 69e1c3414bd4bb1f5fc59cf656672042c817a26130372f7f76227f6595bd526f3c2ed42591f2ff6acf7df1460be0475690cc0019e60b4b62f34e71252f034a49 gluon-fftr-0.10.6+tackin-tp-link-tl-wa730re-v1-sysupgrade.bin
-tp-link-tl-wa750re-v1 0.10.6+tackin ffee8420bab85c5338e4b0c3e52af9567a244117a97ec433201f52f77f27c949 gluon-fftr-0.10.6+tackin-tp-link-tl-wa750re-v1-sysupgrade.bin
-tp-link-tl-wa750re-v1 0.10.6+tackin e9d1990dfa737df2a880b78052dae6abce8e31769befa8ae8f856a1edb4ba5f6cb160f1ea3edb22d9ec4e87a2eb8f538a063b9303d2580fbfc21981d542a7ca0 gluon-fftr-0.10.6+tackin-tp-link-tl-wa750re-v1-sysupgrade.bin
-tp-link-tl-wa830re-v1 0.10.6+tackin a03ef925739fd253caede3d2a8c65f9f6e00d570554c1ff75345d9cc00983429 gluon-fftr-0.10.6+tackin-tp-link-tl-wa830re-v1-sysupgrade.bin
-tp-link-tl-wa830re-v1 0.10.6+tackin 3be8de9400de54ab1403acbb0d3017492c2c19ebead7c9ee980dd87e1fbe903f98a543a8d8236cec5cedbba732121efac6bc0e2d747181726c2410d062906f41 gluon-fftr-0.10.6+tackin-tp-link-tl-wa830re-v1-sysupgrade.bin
-tp-link-tl-wa830re-v2 0.10.6+tackin cec537921ec4b0f5bae63e9fa1a4dbca2574e6d03dc16cee648e1c055db7e32d gluon-fftr-0.10.6+tackin-tp-link-tl-wa830re-v2-sysupgrade.bin
-tp-link-tl-wa830re-v2 0.10.6+tackin 41da046cbb1183c1cef6f20a8225bd0c533413209744f20b1ff1f490e68740ea8aa614061fac9b7a9a7181c1fb577db791e8a2b3118735ce68bde49f030e2aa2 gluon-fftr-0.10.6+tackin-tp-link-tl-wa830re-v2-sysupgrade.bin
-tp-link-tl-wa850re-v1 0.10.6+tackin def4d540990b26f1dd47d715e05abdcdca2f76679d2cb1ede12d3f93e3e07ca9 gluon-fftr-0.10.6+tackin-tp-link-tl-wa850re-v1-sysupgrade.bin
-tp-link-tl-wa850re-v1 0.10.6+tackin 4780af442b148d10e601a33bacf72c9eead9e40019d9994370c38f9c7ccdf8ec6aa6d575441e4aaa36a09271f02a22be534abb801601aeb72c4a046f2895bde7 gluon-fftr-0.10.6+tackin-tp-link-tl-wa850re-v1-sysupgrade.bin
-tp-link-tl-wa860re-v1 0.10.6+tackin 62d8b941f2b5a3193ba7f57b55361d580774e502b290c3076ce98aebc77d9a66 gluon-fftr-0.10.6+tackin-tp-link-tl-wa860re-v1-sysupgrade.bin
-tp-link-tl-wa860re-v1 0.10.6+tackin d156c7d23ad4ed8499029a819fbcf2de737d1f6964a54831ddb1c126d75b08aaffc27ebc7e1cc2ab04855c10c528a5690baafe71c3acdb77721a85b7b4ba50f3 gluon-fftr-0.10.6+tackin-tp-link-tl-wa860re-v1-sysupgrade.bin
-tp-link-tl-wa901n-nd-v1 0.10.6+tackin 4f552ccf4ad5fcb506b47961d0fd6b816cf34eaae9753515bab3b78709b13230 gluon-fftr-0.10.6+tackin-tp-link-tl-wa901n-nd-v1-sysupgrade.bin
-tp-link-tl-wa901n-nd-v1 0.10.6+tackin fda6ca6027b2d2d6089284d2840584cbada17d915c48ec64195a8bbb0f3204758af18c5c49e27825cda2ba90f4e31f16ccaac3f8a821ae85f4a23ecf08336a2c gluon-fftr-0.10.6+tackin-tp-link-tl-wa901n-nd-v1-sysupgrade.bin
-tp-link-tl-wa901n-nd-v2 0.10.6+tackin cc016d5ef2674864cefacc86b4ecef979799363eb6e28361733e00009e6ed026 gluon-fftr-0.10.6+tackin-tp-link-tl-wa901n-nd-v2-sysupgrade.bin
-tp-link-tl-wa901n-nd-v2 0.10.6+tackin d247c8d90d35af38b728c313a85ae98b84f558e4757847b69e94cb70e2270ee4965f2bdc693810b8724fdfb3b3d5d699444bf04fd11ebcda395fa6a8cb159db6 gluon-fftr-0.10.6+tackin-tp-link-tl-wa901n-nd-v2-sysupgrade.bin
-tp-link-tl-wa901n-nd-v3 0.10.6+tackin 3d68a95eac3b93032bf39089d7a3e2fcf252edb712b560a897cd76172d5d6f70 gluon-fftr-0.10.6+tackin-tp-link-tl-wa901n-nd-v3-sysupgrade.bin
-tp-link-tl-wa901n-nd-v3 0.10.6+tackin 026ee407c0a03693d5fe9994e592d0a71e31a601addb54762d988ebac7b80751cff1d4467b448968ef076c7c5c9cabe7c89a5bafaf60bb29f3c9d1e9596ba833 gluon-fftr-0.10.6+tackin-tp-link-tl-wa901n-nd-v3-sysupgrade.bin
-tp-link-tl-wa901n-nd-v4 0.10.6+tackin ac94259d7215b7ada99a491ba18af77f60c224faa24a372617c064e84b073ca0 gluon-fftr-0.10.6+tackin-tp-link-tl-wa901n-nd-v4-sysupgrade.bin
-tp-link-tl-wa901n-nd-v4 0.10.6+tackin 3d53fb6ade051a6a0aca964f6ebcdb6bc5a2c9145d0d01e4803eb8f2c88a6728c27fdfa23b77a2282ad224dd4a98f45b2981e0f1f7d5443ec7a35d23dace2f0c gluon-fftr-0.10.6+tackin-tp-link-tl-wa901n-nd-v4-sysupgrade.bin
-tp-link-tl-mr13u-v1 0.10.6+tackin 2e2b0780c5c6af6fc71866abaecf4136d29062aa9afddf4d4988e56b9df0785e gluon-fftr-0.10.6+tackin-tp-link-tl-mr13u-v1-sysupgrade.bin
-tp-link-tl-mr13u-v1 0.10.6+tackin 0220d57c086484b981b91fc8722e7accfbddf38a5e41549fb13dae1af4d118e8a0e9c40db8f63c907dbba113a811ab2713de349abcf2ca4a37d8017a4edd1261 gluon-fftr-0.10.6+tackin-tp-link-tl-mr13u-v1-sysupgrade.bin
-tp-link-tl-mr3020-v1 0.10.6+tackin 8be3b81c2ff5be78b3363e491e3a1f82f28349d39842ee8ea2c71ec0322af6f2 gluon-fftr-0.10.6+tackin-tp-link-tl-mr3020-v1-sysupgrade.bin
-tp-link-tl-mr3020-v1 0.10.6+tackin d342187b445880ba7e4ff90a276e0b8477f95560966e4c2dd3086d71c3c6f38493ca3a66be32960e202f7f37ef64712955ae40ec939e15e361be1bb1624b5aa0 gluon-fftr-0.10.6+tackin-tp-link-tl-mr3020-v1-sysupgrade.bin
-tp-link-tl-mr3040-v1 0.10.6+tackin 0595ade579f0bfc0ad82777b625b246655c651691fa0e563535bc34cf8adbd4c gluon-fftr-0.10.6+tackin-tp-link-tl-mr3040-v1-sysupgrade.bin
-tp-link-tl-mr3040-v1 0.10.6+tackin f217d7bebbf63087d2b179e647206636e9607af65579ce31b3c57dc81585ea06f831b35aabdc6f88216782c2b24db1f80ecc38cb92b4dace84f45f619cccb0a2 gluon-fftr-0.10.6+tackin-tp-link-tl-mr3040-v1-sysupgrade.bin
-tp-link-tl-mr3040-v2 0.10.6+tackin 5a761455a40005722185b07e023c818c8bf87fe3adc021b084dfb0f14c997a49 gluon-fftr-0.10.6+tackin-tp-link-tl-mr3040-v2-sysupgrade.bin
-tp-link-tl-mr3040-v2 0.10.6+tackin b4a531914c2d3291d53d53999c7f1a1db12c9211099f9fe57249e93c94a4ae0969c4f082fafab5abdef0a1f23237b9e0d9f1bfde3e735d6263938fd246912464 gluon-fftr-0.10.6+tackin-tp-link-tl-mr3040-v2-sysupgrade.bin
-tp-link-tl-mr3220-v1 0.10.6+tackin 790c38980b37ed22cd337d4b185a4fbf3373149f93f12b612f65d03f477dadcc gluon-fftr-0.10.6+tackin-tp-link-tl-mr3220-v1-sysupgrade.bin
-tp-link-tl-mr3220-v1 0.10.6+tackin 1b477c27b54d713b89ab5ff9fcfa54b6eda5238aaa5ed582c511b8f55356f09cf729cea7ec3a4f3dbacf68af0bb6efeae769f338487f89c4e0d31f24d5aace5d gluon-fftr-0.10.6+tackin-tp-link-tl-mr3220-v1-sysupgrade.bin
-tp-link-tl-mr3220-v2 0.10.6+tackin 3a77fe2621a965f6683f7a33b751d83555d3c15b728a33e2bdb98c534f4897d1 gluon-fftr-0.10.6+tackin-tp-link-tl-mr3220-v2-sysupgrade.bin
-tp-link-tl-mr3220-v2 0.10.6+tackin c70fad14cd5d02f809486a399e2e5732135dffe4228a2da3a167dbf27f49e22cbc16f20f6aa411fa1a3f65606bb1712421d21bd0a749862654313380b39f806d gluon-fftr-0.10.6+tackin-tp-link-tl-mr3220-v2-sysupgrade.bin
-tp-link-tl-mr3420-v1 0.10.6+tackin c9f259fda16a1e8ecf839ca986fdd4d62bce40b87adc283dcc2eed421452d331 gluon-fftr-0.10.6+tackin-tp-link-tl-mr3420-v1-sysupgrade.bin
-tp-link-tl-mr3420-v1 0.10.6+tackin a2be3dbb36ac7a0d987d44f7a95152312363efb74ea3830853e1565e644542a6419e534feedf31513f65909fdcb447eb819fdd4e1fbaf3d0987083c698bea550 gluon-fftr-0.10.6+tackin-tp-link-tl-mr3420-v1-sysupgrade.bin
-tp-link-tl-mr3420-v2 0.10.6+tackin e16f49f5df9bf0199d828bea3da0738b48f72257648a766cc4fa3ae6f9cef170 gluon-fftr-0.10.6+tackin-tp-link-tl-mr3420-v2-sysupgrade.bin
-tp-link-tl-mr3420-v2 0.10.6+tackin b3f50dae63f992fe983203c19dab3d5d129ef9fb82e444ca20d0f215830b9b9535b3407b20799ad301ce786e63998b26c4eb8908ca6a47ebc3079a956c0b59cf gluon-fftr-0.10.6+tackin-tp-link-tl-mr3420-v2-sysupgrade.bin
-netgear-wndr3700v4 0.10.6+tackin 4d8d5ebed9f00cc74c25fcc808eef7f097f0502af2f7738742b3c612109ba95f gluon-fftr-0.10.6+tackin-netgear-wndr3700v4-sysupgrade.tar
-netgear-wndr3700v4 0.10.6+tackin ad4864041bb86dd77eb17a4d1f4e246b86d759715be7458789709e5de2dd9e5460c374720a14a118d7cb1296865fccc8e273cb7d66b6f5892072c96e1901a1e7 gluon-fftr-0.10.6+tackin-netgear-wndr3700v4-sysupgrade.tar
-netgear-wndr4300 0.10.6+tackin cd4911a7ed3230caa1e17963826849529a6c9f36f1af0961d5f65cec0d5d5301 gluon-fftr-0.10.6+tackin-netgear-wndr4300-sysupgrade.tar
-netgear-wndr4300 0.10.6+tackin 1b7f744a88920423444bd9f8013be64abc1a969d0fe3dbb6245e8971c693f6af632a50354797bc68da40e1e94c966dc453b3c8dc13d5c74afcf3c627d577b3e6 gluon-fftr-0.10.6+tackin-netgear-wndr4300-sysupgrade.tar
-tp-link-tl-wdr4900-v1 0.10.6+tackin 077b247fc1a682c3e66339fbd15dfefd378d29f319d3ae430a5cb6d44946c6c6 gluon-fftr-0.10.6+tackin-tp-link-tl-wdr4900-v1-sysupgrade.bin
-tp-link-tl-wdr4900-v1 0.10.6+tackin 99579d2a71c4437e536f0874a9bceeafc9d0bc466e1139a3ad8d68179804c20cee765dad5f274370e09b7d3ef27d4e27804058ccbb89de5cfce6395e0d60e8bf gluon-fftr-0.10.6+tackin-tp-link-tl-wdr4900-v1-sysupgrade.bin
-ubnt-erx 0.10.6+tackin 4b41359c62d17be075d724dcbf6cc7c3ef5b0796ee1528eb2e77cfaa52cfcaf9 gluon-fftr-0.10.6+tackin-ubnt-erx-sysupgrade.tar
-ubnt-erx 0.10.6+tackin 4718d3d509b9ed8991d8c2e4bf85c53c704c62a791c4435f0a98a7586a9ca15f12fcd51aea2786e6117e3ba3b27726fb5f49be931e68158670545623a8623280 gluon-fftr-0.10.6+tackin-ubnt-erx-sysupgrade.tar
-ubnt-erx-sfp 0.10.6+tackin 8475a44b3de03268cce46a21c7e08cbe68550908f283ed69c0c0cdc5ab8c1659 gluon-fftr-0.10.6+tackin-ubnt-erx-sfp-sysupgrade.tar
-ubnt-erx-sfp 0.10.6+tackin 15f41ae30984b79a9d445df31aeff1f39f842c17217a3b4dbf95d7c2641d9377b68c7c8b97108be4605265ceb2edb1390a2c97537dd2966c5e66b69c08122680 gluon-fftr-0.10.6+tackin-ubnt-erx-sfp-sysupgrade.tar
-x86-generic 0.10.6+tackin 84249da32355a1d8b6b9b5f6e538c08b289862474fcebf9cf377e6964d0c3526 gluon-fftr-0.10.6+tackin-x86-generic-sysupgrade.img.gz
-x86-generic 0.10.6+tackin fe0a2d6ddf6595b6a827a9b0363ef5fb2a682f827ebf334ec54b3dff67687086cd09bebee3de4624e998c8571cc7f61ebf6ec667628e5f9a09462b5a7d1478f1 gluon-fftr-0.10.6+tackin-x86-generic-sysupgrade.img.gz
-x86-kvm 0.10.6+tackin 84249da32355a1d8b6b9b5f6e538c08b289862474fcebf9cf377e6964d0c3526 gluon-fftr-0.10.6+tackin-x86-generic-sysupgrade.img.gz
-x86-kvm 0.10.6+tackin fe0a2d6ddf6595b6a827a9b0363ef5fb2a682f827ebf334ec54b3dff67687086cd09bebee3de4624e998c8571cc7f61ebf6ec667628e5f9a09462b5a7d1478f1 gluon-fftr-0.10.6+tackin-x86-generic-sysupgrade.img.gz
-x86-xen_domu 0.10.6+tackin 84249da32355a1d8b6b9b5f6e538c08b289862474fcebf9cf377e6964d0c3526 gluon-fftr-0.10.6+tackin-x86-generic-sysupgrade.img.gz
-x86-xen_domu 0.10.6+tackin fe0a2d6ddf6595b6a827a9b0363ef5fb2a682f827ebf334ec54b3dff67687086cd09bebee3de4624e998c8571cc7f61ebf6ec667628e5f9a09462b5a7d1478f1 gluon-fftr-0.10.6+tackin-x86-generic-sysupgrade.img.gz
-x86-geode 0.10.6+tackin 2e687b8beb87b0c6cad0679b109bfd71eff885ed38f831c737d051b302c58dec gluon-fftr-0.10.6+tackin-x86-geode-sysupgrade.img.gz
-x86-geode 0.10.6+tackin 677a55326fb88c8701ae2fc901f39e190c37e852894703b40f3c7470a8ea96071213996c7ccd0e0a3db3bcae6fe214e1e5de54c4617bc38949ed4f3d4d3a5220 gluon-fftr-0.10.6+tackin-x86-geode-sysupgrade.img.gz
-x86-64 0.10.6+tackin 4237c22d4dd4ac6ada9a8e3d244c8712d18b7280a4af8a187e941fd0b6b7029e gluon-fftr-0.10.6+tackin-x86-64-sysupgrade.img.gz
-x86-64 0.10.6+tackin 241d32133df4cd3f3ab02283297a1df3efc69ffb4e03be1153cd8162aac1990eb0f714b7b8171f7a7e2fd1fede2e6258bb873bf9ba2a24e4ee5e69b05c9f9aee gluon-fftr-0.10.6+tackin-x86-64-sysupgrade.img.gz
+8devices-carambola2-board 0.11.4+tackin 4e96fb6115e569dafa90c34f17031c80b906ca4256ad297a51206715c409b546 3670020 gluon-fftr-0.11.4+tackin-8devices-carambola2-board-sysupgrade.bin
+8devices-carambola2-board 0.11.4+tackin 4e96fb6115e569dafa90c34f17031c80b906ca4256ad297a51206715c409b546 gluon-fftr-0.11.4+tackin-8devices-carambola2-board-sysupgrade.bin
+8devices-carambola2-board 0.11.4+tackin 88ac9635cb68e17164df87058a7b1096e83d279bee0ec3a83bea75631a66600ef0e2646029ae301fadb902476f1763a5a45abd108b3d83516ea5894432a77375 gluon-fftr-0.11.4+tackin-8devices-carambola2-board-sysupgrade.bin
+alfa-network-ap121f 0.11.4+tackin d874eaefb1561e2b506819a288dec3ae6da9edd729393921e24ab1d5006dca6d 3735731 gluon-fftr-0.11.4+tackin-alfa-network-ap121f-sysupgrade.bin
+alfa-network-ap121f 0.11.4+tackin d874eaefb1561e2b506819a288dec3ae6da9edd729393921e24ab1d5006dca6d gluon-fftr-0.11.4+tackin-alfa-network-ap121f-sysupgrade.bin
+alfa-network-ap121f 0.11.4+tackin 5de7052cfb015d5186877ced00fb4907aafa4c7da7aa56fdea2363d9c1699ec4f217b9e85fe89577778edac88f29a2616c96b51f895b208aed4f09c9ddce70e8 gluon-fftr-0.11.4+tackin-alfa-network-ap121f-sysupgrade.bin
+alfa-network-hornet-ub 0.11.4+tackin 7723412e84b3a258ffea9a748d510709f1ce9e9096f55c50b8c1fbbc95215a71 7737081 gluon-fftr-0.11.4+tackin-alfa-network-hornet-ub-sysupgrade.bin
+alfa-network-hornet-ub 0.11.4+tackin 7723412e84b3a258ffea9a748d510709f1ce9e9096f55c50b8c1fbbc95215a71 gluon-fftr-0.11.4+tackin-alfa-network-hornet-ub-sysupgrade.bin
+alfa-network-hornet-ub 0.11.4+tackin a102e6f82b56a0ed58601487cd9e0dedb9decb55cb7cce56716d3980a7ccffa8c9951f8bc6515be7eab45d8af98ace69aa18d3e9ee94ae1e7cd17dac286b1289 gluon-fftr-0.11.4+tackin-alfa-network-hornet-ub-sysupgrade.bin
+alfa-network-ap121 0.11.4+tackin 7723412e84b3a258ffea9a748d510709f1ce9e9096f55c50b8c1fbbc95215a71 7737081 gluon-fftr-0.11.4+tackin-alfa-network-ap121-sysupgrade.bin
+alfa-network-ap121 0.11.4+tackin 7723412e84b3a258ffea9a748d510709f1ce9e9096f55c50b8c1fbbc95215a71 gluon-fftr-0.11.4+tackin-alfa-network-ap121-sysupgrade.bin
+alfa-network-ap121 0.11.4+tackin a102e6f82b56a0ed58601487cd9e0dedb9decb55cb7cce56716d3980a7ccffa8c9951f8bc6515be7eab45d8af98ace69aa18d3e9ee94ae1e7cd17dac286b1289 gluon-fftr-0.11.4+tackin-alfa-network-ap121-sysupgrade.bin
+alfa-network-ap121u 0.11.4+tackin 7723412e84b3a258ffea9a748d510709f1ce9e9096f55c50b8c1fbbc95215a71 7737081 gluon-fftr-0.11.4+tackin-alfa-network-ap121u-sysupgrade.bin
+alfa-network-ap121u 0.11.4+tackin 7723412e84b3a258ffea9a748d510709f1ce9e9096f55c50b8c1fbbc95215a71 gluon-fftr-0.11.4+tackin-alfa-network-ap121u-sysupgrade.bin
+alfa-network-ap121u 0.11.4+tackin a102e6f82b56a0ed58601487cd9e0dedb9decb55cb7cce56716d3980a7ccffa8c9951f8bc6515be7eab45d8af98ace69aa18d3e9ee94ae1e7cd17dac286b1289 gluon-fftr-0.11.4+tackin-alfa-network-ap121u-sysupgrade.bin
+alfa-network-tube2h 0.11.4+tackin 9842aa1acd828bf0f86a33a1a64714ddb3c7c303c5b34655da5cde4a402f67e7 7737029 gluon-fftr-0.11.4+tackin-alfa-network-tube2h-sysupgrade.bin
+alfa-network-tube2h 0.11.4+tackin 9842aa1acd828bf0f86a33a1a64714ddb3c7c303c5b34655da5cde4a402f67e7 gluon-fftr-0.11.4+tackin-alfa-network-tube2h-sysupgrade.bin
+alfa-network-tube2h 0.11.4+tackin 40fa9855019cda2bdbaf927bb6a6ba6482b261abbb4d7fd784acee7a48382c3ff5423b349a897c04d9279091cb10f83a45695b8fbe4d29fb619fbae387785f69 gluon-fftr-0.11.4+tackin-alfa-network-tube2h-sysupgrade.bin
+alfa-network-n2-n5 0.11.4+tackin 5951d050fcfda052cc9826419cd89616e65c47f1401fbd397820f44317da94a4 7737064 gluon-fftr-0.11.4+tackin-alfa-network-n2-n5-sysupgrade.bin
+alfa-network-n2-n5 0.11.4+tackin 5951d050fcfda052cc9826419cd89616e65c47f1401fbd397820f44317da94a4 gluon-fftr-0.11.4+tackin-alfa-network-n2-n5-sysupgrade.bin
+alfa-network-n2-n5 0.11.4+tackin 2ed90c3cdf540b661f34620808a05929bb30984cc4ebe698dff9a95b08fdd89c76a32091255cceaae609d7604ff7815e6ab6b52c6e0be1d83c3efdde788c61e5 gluon-fftr-0.11.4+tackin-alfa-network-n2-n5-sysupgrade.bin
+allnet-all0315n 0.11.4+tackin 6c37c806c35073eaaa83ec2d811b2e2e7e78386ec1a6ffcc9008f94ca230933d 3670020 gluon-fftr-0.11.4+tackin-allnet-all0315n-sysupgrade.bin
+allnet-all0315n 0.11.4+tackin 6c37c806c35073eaaa83ec2d811b2e2e7e78386ec1a6ffcc9008f94ca230933d gluon-fftr-0.11.4+tackin-allnet-all0315n-sysupgrade.bin
+allnet-all0315n 0.11.4+tackin cad3cccab4ecf613e8cb768e4cb70790f179fe27dcfb359078f614fd2dd0438f314edc6925448b5fc3c0faa1f6eac243d81edd7eba37ec129b7a7810b073ecac gluon-fftr-0.11.4+tackin-allnet-all0315n-sysupgrade.bin
+avm-fritz-box-4020 0.11.4+tackin 555e94eae718209f2420df1e08f27b23351d369e9dc8c21fad559330376afd33 3735734 gluon-fftr-0.11.4+tackin-avm-fritz-box-4020-sysupgrade.bin
+avm-fritz-box-4020 0.11.4+tackin 555e94eae718209f2420df1e08f27b23351d369e9dc8c21fad559330376afd33 gluon-fftr-0.11.4+tackin-avm-fritz-box-4020-sysupgrade.bin
+avm-fritz-box-4020 0.11.4+tackin ac37873911efb03c38631a5daef6936886a88826a0ecbc80ba5165adb74e2ad6d756d7523066c86b295daf69af40264ae152876d0f038ca3ecf17d5f5208f2c1 gluon-fftr-0.11.4+tackin-avm-fritz-box-4020-sysupgrade.bin
+buffalo-wzr-hp-g300nh 0.11.4+tackin 4878201724bd8a8388b3a96b2fd2b3234ffcb2f0e63a40a3e4de33b86da0691f 3670020 gluon-fftr-0.11.4+tackin-buffalo-wzr-hp-g300nh-sysupgrade.bin
+buffalo-wzr-hp-g300nh 0.11.4+tackin 4878201724bd8a8388b3a96b2fd2b3234ffcb2f0e63a40a3e4de33b86da0691f gluon-fftr-0.11.4+tackin-buffalo-wzr-hp-g300nh-sysupgrade.bin
+buffalo-wzr-hp-g300nh 0.11.4+tackin 3e22a319eaefaffd0c6825289e304690cfdbc6ebb381671831c62d315459c11d5073befdff15fc170861e54b7a6623e7933d0d7796f95f85041d7aef04328fa6 gluon-fftr-0.11.4+tackin-buffalo-wzr-hp-g300nh-sysupgrade.bin
+buffalo-wzr-hp-g300nh2 0.11.4+tackin ee92b7b8923dd3ff736e8a111af979bf39ce23c7a7ddcec1e3d32a551f6a5c41 3604484 gluon-fftr-0.11.4+tackin-buffalo-wzr-hp-g300nh2-sysupgrade.bin
+buffalo-wzr-hp-g300nh2 0.11.4+tackin ee92b7b8923dd3ff736e8a111af979bf39ce23c7a7ddcec1e3d32a551f6a5c41 gluon-fftr-0.11.4+tackin-buffalo-wzr-hp-g300nh2-sysupgrade.bin
+buffalo-wzr-hp-g300nh2 0.11.4+tackin fa08cced52ad862d970d2ac02af64934251b2dfce45e37bf0f0a6c7a2d808b0a6eaa20f37cbd9eccf5c5af56d0f7d401de7dc846a89acfc6607bccd50bb6bf33 gluon-fftr-0.11.4+tackin-buffalo-wzr-hp-g300nh2-sysupgrade.bin
+buffalo-wzr-hp-g450h 0.11.4+tackin 973ac28fb999014dc8a92ae7a679d59b2057bf49b163a614e439e82a42475e9a 3604484 gluon-fftr-0.11.4+tackin-buffalo-wzr-hp-g450h-sysupgrade.bin
+buffalo-wzr-hp-g450h 0.11.4+tackin 973ac28fb999014dc8a92ae7a679d59b2057bf49b163a614e439e82a42475e9a gluon-fftr-0.11.4+tackin-buffalo-wzr-hp-g450h-sysupgrade.bin
+buffalo-wzr-hp-g450h 0.11.4+tackin 9ac3d33f33f993c3fde8784b063f4dec60fca127865d7d4b155f31560e68aa039204c6a14c009436fee972e6e88a87cabcfdc86ac69283365b49cc112b0d4f5d gluon-fftr-0.11.4+tackin-buffalo-wzr-hp-g450h-sysupgrade.bin
+buffalo-wzr-hp-ag300h-wzr-600dhp 0.11.4+tackin 735798368306a78a1cafa05c2a9298a75ff557fe43dc71a82ae7f03bc656a6af 3604484 gluon-fftr-0.11.4+tackin-buffalo-wzr-hp-ag300h-wzr-600dhp-sysupgrade.bin
+buffalo-wzr-hp-ag300h-wzr-600dhp 0.11.4+tackin 735798368306a78a1cafa05c2a9298a75ff557fe43dc71a82ae7f03bc656a6af gluon-fftr-0.11.4+tackin-buffalo-wzr-hp-ag300h-wzr-600dhp-sysupgrade.bin
+buffalo-wzr-hp-ag300h-wzr-600dhp 0.11.4+tackin e0cbccadcf9699477ea5a2446e7bdad1a8fe4c0ad244384c06453d68421d1efb29ac4f2aa509781dea682cfb27f654a65e209086ceebc5a330ab0028a07de788 gluon-fftr-0.11.4+tackin-buffalo-wzr-hp-ag300h-wzr-600dhp-sysupgrade.bin
+d-link-dir-505-rev-a1 0.11.4+tackin b528e75b442b310f45c6206e5bb405ce6bbfc21935d264ef4b6078bf2d3ab1b3 3604484 gluon-fftr-0.11.4+tackin-d-link-dir-505-rev-a1-sysupgrade.bin
+d-link-dir-505-rev-a1 0.11.4+tackin b528e75b442b310f45c6206e5bb405ce6bbfc21935d264ef4b6078bf2d3ab1b3 gluon-fftr-0.11.4+tackin-d-link-dir-505-rev-a1-sysupgrade.bin
+d-link-dir-505-rev-a1 0.11.4+tackin 5880d06f30905ef70e74ca61227a45850122a0ab6c8db722e903aefe5881ae5825f70509b7aa74f6d7db1bfb9ccf948d5f75bd8e2032520497d9a929f3aa2c52 gluon-fftr-0.11.4+tackin-d-link-dir-505-rev-a1-sysupgrade.bin
+d-link-dir-505-rev-a2 0.11.4+tackin b528e75b442b310f45c6206e5bb405ce6bbfc21935d264ef4b6078bf2d3ab1b3 3604484 gluon-fftr-0.11.4+tackin-d-link-dir-505-rev-a2-sysupgrade.bin
+d-link-dir-505-rev-a2 0.11.4+tackin b528e75b442b310f45c6206e5bb405ce6bbfc21935d264ef4b6078bf2d3ab1b3 gluon-fftr-0.11.4+tackin-d-link-dir-505-rev-a2-sysupgrade.bin
+d-link-dir-505-rev-a2 0.11.4+tackin 5880d06f30905ef70e74ca61227a45850122a0ab6c8db722e903aefe5881ae5825f70509b7aa74f6d7db1bfb9ccf948d5f75bd8e2032520497d9a929f3aa2c52 gluon-fftr-0.11.4+tackin-d-link-dir-505-rev-a2-sysupgrade.bin
+d-link-dir-825-rev-b1 0.11.4+tackin 0b5a771a700363ae3a1a2003bec7ee1730f96eec586031f99ba071e0b47aeb85 3604484 gluon-fftr-0.11.4+tackin-d-link-dir-825-rev-b1-sysupgrade.bin
+d-link-dir-825-rev-b1 0.11.4+tackin 0b5a771a700363ae3a1a2003bec7ee1730f96eec586031f99ba071e0b47aeb85 gluon-fftr-0.11.4+tackin-d-link-dir-825-rev-b1-sysupgrade.bin
+d-link-dir-825-rev-b1 0.11.4+tackin 607db36421513e6383c99413717a409503f92e6dc1790cbd9b78cf20ecea24ea4a225155c5a3f5c73322fe7a42c87b5570ca2d38673ae2e0767a36a4aa25b63d gluon-fftr-0.11.4+tackin-d-link-dir-825-rev-b1-sysupgrade.bin
+gl-inet-6408a-v1 0.11.4+tackin 1bea4929fe2b88e0138470477216b010e982ae6744c66d81c4561cf26596c9be 3604484 gluon-fftr-0.11.4+tackin-gl-inet-6408a-v1-sysupgrade.bin
+gl-inet-6408a-v1 0.11.4+tackin 1bea4929fe2b88e0138470477216b010e982ae6744c66d81c4561cf26596c9be gluon-fftr-0.11.4+tackin-gl-inet-6408a-v1-sysupgrade.bin
+gl-inet-6408a-v1 0.11.4+tackin fa578c17920329cb0112efeff810ad898e61626f231e586e5391212d6f63c1bfaccb09bd423196c2b8576245ac888695e6925831d603621a6ab37bb84bfab83b gluon-fftr-0.11.4+tackin-gl-inet-6408a-v1-sysupgrade.bin
+gl-inet-6416a-v1 0.11.4+tackin 1da7a83cac4fa0cbac9c6bbc471bd1d369c21bd9795c42da4148b19965fe83ff 3604484 gluon-fftr-0.11.4+tackin-gl-inet-6416a-v1-sysupgrade.bin
+gl-inet-6416a-v1 0.11.4+tackin 1da7a83cac4fa0cbac9c6bbc471bd1d369c21bd9795c42da4148b19965fe83ff gluon-fftr-0.11.4+tackin-gl-inet-6416a-v1-sysupgrade.bin
+gl-inet-6416a-v1 0.11.4+tackin 0fffdeda2f6996ee00f9c4e3f586a2c9f47ffce61e38ce97a4e0d070682d8b0a7cd18519d1cbc4044f2e3661bbcfee9bd21717213479304738c78fed1aacd1d9 gluon-fftr-0.11.4+tackin-gl-inet-6416a-v1-sysupgrade.bin
+gl-ar150 0.11.4+tackin 3b62dc8fdb895a4e908046af2d60d6a0227a9c4d911489fa6770bc96fd7b7545 3670020 gluon-fftr-0.11.4+tackin-gl-ar150-sysupgrade.bin
+gl-ar150 0.11.4+tackin 3b62dc8fdb895a4e908046af2d60d6a0227a9c4d911489fa6770bc96fd7b7545 gluon-fftr-0.11.4+tackin-gl-ar150-sysupgrade.bin
+gl-ar150 0.11.4+tackin 5022dc7c4427db55d6fbcc1aca73dce55fac801045fba38e9ad9943d0023ddd894f4054d1332103e110ad93a3183c7e12d39a37abeaef636444e1b67f6ebdc96 gluon-fftr-0.11.4+tackin-gl-ar150-sysupgrade.bin
+gl-ar300m 0.11.4+tackin 514f4b31ba7a3caf6f43108041d7553aec4cf57215762010634001c1bc5aae16 3670020 gluon-fftr-0.11.4+tackin-gl-ar300m-sysupgrade.bin
+gl-ar300m 0.11.4+tackin 514f4b31ba7a3caf6f43108041d7553aec4cf57215762010634001c1bc5aae16 gluon-fftr-0.11.4+tackin-gl-ar300m-sysupgrade.bin
+gl-ar300m 0.11.4+tackin 280d75fefa69ea755909206a7ac4ec2864cc2a3fe6e400760445d557e27b2f9441facf48080dbcf7de94d68776f8536ec07e0d42a6aa9b313faaaf8cfdbf1adb gluon-fftr-0.11.4+tackin-gl-ar300m-sysupgrade.bin
+gl-ar750 0.11.4+tackin 1d44cb5ec15c543fce9babd89c2b1530051edb5ab31e4171dad0c86501c87960 4194485 gluon-fftr-0.11.4+tackin-gl-ar750-sysupgrade.bin
+gl-ar750 0.11.4+tackin 1d44cb5ec15c543fce9babd89c2b1530051edb5ab31e4171dad0c86501c87960 gluon-fftr-0.11.4+tackin-gl-ar750-sysupgrade.bin
+gl-ar750 0.11.4+tackin 9bbb1ec828c76d2408c419f6e56e2bd935ab6e738be393e51ecd16342ffa93b77719559171c8a4cfba6843fad6b83d40f4935d3da591ee6e437f6cf0a2cea503 gluon-fftr-0.11.4+tackin-gl-ar750-sysupgrade.bin
+linksys-wrt160nl 0.11.4+tackin f6b129417f110b041637a76b6b9988102727abd37a57b2df2e5c05678d816494 3670048 gluon-fftr-0.11.4+tackin-linksys-wrt160nl-sysupgrade.bin
+linksys-wrt160nl 0.11.4+tackin f6b129417f110b041637a76b6b9988102727abd37a57b2df2e5c05678d816494 gluon-fftr-0.11.4+tackin-linksys-wrt160nl-sysupgrade.bin
+linksys-wrt160nl 0.11.4+tackin 0b74e6ab96f546ac915f8ccd558d2dc34651056d7dc180492883c2f072a66a9aba1ced2b1f62934c6d24322b405cdd5e3ed08ae7f5923f034bf963691a38ef72 gluon-fftr-0.11.4+tackin-linksys-wrt160nl-sysupgrade.bin
+netgear-wndr3700 0.11.4+tackin d93f9a668a50f2a8108e421b3a03324c145fe55d9bc99b129ddf9848a1321541 3604484 gluon-fftr-0.11.4+tackin-netgear-wndr3700-sysupgrade.bin
+netgear-wndr3700 0.11.4+tackin d93f9a668a50f2a8108e421b3a03324c145fe55d9bc99b129ddf9848a1321541 gluon-fftr-0.11.4+tackin-netgear-wndr3700-sysupgrade.bin
+netgear-wndr3700 0.11.4+tackin bd787fb5691610f58e8b9d540a458072c8927a89ee82ccbcec7558d0a88b2edb6c85217d82f73eb8194df23e3bfd0c8629b0835050cb67b8e49d43efbab5bfe7 gluon-fftr-0.11.4+tackin-netgear-wndr3700-sysupgrade.bin
+netgear-wndr3700v2 0.11.4+tackin e600a253334335fdbea4e017d8e4573794ce76f86b6985dc71130c8f3b392af3 3604484 gluon-fftr-0.11.4+tackin-netgear-wndr3700v2-sysupgrade.bin
+netgear-wndr3700v2 0.11.4+tackin e600a253334335fdbea4e017d8e4573794ce76f86b6985dc71130c8f3b392af3 gluon-fftr-0.11.4+tackin-netgear-wndr3700v2-sysupgrade.bin
+netgear-wndr3700v2 0.11.4+tackin 144c3236720e7ebb64824ca34f071f00ae377fb027f79c9ebd1ca5b37c7e2a3d3db71c2d14a6e6be01338911c9db6ac22b0f7c87df15c5462060c292c2c5392c gluon-fftr-0.11.4+tackin-netgear-wndr3700v2-sysupgrade.bin
+netgear-wndr3800 0.11.4+tackin e600a253334335fdbea4e017d8e4573794ce76f86b6985dc71130c8f3b392af3 3604484 gluon-fftr-0.11.4+tackin-netgear-wndr3800-sysupgrade.bin
+netgear-wndr3800 0.11.4+tackin e600a253334335fdbea4e017d8e4573794ce76f86b6985dc71130c8f3b392af3 gluon-fftr-0.11.4+tackin-netgear-wndr3800-sysupgrade.bin
+netgear-wndr3800 0.11.4+tackin 144c3236720e7ebb64824ca34f071f00ae377fb027f79c9ebd1ca5b37c7e2a3d3db71c2d14a6e6be01338911c9db6ac22b0f7c87df15c5462060c292c2c5392c gluon-fftr-0.11.4+tackin-netgear-wndr3800-sysupgrade.bin
+netgear-wndrmacv2 0.11.4+tackin e600a253334335fdbea4e017d8e4573794ce76f86b6985dc71130c8f3b392af3 3604484 gluon-fftr-0.11.4+tackin-netgear-wndrmacv2-sysupgrade.bin
+netgear-wndrmacv2 0.11.4+tackin e600a253334335fdbea4e017d8e4573794ce76f86b6985dc71130c8f3b392af3 gluon-fftr-0.11.4+tackin-netgear-wndrmacv2-sysupgrade.bin
+netgear-wndrmacv2 0.11.4+tackin 144c3236720e7ebb64824ca34f071f00ae377fb027f79c9ebd1ca5b37c7e2a3d3db71c2d14a6e6be01338911c9db6ac22b0f7c87df15c5462060c292c2c5392c gluon-fftr-0.11.4+tackin-netgear-wndrmacv2-sysupgrade.bin
+onion-omega 0.11.4+tackin 3cf0bf901db619c2eafbc0b9ff494488e4efae8a35c66b87ad05c358ea903219 3670020 gluon-fftr-0.11.4+tackin-onion-omega-sysupgrade.bin
+onion-omega 0.11.4+tackin 3cf0bf901db619c2eafbc0b9ff494488e4efae8a35c66b87ad05c358ea903219 gluon-fftr-0.11.4+tackin-onion-omega-sysupgrade.bin
+onion-omega 0.11.4+tackin e4d6c3022beb1a7c76e3978ee806816165c18e138b849194e2819d330d129c98cc1e048459b89431fc0c6fd361fa8e066c8a5ab1aead3ce3a8cdbb55e835fb14 gluon-fftr-0.11.4+tackin-onion-omega-sysupgrade.bin
+openmesh-a60 0.11.4+tackin a5f9c47c3e08bcd6046d7114f2e596580fce97e1aab9d3587f1e3e76699c37a4 4133222 gluon-fftr-0.11.4+tackin-openmesh-a60-sysupgrade.bin
+openmesh-a60 0.11.4+tackin a5f9c47c3e08bcd6046d7114f2e596580fce97e1aab9d3587f1e3e76699c37a4 gluon-fftr-0.11.4+tackin-openmesh-a60-sysupgrade.bin
+openmesh-a60 0.11.4+tackin 0a54b42e66632b1f9611990fc46000f34e021896e459ee1efeab954a71f4b994f479fec9f0dc1462caf729dd6828de5fbf51ec6c08687176d541629aaa6ece37 gluon-fftr-0.11.4+tackin-openmesh-a60-sysupgrade.bin
+openmesh-a40 0.11.4+tackin a5f9c47c3e08bcd6046d7114f2e596580fce97e1aab9d3587f1e3e76699c37a4 4133222 gluon-fftr-0.11.4+tackin-openmesh-a40-sysupgrade.bin
+openmesh-a40 0.11.4+tackin a5f9c47c3e08bcd6046d7114f2e596580fce97e1aab9d3587f1e3e76699c37a4 gluon-fftr-0.11.4+tackin-openmesh-a40-sysupgrade.bin
+openmesh-a40 0.11.4+tackin 0a54b42e66632b1f9611990fc46000f34e021896e459ee1efeab954a71f4b994f479fec9f0dc1462caf729dd6828de5fbf51ec6c08687176d541629aaa6ece37 gluon-fftr-0.11.4+tackin-openmesh-a40-sysupgrade.bin
+openmesh-mr1750 0.11.4+tackin d87ea28f9349cdd28f5f15159c17430fa6e4cdde0cbc343f962c8739d5dbbc3a 3871078 gluon-fftr-0.11.4+tackin-openmesh-mr1750-sysupgrade.bin
+openmesh-mr1750 0.11.4+tackin d87ea28f9349cdd28f5f15159c17430fa6e4cdde0cbc343f962c8739d5dbbc3a gluon-fftr-0.11.4+tackin-openmesh-mr1750-sysupgrade.bin
+openmesh-mr1750 0.11.4+tackin 781ebdab8abaab266e211abf28e11838ad99ca409c69a2708f3b9bdcc2dd347f5b03bbfdba915d79088842bacb19f9a94de1627cad2dd3f57dd608ae31ae181d gluon-fftr-0.11.4+tackin-openmesh-mr1750-sysupgrade.bin
+openmesh-mr1750v2 0.11.4+tackin d87ea28f9349cdd28f5f15159c17430fa6e4cdde0cbc343f962c8739d5dbbc3a 3871078 gluon-fftr-0.11.4+tackin-openmesh-mr1750v2-sysupgrade.bin
+openmesh-mr1750v2 0.11.4+tackin d87ea28f9349cdd28f5f15159c17430fa6e4cdde0cbc343f962c8739d5dbbc3a gluon-fftr-0.11.4+tackin-openmesh-mr1750v2-sysupgrade.bin
+openmesh-mr1750v2 0.11.4+tackin 781ebdab8abaab266e211abf28e11838ad99ca409c69a2708f3b9bdcc2dd347f5b03bbfdba915d79088842bacb19f9a94de1627cad2dd3f57dd608ae31ae181d gluon-fftr-0.11.4+tackin-openmesh-mr1750v2-sysupgrade.bin
+openmesh-mr600 0.11.4+tackin a69ff2ecb1387a6b0923f87f174701e7915ac14ce786f802bd42c6fe46a8190d 3608934 gluon-fftr-0.11.4+tackin-openmesh-mr600-sysupgrade.bin
+openmesh-mr600 0.11.4+tackin a69ff2ecb1387a6b0923f87f174701e7915ac14ce786f802bd42c6fe46a8190d gluon-fftr-0.11.4+tackin-openmesh-mr600-sysupgrade.bin
+openmesh-mr600 0.11.4+tackin 1b2e91931f975b56b42b3814674b677afb5a0757d7dee97cbc3a616ed14901174b5dbd298e24afce494ede736d79ea88528c0939db306dc21c2e2f7ca38736df gluon-fftr-0.11.4+tackin-openmesh-mr600-sysupgrade.bin
+openmesh-mr600v2 0.11.4+tackin a69ff2ecb1387a6b0923f87f174701e7915ac14ce786f802bd42c6fe46a8190d 3608934 gluon-fftr-0.11.4+tackin-openmesh-mr600v2-sysupgrade.bin
+openmesh-mr600v2 0.11.4+tackin a69ff2ecb1387a6b0923f87f174701e7915ac14ce786f802bd42c6fe46a8190d gluon-fftr-0.11.4+tackin-openmesh-mr600v2-sysupgrade.bin
+openmesh-mr600v2 0.11.4+tackin 1b2e91931f975b56b42b3814674b677afb5a0757d7dee97cbc3a616ed14901174b5dbd298e24afce494ede736d79ea88528c0939db306dc21c2e2f7ca38736df gluon-fftr-0.11.4+tackin-openmesh-mr600v2-sysupgrade.bin
+openmesh-mr900 0.11.4+tackin b4b814503222c64ef328faa6c2437a22f633a45d098114a2bc52c2199d9a4543 3608934 gluon-fftr-0.11.4+tackin-openmesh-mr900-sysupgrade.bin
+openmesh-mr900 0.11.4+tackin b4b814503222c64ef328faa6c2437a22f633a45d098114a2bc52c2199d9a4543 gluon-fftr-0.11.4+tackin-openmesh-mr900-sysupgrade.bin
+openmesh-mr900 0.11.4+tackin 46fd8aa3b105ae6ca811093920aacf54922e2f1915d974a23bc288f6f99e1a6287828ce22ea0cf888f390176c05996a79368cf0a9b336a7853eeb54125d0671f gluon-fftr-0.11.4+tackin-openmesh-mr900-sysupgrade.bin
+openmesh-mr900v2 0.11.4+tackin b4b814503222c64ef328faa6c2437a22f633a45d098114a2bc52c2199d9a4543 3608934 gluon-fftr-0.11.4+tackin-openmesh-mr900v2-sysupgrade.bin
+openmesh-mr900v2 0.11.4+tackin b4b814503222c64ef328faa6c2437a22f633a45d098114a2bc52c2199d9a4543 gluon-fftr-0.11.4+tackin-openmesh-mr900v2-sysupgrade.bin
+openmesh-mr900v2 0.11.4+tackin 46fd8aa3b105ae6ca811093920aacf54922e2f1915d974a23bc288f6f99e1a6287828ce22ea0cf888f390176c05996a79368cf0a9b336a7853eeb54125d0671f gluon-fftr-0.11.4+tackin-openmesh-mr900v2-sysupgrade.bin
+openmesh-om2p 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 3608935 gluon-fftr-0.11.4+tackin-openmesh-om2p-sysupgrade.bin
+openmesh-om2p 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 gluon-fftr-0.11.4+tackin-openmesh-om2p-sysupgrade.bin
+openmesh-om2p 0.11.4+tackin 2ffe0288e8b03a1437d6399453e725818d7875dc4f0b3abdc7ee9ed0c69921d7cc00c6cb9717022f1b10497cede46574882a7f7383cabcf293448cd384bbb5c9 gluon-fftr-0.11.4+tackin-openmesh-om2p-sysupgrade.bin
+openmesh-om2pv2 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 3608935 gluon-fftr-0.11.4+tackin-openmesh-om2pv2-sysupgrade.bin
+openmesh-om2pv2 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 gluon-fftr-0.11.4+tackin-openmesh-om2pv2-sysupgrade.bin
+openmesh-om2pv2 0.11.4+tackin 2ffe0288e8b03a1437d6399453e725818d7875dc4f0b3abdc7ee9ed0c69921d7cc00c6cb9717022f1b10497cede46574882a7f7383cabcf293448cd384bbb5c9 gluon-fftr-0.11.4+tackin-openmesh-om2pv2-sysupgrade.bin
+openmesh-om2pv4 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 3608935 gluon-fftr-0.11.4+tackin-openmesh-om2pv4-sysupgrade.bin
+openmesh-om2pv4 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 gluon-fftr-0.11.4+tackin-openmesh-om2pv4-sysupgrade.bin
+openmesh-om2pv4 0.11.4+tackin 2ffe0288e8b03a1437d6399453e725818d7875dc4f0b3abdc7ee9ed0c69921d7cc00c6cb9717022f1b10497cede46574882a7f7383cabcf293448cd384bbb5c9 gluon-fftr-0.11.4+tackin-openmesh-om2pv4-sysupgrade.bin
+openmesh-om2p-hs 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 3608935 gluon-fftr-0.11.4+tackin-openmesh-om2p-hs-sysupgrade.bin
+openmesh-om2p-hs 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 gluon-fftr-0.11.4+tackin-openmesh-om2p-hs-sysupgrade.bin
+openmesh-om2p-hs 0.11.4+tackin 2ffe0288e8b03a1437d6399453e725818d7875dc4f0b3abdc7ee9ed0c69921d7cc00c6cb9717022f1b10497cede46574882a7f7383cabcf293448cd384bbb5c9 gluon-fftr-0.11.4+tackin-openmesh-om2p-hs-sysupgrade.bin
+openmesh-om2p-hsv2 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 3608935 gluon-fftr-0.11.4+tackin-openmesh-om2p-hsv2-sysupgrade.bin
+openmesh-om2p-hsv2 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 gluon-fftr-0.11.4+tackin-openmesh-om2p-hsv2-sysupgrade.bin
+openmesh-om2p-hsv2 0.11.4+tackin 2ffe0288e8b03a1437d6399453e725818d7875dc4f0b3abdc7ee9ed0c69921d7cc00c6cb9717022f1b10497cede46574882a7f7383cabcf293448cd384bbb5c9 gluon-fftr-0.11.4+tackin-openmesh-om2p-hsv2-sysupgrade.bin
+openmesh-om2p-hsv3 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 3608935 gluon-fftr-0.11.4+tackin-openmesh-om2p-hsv3-sysupgrade.bin
+openmesh-om2p-hsv3 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 gluon-fftr-0.11.4+tackin-openmesh-om2p-hsv3-sysupgrade.bin
+openmesh-om2p-hsv3 0.11.4+tackin 2ffe0288e8b03a1437d6399453e725818d7875dc4f0b3abdc7ee9ed0c69921d7cc00c6cb9717022f1b10497cede46574882a7f7383cabcf293448cd384bbb5c9 gluon-fftr-0.11.4+tackin-openmesh-om2p-hsv3-sysupgrade.bin
+openmesh-om2p-hsv4 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 3608935 gluon-fftr-0.11.4+tackin-openmesh-om2p-hsv4-sysupgrade.bin
+openmesh-om2p-hsv4 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 gluon-fftr-0.11.4+tackin-openmesh-om2p-hsv4-sysupgrade.bin
+openmesh-om2p-hsv4 0.11.4+tackin 2ffe0288e8b03a1437d6399453e725818d7875dc4f0b3abdc7ee9ed0c69921d7cc00c6cb9717022f1b10497cede46574882a7f7383cabcf293448cd384bbb5c9 gluon-fftr-0.11.4+tackin-openmesh-om2p-hsv4-sysupgrade.bin
+openmesh-om2p-lc 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 3608935 gluon-fftr-0.11.4+tackin-openmesh-om2p-lc-sysupgrade.bin
+openmesh-om2p-lc 0.11.4+tackin 118e9a4f7865f9e01dc91d4018b9b26a887bd4bf24d7be74f098349a13134455 gluon-fftr-0.11.4+tackin-openmesh-om2p-lc-sysupgrade.bin
+openmesh-om2p-lc 0.11.4+tackin 2ffe0288e8b03a1437d6399453e725818d7875dc4f0b3abdc7ee9ed0c69921d7cc00c6cb9717022f1b10497cede46574882a7f7383cabcf293448cd384bbb5c9 gluon-fftr-0.11.4+tackin-openmesh-om2p-lc-sysupgrade.bin
+openmesh-om5p 0.11.4+tackin c74d5a6b04d852c46c19ec9dc51f03c5b8a5350a7a7ec34131af8e80a2e0bb25 3608934 gluon-fftr-0.11.4+tackin-openmesh-om5p-sysupgrade.bin
+openmesh-om5p 0.11.4+tackin c74d5a6b04d852c46c19ec9dc51f03c5b8a5350a7a7ec34131af8e80a2e0bb25 gluon-fftr-0.11.4+tackin-openmesh-om5p-sysupgrade.bin
+openmesh-om5p 0.11.4+tackin b8960c1e2686edb1898426200bbe8725de2d20fdc6d5390fd79835966481a3328b2cd53abbf9cfe3e1636eba86b46306eddcd3189e099c57b57ccfb7651f94e6 gluon-fftr-0.11.4+tackin-openmesh-om5p-sysupgrade.bin
+openmesh-om5p-an 0.11.4+tackin c74d5a6b04d852c46c19ec9dc51f03c5b8a5350a7a7ec34131af8e80a2e0bb25 3608934 gluon-fftr-0.11.4+tackin-openmesh-om5p-an-sysupgrade.bin
+openmesh-om5p-an 0.11.4+tackin c74d5a6b04d852c46c19ec9dc51f03c5b8a5350a7a7ec34131af8e80a2e0bb25 gluon-fftr-0.11.4+tackin-openmesh-om5p-an-sysupgrade.bin
+openmesh-om5p-an 0.11.4+tackin b8960c1e2686edb1898426200bbe8725de2d20fdc6d5390fd79835966481a3328b2cd53abbf9cfe3e1636eba86b46306eddcd3189e099c57b57ccfb7651f94e6 gluon-fftr-0.11.4+tackin-openmesh-om5p-an-sysupgrade.bin
+openmesh-om5p-ac 0.11.4+tackin e4659b255c4ebc41f527f269ee401e949f5b9c855871f15192edee7580c0c81f 3871078 gluon-fftr-0.11.4+tackin-openmesh-om5p-ac-sysupgrade.bin
+openmesh-om5p-ac 0.11.4+tackin e4659b255c4ebc41f527f269ee401e949f5b9c855871f15192edee7580c0c81f gluon-fftr-0.11.4+tackin-openmesh-om5p-ac-sysupgrade.bin
+openmesh-om5p-ac 0.11.4+tackin 042b9aa6775c810960a14a8fd1a3776287b8f5ef2251f3dba0d8a7cbb01207f37c1f7d081add265a0719370ef947c02e19e1251fc04dc19237e59d78b24b1e7f gluon-fftr-0.11.4+tackin-openmesh-om5p-ac-sysupgrade.bin
+openmesh-om5p-acv2 0.11.4+tackin e4659b255c4ebc41f527f269ee401e949f5b9c855871f15192edee7580c0c81f 3871078 gluon-fftr-0.11.4+tackin-openmesh-om5p-acv2-sysupgrade.bin
+openmesh-om5p-acv2 0.11.4+tackin e4659b255c4ebc41f527f269ee401e949f5b9c855871f15192edee7580c0c81f gluon-fftr-0.11.4+tackin-openmesh-om5p-acv2-sysupgrade.bin
+openmesh-om5p-acv2 0.11.4+tackin 042b9aa6775c810960a14a8fd1a3776287b8f5ef2251f3dba0d8a7cbb01207f37c1f7d081add265a0719370ef947c02e19e1251fc04dc19237e59d78b24b1e7f gluon-fftr-0.11.4+tackin-openmesh-om5p-acv2-sysupgrade.bin
+tp-link-cpe210-v1.0 0.11.4+tackin b2fd41f1d4382b695991a750e1834bc17fd922f825a3f18d4eaebf1f54dec992 7803120 gluon-fftr-0.11.4+tackin-tp-link-cpe210-v1.0-sysupgrade.bin
+tp-link-cpe210-v1.0 0.11.4+tackin b2fd41f1d4382b695991a750e1834bc17fd922f825a3f18d4eaebf1f54dec992 gluon-fftr-0.11.4+tackin-tp-link-cpe210-v1.0-sysupgrade.bin
+tp-link-cpe210-v1.0 0.11.4+tackin 35258bc09bb17529647093c85138fefb28ba71cd6196940907b2c562cc0b1e605a61d6435fd64317962b106cfa095068583e8115765bb744f0aa7340511245a9 gluon-fftr-0.11.4+tackin-tp-link-cpe210-v1.0-sysupgrade.bin
+tp-link-cpe210-v1.1 0.11.4+tackin b2fd41f1d4382b695991a750e1834bc17fd922f825a3f18d4eaebf1f54dec992 7803120 gluon-fftr-0.11.4+tackin-tp-link-cpe210-v1.1-sysupgrade.bin
+tp-link-cpe210-v1.1 0.11.4+tackin b2fd41f1d4382b695991a750e1834bc17fd922f825a3f18d4eaebf1f54dec992 gluon-fftr-0.11.4+tackin-tp-link-cpe210-v1.1-sysupgrade.bin
+tp-link-cpe210-v1.1 0.11.4+tackin 35258bc09bb17529647093c85138fefb28ba71cd6196940907b2c562cc0b1e605a61d6435fd64317962b106cfa095068583e8115765bb744f0aa7340511245a9 gluon-fftr-0.11.4+tackin-tp-link-cpe210-v1.1-sysupgrade.bin
+tp-link-cpe220-v1.1 0.11.4+tackin b2fd41f1d4382b695991a750e1834bc17fd922f825a3f18d4eaebf1f54dec992 7803120 gluon-fftr-0.11.4+tackin-tp-link-cpe220-v1.1-sysupgrade.bin
+tp-link-cpe220-v1.1 0.11.4+tackin b2fd41f1d4382b695991a750e1834bc17fd922f825a3f18d4eaebf1f54dec992 gluon-fftr-0.11.4+tackin-tp-link-cpe220-v1.1-sysupgrade.bin
+tp-link-cpe220-v1.1 0.11.4+tackin 35258bc09bb17529647093c85138fefb28ba71cd6196940907b2c562cc0b1e605a61d6435fd64317962b106cfa095068583e8115765bb744f0aa7340511245a9 gluon-fftr-0.11.4+tackin-tp-link-cpe220-v1.1-sysupgrade.bin
+tp-link-cpe210-v2.0 0.11.4+tackin 65f7eaa951f4ca4c211bf6e648c910185c26bed5b70c69eef363982508acfed4 7803276 gluon-fftr-0.11.4+tackin-tp-link-cpe210-v2.0-sysupgrade.bin
+tp-link-cpe210-v2.0 0.11.4+tackin 65f7eaa951f4ca4c211bf6e648c910185c26bed5b70c69eef363982508acfed4 gluon-fftr-0.11.4+tackin-tp-link-cpe210-v2.0-sysupgrade.bin
+tp-link-cpe210-v2.0 0.11.4+tackin d663496b68f4d065cfae2c3ec353ca78b528c9143ad9b4f22a00e20d5566adf571e3e5c7621680bdfbbe397b3008bdea655d7e399be6671edeadb6438562babe gluon-fftr-0.11.4+tackin-tp-link-cpe210-v2.0-sysupgrade.bin
+tp-link-cpe510-v1.0 0.11.4+tackin a97336ef9ae23292f40f09026c3914f68bca5f8325467f3d21cfe2c977faf78f 7803151 gluon-fftr-0.11.4+tackin-tp-link-cpe510-v1.0-sysupgrade.bin
+tp-link-cpe510-v1.0 0.11.4+tackin a97336ef9ae23292f40f09026c3914f68bca5f8325467f3d21cfe2c977faf78f gluon-fftr-0.11.4+tackin-tp-link-cpe510-v1.0-sysupgrade.bin
+tp-link-cpe510-v1.0 0.11.4+tackin 834b164742647f6ec2593d18eb52339d1e31940171d5b10a566fd596772d480a5e43cb8ba7ce2ebff838035a299e2bb5dfa5b1ef9270cc3f2155a5f8002e7f74 gluon-fftr-0.11.4+tackin-tp-link-cpe510-v1.0-sysupgrade.bin
+tp-link-cpe510-v1.1 0.11.4+tackin a97336ef9ae23292f40f09026c3914f68bca5f8325467f3d21cfe2c977faf78f 7803151 gluon-fftr-0.11.4+tackin-tp-link-cpe510-v1.1-sysupgrade.bin
+tp-link-cpe510-v1.1 0.11.4+tackin a97336ef9ae23292f40f09026c3914f68bca5f8325467f3d21cfe2c977faf78f gluon-fftr-0.11.4+tackin-tp-link-cpe510-v1.1-sysupgrade.bin
+tp-link-cpe510-v1.1 0.11.4+tackin 834b164742647f6ec2593d18eb52339d1e31940171d5b10a566fd596772d480a5e43cb8ba7ce2ebff838035a299e2bb5dfa5b1ef9270cc3f2155a5f8002e7f74 gluon-fftr-0.11.4+tackin-tp-link-cpe510-v1.1-sysupgrade.bin
+tp-link-cpe520-v1.1 0.11.4+tackin a97336ef9ae23292f40f09026c3914f68bca5f8325467f3d21cfe2c977faf78f 7803151 gluon-fftr-0.11.4+tackin-tp-link-cpe520-v1.1-sysupgrade.bin
+tp-link-cpe520-v1.1 0.11.4+tackin a97336ef9ae23292f40f09026c3914f68bca5f8325467f3d21cfe2c977faf78f gluon-fftr-0.11.4+tackin-tp-link-cpe520-v1.1-sysupgrade.bin
+tp-link-cpe520-v1.1 0.11.4+tackin 834b164742647f6ec2593d18eb52339d1e31940171d5b10a566fd596772d480a5e43cb8ba7ce2ebff838035a299e2bb5dfa5b1ef9270cc3f2155a5f8002e7f74 gluon-fftr-0.11.4+tackin-tp-link-cpe520-v1.1-sysupgrade.bin
+tp-link-wbs210-v1.20 0.11.4+tackin fa8c627d9dbd92a824d8a9b245c608cc97389baf3cd81b441f53b03ebf8a5aff 7802999 gluon-fftr-0.11.4+tackin-tp-link-wbs210-v1.20-sysupgrade.bin
+tp-link-wbs210-v1.20 0.11.4+tackin fa8c627d9dbd92a824d8a9b245c608cc97389baf3cd81b441f53b03ebf8a5aff gluon-fftr-0.11.4+tackin-tp-link-wbs210-v1.20-sysupgrade.bin
+tp-link-wbs210-v1.20 0.11.4+tackin c0aa8882dddc8b7e107c5cb2c56230b4dde595b968a8d47f041bdd34fe57b05e970396cb8e68d57ff23f2976829d0fa4ad11b336769785d6ef862c9c72dc6d75 gluon-fftr-0.11.4+tackin-tp-link-wbs210-v1.20-sysupgrade.bin
+tp-link-wbs510-v1.20 0.11.4+tackin 9253299cdedfce0e39b95a76b4eb22e218933e887a0f8d64f57a2bbd6f1bc63a 7802999 gluon-fftr-0.11.4+tackin-tp-link-wbs510-v1.20-sysupgrade.bin
+tp-link-wbs510-v1.20 0.11.4+tackin 9253299cdedfce0e39b95a76b4eb22e218933e887a0f8d64f57a2bbd6f1bc63a gluon-fftr-0.11.4+tackin-tp-link-wbs510-v1.20-sysupgrade.bin
+tp-link-wbs510-v1.20 0.11.4+tackin a89e40a1b7cd011e932f2b6d3432a3e3ab0cd065d0687381fcf9dd104d2bdf9f89aacd6852f31e61dcf7ba1aee940703130809f5ed30aaf1d993ab086d8feb59 gluon-fftr-0.11.4+tackin-tp-link-wbs510-v1.20-sysupgrade.bin
+tp-link-tl-wr710n-v1 0.11.4+tackin 24d88a9c00d43a8e117400db97d02564742dacde41d37e12e9c19ec57829ee6a 3604484 gluon-fftr-0.11.4+tackin-tp-link-tl-wr710n-v1-sysupgrade.bin
+tp-link-tl-wr710n-v1 0.11.4+tackin 24d88a9c00d43a8e117400db97d02564742dacde41d37e12e9c19ec57829ee6a gluon-fftr-0.11.4+tackin-tp-link-tl-wr710n-v1-sysupgrade.bin
+tp-link-tl-wr710n-v1 0.11.4+tackin 23821d6b234264136a5aa78d530b2883be10f59bd60ac1558288a6111afe04c4ee843e8ba86d399b278ac9d29fb9cf9462229bfb59debc3bd84f204279216655 gluon-fftr-0.11.4+tackin-tp-link-tl-wr710n-v1-sysupgrade.bin
+tp-link-tl-wr710n-v2.1 0.11.4+tackin b0eb1a0a72cfa3a219446f5225c0a1236d4c320ef1fee5870fba31b86f6919ac 3604484 gluon-fftr-0.11.4+tackin-tp-link-tl-wr710n-v2.1-sysupgrade.bin
+tp-link-tl-wr710n-v2.1 0.11.4+tackin b0eb1a0a72cfa3a219446f5225c0a1236d4c320ef1fee5870fba31b86f6919ac gluon-fftr-0.11.4+tackin-tp-link-tl-wr710n-v2.1-sysupgrade.bin
+tp-link-tl-wr710n-v2.1 0.11.4+tackin 4a4c1f9774c77884e44eabb33df4db41973fab78f7468407624f169143ee0ef697aaf46f1be86501bb8fa7850890a1cb2575b0d4992b35232c7949976f7b42bb gluon-fftr-0.11.4+tackin-tp-link-tl-wr710n-v2.1-sysupgrade.bin
+tp-link-tl-wr842n-nd-v1 0.11.4+tackin 331aeead7640dbd051013ed060e1e97f2bbc1900f3f45cfb62f6585b36c6a512 3604484 gluon-fftr-0.11.4+tackin-tp-link-tl-wr842n-nd-v1-sysupgrade.bin
+tp-link-tl-wr842n-nd-v1 0.11.4+tackin 331aeead7640dbd051013ed060e1e97f2bbc1900f3f45cfb62f6585b36c6a512 gluon-fftr-0.11.4+tackin-tp-link-tl-wr842n-nd-v1-sysupgrade.bin
+tp-link-tl-wr842n-nd-v1 0.11.4+tackin c5948e519d575121ca99e32f9f13dc3c2ece6e9562711b0c112955f16268a8093d8fc1d5a686a00bb30417251db4e9fad456ee1c62caae30b98fcd9d2f5b9b04 gluon-fftr-0.11.4+tackin-tp-link-tl-wr842n-nd-v1-sysupgrade.bin
+tp-link-tl-wr842n-nd-v2 0.11.4+tackin 819b246c78c8fb548a4f0de1c2331d6150cc946a9a8ed5df895d061965651690 3604484 gluon-fftr-0.11.4+tackin-tp-link-tl-wr842n-nd-v2-sysupgrade.bin
+tp-link-tl-wr842n-nd-v2 0.11.4+tackin 819b246c78c8fb548a4f0de1c2331d6150cc946a9a8ed5df895d061965651690 gluon-fftr-0.11.4+tackin-tp-link-tl-wr842n-nd-v2-sysupgrade.bin
+tp-link-tl-wr842n-nd-v2 0.11.4+tackin ce6516ca8e9dfc7bb7ddf68525f7223154db2c7b728f8591b21fc53e00dbc0de7f68b621401f56a3b2367762b143dfee9e539f520c9af07ec122ce9688c7850f gluon-fftr-0.11.4+tackin-tp-link-tl-wr842n-nd-v2-sysupgrade.bin
+tp-link-tl-wr842n-nd-v3 0.11.4+tackin 4c9d0d874bd39322cccab4f0b525e2fd7874ad47bcf6e4e668cdfe5deb64f5d2 3604484 gluon-fftr-0.11.4+tackin-tp-link-tl-wr842n-nd-v3-sysupgrade.bin
+tp-link-tl-wr842n-nd-v3 0.11.4+tackin 4c9d0d874bd39322cccab4f0b525e2fd7874ad47bcf6e4e668cdfe5deb64f5d2 gluon-fftr-0.11.4+tackin-tp-link-tl-wr842n-nd-v3-sysupgrade.bin
+tp-link-tl-wr842n-nd-v3 0.11.4+tackin d84738927206d9274453ae2988cfc9d8ce57f05c8bc99b65c7736f119e14d2f2f1ce8c0f0ca07dd1313046bce8c20aa4ae9aca655c85b69b14a12b1ffb672331 gluon-fftr-0.11.4+tackin-tp-link-tl-wr842n-nd-v3-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v1 0.11.4+tackin a6ebfd8ca5114b63391917ffe0378ac61c8184df9e14cfec558fc4811e7444e0 3604484 gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-nd-v1-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v1 0.11.4+tackin a6ebfd8ca5114b63391917ffe0378ac61c8184df9e14cfec558fc4811e7444e0 gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-nd-v1-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v1 0.11.4+tackin 36f65e3e1b1289ccb2255f7e1eed178419052b48ea9c660f7c25bb37d50fedc1486ea950d0a7a3027ea6da282c21e3721780ba2a67f4a81ca82db8ace86496fd gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-nd-v1-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v2 0.11.4+tackin 346d84690c828168bf5f781aabf4d4762313e2838f651c6004cace6446b8ee1a 3604484 gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-nd-v2-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v2 0.11.4+tackin 346d84690c828168bf5f781aabf4d4762313e2838f651c6004cace6446b8ee1a gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-nd-v2-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v2 0.11.4+tackin 0635e986203d4d262e7584f46cb200860a0b5471c1555d07c8a788dcea1d89377316a8779350560393f75328c32426f2642e23a90d98f14bc66373ae6b09895e gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-nd-v2-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v3 0.11.4+tackin afcb25d2d878bce01a53616a6b0c27b35fdd5cdc11a5d477bbb87b61fad41f46 3604484 gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-nd-v3-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v3 0.11.4+tackin afcb25d2d878bce01a53616a6b0c27b35fdd5cdc11a5d477bbb87b61fad41f46 gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-nd-v3-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v3 0.11.4+tackin 05f6fa89e51176436feeb2d8a2fb0e79063da0304fb4516f9a9253694e078b6c7288a9faf7be8321dcc1139284c820188448b166c58e8306cf12628a6202b4e1 gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-nd-v3-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v4 0.11.4+tackin 4204d0b49a12f3e08067338f0e6fb300f11084fa5a24f4901061c58a05db14a1 3735556 gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-nd-v4-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v4 0.11.4+tackin 4204d0b49a12f3e08067338f0e6fb300f11084fa5a24f4901061c58a05db14a1 gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-nd-v4-sysupgrade.bin
+tp-link-tl-wr1043n-nd-v4 0.11.4+tackin fac5ce5fce1efdd88d0c5256d64c0ad026026b5a0759a6aeceda42567b817cda9c5936108e24d3ec6be59b17729efc76799054425f6819c59769bcd407b4b5dd gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-nd-v4-sysupgrade.bin
+tp-link-tl-wr1043n-v5 0.11.4+tackin 6bb159a5b57910a02761943287ded076d0f4330a221c58436070e5903f8c37f0 3604666 gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-v5-sysupgrade.bin
+tp-link-tl-wr1043n-v5 0.11.4+tackin 6bb159a5b57910a02761943287ded076d0f4330a221c58436070e5903f8c37f0 gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-v5-sysupgrade.bin
+tp-link-tl-wr1043n-v5 0.11.4+tackin 0fef1096125b83d750a68c25e3438ea6d7f77a2eb3ba8292f4868b2f2b14479cab6bff0f49cb238de444f8f14a99467537e2aade2196615d4c1978d872347f40 gluon-fftr-0.11.4+tackin-tp-link-tl-wr1043n-v5-sysupgrade.bin
+tp-link-tl-wdr3500-v1 0.11.4+tackin b2dd4b7e9a0bd5b208f624b1d4d7514c7fd5061d9cdad33854b03cefdd3154b1 3604484 gluon-fftr-0.11.4+tackin-tp-link-tl-wdr3500-v1-sysupgrade.bin
+tp-link-tl-wdr3500-v1 0.11.4+tackin b2dd4b7e9a0bd5b208f624b1d4d7514c7fd5061d9cdad33854b03cefdd3154b1 gluon-fftr-0.11.4+tackin-tp-link-tl-wdr3500-v1-sysupgrade.bin
+tp-link-tl-wdr3500-v1 0.11.4+tackin 2910ce30f5a3a8d7e67c059fcc5587ee928f1cab89f368450c7c5d0e06a847cc5b439184fbc6a83d693f1b0839e95df7a08ff497a193a9ef0c35d2d39f3b35df gluon-fftr-0.11.4+tackin-tp-link-tl-wdr3500-v1-sysupgrade.bin
+tp-link-tl-wdr3600-v1 0.11.4+tackin adc98b68e1dffe970265f91337919984b3ecab96ff313a616a065b9b65500f95 3604484 gluon-fftr-0.11.4+tackin-tp-link-tl-wdr3600-v1-sysupgrade.bin
+tp-link-tl-wdr3600-v1 0.11.4+tackin adc98b68e1dffe970265f91337919984b3ecab96ff313a616a065b9b65500f95 gluon-fftr-0.11.4+tackin-tp-link-tl-wdr3600-v1-sysupgrade.bin
+tp-link-tl-wdr3600-v1 0.11.4+tackin 5921f37a373a4f40288256b341f039e63acadd2f771317df9195054c968986b7ec2e9d609233c394407b3bb9a0658bd0036c050005d5cc7184c278b948d3245d gluon-fftr-0.11.4+tackin-tp-link-tl-wdr3600-v1-sysupgrade.bin
+tp-link-tl-wdr4300-v1 0.11.4+tackin 4f06388bfbab087458a6deaefcef1ee7f7d16b63eff3580fd84b1ee4614377a7 3604484 gluon-fftr-0.11.4+tackin-tp-link-tl-wdr4300-v1-sysupgrade.bin
+tp-link-tl-wdr4300-v1 0.11.4+tackin 4f06388bfbab087458a6deaefcef1ee7f7d16b63eff3580fd84b1ee4614377a7 gluon-fftr-0.11.4+tackin-tp-link-tl-wdr4300-v1-sysupgrade.bin
+tp-link-tl-wdr4300-v1 0.11.4+tackin 5a31857c1a4089dda5979933b2771dc7df71bfff81e1fc296838680fd0cb19991d3ea091e419dae38d927fd1b8f81c86e2384cb4ec31ec304e7b4b1836a97d7b gluon-fftr-0.11.4+tackin-tp-link-tl-wdr4300-v1-sysupgrade.bin
+tp-link-tl-wr2543n-nd-v1 0.11.4+tackin d439713af8bc5e5b6f920255e528438f4c00134b51f17cc2c5267248db4b92c7 3604484 gluon-fftr-0.11.4+tackin-tp-link-tl-wr2543n-nd-v1-sysupgrade.bin
+tp-link-tl-wr2543n-nd-v1 0.11.4+tackin d439713af8bc5e5b6f920255e528438f4c00134b51f17cc2c5267248db4b92c7 gluon-fftr-0.11.4+tackin-tp-link-tl-wr2543n-nd-v1-sysupgrade.bin
+tp-link-tl-wr2543n-nd-v1 0.11.4+tackin 7e158721f2cd853bb6af8d6df8460b33b3caa7f6c5f70969f8b182864ec1405b183032a7765369849cea1f60099b4763038e9c93ae17d5927000150c2b20a2cf gluon-fftr-0.11.4+tackin-tp-link-tl-wr2543n-nd-v1-sysupgrade.bin
+tp-link-archer-c5-v1 0.11.4+tackin bd558cbaef268a23080a69e669b44d6d2a8f23f381195137feb66c4e70310bcd 3866628 gluon-fftr-0.11.4+tackin-tp-link-archer-c5-v1-sysupgrade.bin
+tp-link-archer-c5-v1 0.11.4+tackin bd558cbaef268a23080a69e669b44d6d2a8f23f381195137feb66c4e70310bcd gluon-fftr-0.11.4+tackin-tp-link-archer-c5-v1-sysupgrade.bin
+tp-link-archer-c5-v1 0.11.4+tackin 2c012e6db487149691d1d5ed6e72e9183808f05bc93b078e50545b07c2eeb4b652ba98727c18176c50c77874199c34e5a214af08a230875e6d6d720a60a87d62 gluon-fftr-0.11.4+tackin-tp-link-archer-c5-v1-sysupgrade.bin
+tp-link-archer-c7-v2 0.11.4+tackin b0bf00592288c96bd6a5dd5b833fdafb48bc24c627139f9452a2ab648a499579 3866628 gluon-fftr-0.11.4+tackin-tp-link-archer-c7-v2-sysupgrade.bin
+tp-link-archer-c7-v2 0.11.4+tackin b0bf00592288c96bd6a5dd5b833fdafb48bc24c627139f9452a2ab648a499579 gluon-fftr-0.11.4+tackin-tp-link-archer-c7-v2-sysupgrade.bin
+tp-link-archer-c7-v2 0.11.4+tackin 79a1bf79585c4d7e202894856fc5d4c20cd6b9e137156b40fc35132086e88a433266c855ac4d08d1c91fdb64ed2ba29e9abe1f8302e047a3ce7bd19c30fa748e gluon-fftr-0.11.4+tackin-tp-link-archer-c7-v2-sysupgrade.bin
+tp-link-archer-c7-v4 0.11.4+tackin 3c81f0348572e14307784b9804b2a4338621b58e9f6a4416604fb0c25c39bd1e 3932345 gluon-fftr-0.11.4+tackin-tp-link-archer-c7-v4-sysupgrade.bin
+tp-link-archer-c7-v4 0.11.4+tackin 3c81f0348572e14307784b9804b2a4338621b58e9f6a4416604fb0c25c39bd1e gluon-fftr-0.11.4+tackin-tp-link-archer-c7-v4-sysupgrade.bin
+tp-link-archer-c7-v4 0.11.4+tackin 03ae831b1b459f52f52be778bc9ef9c5b766437f823a9e829b05df9d5f235cff3905e86a31c4d01873b2563b97798e78c9bcb1c325edd16395b8279fdfedf04c gluon-fftr-0.11.4+tackin-tp-link-archer-c7-v4-sysupgrade.bin
+tp-link-re450 0.11.4+tackin 764e3c9544301ceeca21d087844633a726991643c3b88557d386d161c1e36bb1 3932164 gluon-fftr-0.11.4+tackin-tp-link-re450-sysupgrade.bin
+tp-link-re450 0.11.4+tackin 764e3c9544301ceeca21d087844633a726991643c3b88557d386d161c1e36bb1 gluon-fftr-0.11.4+tackin-tp-link-re450-sysupgrade.bin
+tp-link-re450 0.11.4+tackin 371a70b115cec24ad7d613edf232c84b6e3d30b909b031d6267696ec924ea9dd600ffe1307c9a99ccbe6dc17ca300cd01ab21e2d4883427e4224abbd7e4b832b gluon-fftr-0.11.4+tackin-tp-link-re450-sysupgrade.bin
+ubiquiti-airgateway 0.11.4+tackin 0c5fd98753db246bff38b77427fe8a79cbf3df7bed635ac4edcc8c2f069ca1e9 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-airgateway-sysupgrade.bin
+ubiquiti-airgateway 0.11.4+tackin 0c5fd98753db246bff38b77427fe8a79cbf3df7bed635ac4edcc8c2f069ca1e9 gluon-fftr-0.11.4+tackin-ubiquiti-airgateway-sysupgrade.bin
+ubiquiti-airgateway 0.11.4+tackin 7ccb3506bd60d90126ee574abe6e176b34fb6501fb9c9dbea4437de1161598bfd56aa6ac55e015382955dc9b47a60def5da88fe7eb3037b5bdcc1217d4fac4dd gluon-fftr-0.11.4+tackin-ubiquiti-airgateway-sysupgrade.bin
+ubiquiti-airgateway-lr 0.11.4+tackin 0c5fd98753db246bff38b77427fe8a79cbf3df7bed635ac4edcc8c2f069ca1e9 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-airgateway-lr-sysupgrade.bin
+ubiquiti-airgateway-lr 0.11.4+tackin 0c5fd98753db246bff38b77427fe8a79cbf3df7bed635ac4edcc8c2f069ca1e9 gluon-fftr-0.11.4+tackin-ubiquiti-airgateway-lr-sysupgrade.bin
+ubiquiti-airgateway-lr 0.11.4+tackin 7ccb3506bd60d90126ee574abe6e176b34fb6501fb9c9dbea4437de1161598bfd56aa6ac55e015382955dc9b47a60def5da88fe7eb3037b5bdcc1217d4fac4dd gluon-fftr-0.11.4+tackin-ubiquiti-airgateway-lr-sysupgrade.bin
+ubiquiti-airgateway-pro 0.11.4+tackin fb591703b64206dfceecf4a5b59927049484d2ac3e9d22f272af92857664af39 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-airgateway-pro-sysupgrade.bin
+ubiquiti-airgateway-pro 0.11.4+tackin fb591703b64206dfceecf4a5b59927049484d2ac3e9d22f272af92857664af39 gluon-fftr-0.11.4+tackin-ubiquiti-airgateway-pro-sysupgrade.bin
+ubiquiti-airgateway-pro 0.11.4+tackin 5d5f8c982ccedd870dfba0f5be96c703010aaf323c11b0d009da445ca08a3fe797f9e6ca278f4ca7093cbc77e3ad5f47c4fd44a35eff582f34ebc10a7f60fb0f gluon-fftr-0.11.4+tackin-ubiquiti-airgateway-pro-sysupgrade.bin
+ubiquiti-airrouter 0.11.4+tackin fb1e4c7aed4b09cf5c78ac6ab40875d03112eb27d433f4b7a89d8001ce02c644 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-airrouter-sysupgrade.bin
+ubiquiti-airrouter 0.11.4+tackin fb1e4c7aed4b09cf5c78ac6ab40875d03112eb27d433f4b7a89d8001ce02c644 gluon-fftr-0.11.4+tackin-ubiquiti-airrouter-sysupgrade.bin
+ubiquiti-airrouter 0.11.4+tackin ca2945a79378c2b52c6de3f254092bf68b5542adf3980222b3f22f8813fa2cf96473db855c54db7f4e61cf9b82c92d92e145c13f3130089eb32b98d82f691157 gluon-fftr-0.11.4+tackin-ubiquiti-airrouter-sysupgrade.bin
+ubiquiti-bullet-m 0.11.4+tackin 606bde2db671dde7ada3423fa4cb614c62531b916965fc313acb94bbeb48955d 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-bullet-m-sysupgrade.bin
+ubiquiti-bullet-m 0.11.4+tackin 606bde2db671dde7ada3423fa4cb614c62531b916965fc313acb94bbeb48955d gluon-fftr-0.11.4+tackin-ubiquiti-bullet-m-sysupgrade.bin
+ubiquiti-bullet-m 0.11.4+tackin c121b2fc7e2f204bff3827537d4d9fc527f41080851e1fc9cf6b933f2b171c6e25d6c84bde1108332727237d3dbf9987803555538fb135cf712ffaa195a5456a gluon-fftr-0.11.4+tackin-ubiquiti-bullet-m-sysupgrade.bin
+ubiquiti-nanostation-loco-m2 0.11.4+tackin 606bde2db671dde7ada3423fa4cb614c62531b916965fc313acb94bbeb48955d 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-loco-m2-sysupgrade.bin
+ubiquiti-nanostation-loco-m2 0.11.4+tackin 606bde2db671dde7ada3423fa4cb614c62531b916965fc313acb94bbeb48955d gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-loco-m2-sysupgrade.bin
+ubiquiti-nanostation-loco-m2 0.11.4+tackin c121b2fc7e2f204bff3827537d4d9fc527f41080851e1fc9cf6b933f2b171c6e25d6c84bde1108332727237d3dbf9987803555538fb135cf712ffaa195a5456a gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-loco-m2-sysupgrade.bin
+ubiquiti-nanostation-loco-m5 0.11.4+tackin 606bde2db671dde7ada3423fa4cb614c62531b916965fc313acb94bbeb48955d 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-loco-m5-sysupgrade.bin
+ubiquiti-nanostation-loco-m5 0.11.4+tackin 606bde2db671dde7ada3423fa4cb614c62531b916965fc313acb94bbeb48955d gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-loco-m5-sysupgrade.bin
+ubiquiti-nanostation-loco-m5 0.11.4+tackin c121b2fc7e2f204bff3827537d4d9fc527f41080851e1fc9cf6b933f2b171c6e25d6c84bde1108332727237d3dbf9987803555538fb135cf712ffaa195a5456a gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-loco-m5-sysupgrade.bin
+ubiquiti-bullet-m2 0.11.4+tackin 606bde2db671dde7ada3423fa4cb614c62531b916965fc313acb94bbeb48955d 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-bullet-m2-sysupgrade.bin
+ubiquiti-bullet-m2 0.11.4+tackin 606bde2db671dde7ada3423fa4cb614c62531b916965fc313acb94bbeb48955d gluon-fftr-0.11.4+tackin-ubiquiti-bullet-m2-sysupgrade.bin
+ubiquiti-bullet-m2 0.11.4+tackin c121b2fc7e2f204bff3827537d4d9fc527f41080851e1fc9cf6b933f2b171c6e25d6c84bde1108332727237d3dbf9987803555538fb135cf712ffaa195a5456a gluon-fftr-0.11.4+tackin-ubiquiti-bullet-m2-sysupgrade.bin
+ubiquiti-bullet-m5 0.11.4+tackin 606bde2db671dde7ada3423fa4cb614c62531b916965fc313acb94bbeb48955d 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-bullet-m5-sysupgrade.bin
+ubiquiti-bullet-m5 0.11.4+tackin 606bde2db671dde7ada3423fa4cb614c62531b916965fc313acb94bbeb48955d gluon-fftr-0.11.4+tackin-ubiquiti-bullet-m5-sysupgrade.bin
+ubiquiti-bullet-m5 0.11.4+tackin c121b2fc7e2f204bff3827537d4d9fc527f41080851e1fc9cf6b933f2b171c6e25d6c84bde1108332727237d3dbf9987803555538fb135cf712ffaa195a5456a gluon-fftr-0.11.4+tackin-ubiquiti-bullet-m5-sysupgrade.bin
+ubiquiti-picostation-m2 0.11.4+tackin 606bde2db671dde7ada3423fa4cb614c62531b916965fc313acb94bbeb48955d 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-picostation-m2-sysupgrade.bin
+ubiquiti-picostation-m2 0.11.4+tackin 606bde2db671dde7ada3423fa4cb614c62531b916965fc313acb94bbeb48955d gluon-fftr-0.11.4+tackin-ubiquiti-picostation-m2-sysupgrade.bin
+ubiquiti-picostation-m2 0.11.4+tackin c121b2fc7e2f204bff3827537d4d9fc527f41080851e1fc9cf6b933f2b171c6e25d6c84bde1108332727237d3dbf9987803555538fb135cf712ffaa195a5456a gluon-fftr-0.11.4+tackin-ubiquiti-picostation-m2-sysupgrade.bin
+ubiquiti-rocket-m 0.11.4+tackin 822c773e3c21d36a92069b6c7a835086824ac1853bb213358435452e4e007b25 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m-sysupgrade.bin
+ubiquiti-rocket-m 0.11.4+tackin 822c773e3c21d36a92069b6c7a835086824ac1853bb213358435452e4e007b25 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m-sysupgrade.bin
+ubiquiti-rocket-m 0.11.4+tackin f267103c52415cf165b6f3972180bdcf11d0217c87a159b0f812a9a11e654154e439502c84a4a807cba9226e28c68e73d2709b32f71fdd92235c625aba6c8742 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m-sysupgrade.bin
+ubiquiti-rocket-m2 0.11.4+tackin 822c773e3c21d36a92069b6c7a835086824ac1853bb213358435452e4e007b25 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m2-sysupgrade.bin
+ubiquiti-rocket-m2 0.11.4+tackin 822c773e3c21d36a92069b6c7a835086824ac1853bb213358435452e4e007b25 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m2-sysupgrade.bin
+ubiquiti-rocket-m2 0.11.4+tackin f267103c52415cf165b6f3972180bdcf11d0217c87a159b0f812a9a11e654154e439502c84a4a807cba9226e28c68e73d2709b32f71fdd92235c625aba6c8742 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m2-sysupgrade.bin
+ubiquiti-rocket-m5 0.11.4+tackin 822c773e3c21d36a92069b6c7a835086824ac1853bb213358435452e4e007b25 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m5-sysupgrade.bin
+ubiquiti-rocket-m5 0.11.4+tackin 822c773e3c21d36a92069b6c7a835086824ac1853bb213358435452e4e007b25 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m5-sysupgrade.bin
+ubiquiti-rocket-m5 0.11.4+tackin f267103c52415cf165b6f3972180bdcf11d0217c87a159b0f812a9a11e654154e439502c84a4a807cba9226e28c68e73d2709b32f71fdd92235c625aba6c8742 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m5-sysupgrade.bin
+ubiquiti-nanostation-m 0.11.4+tackin 90196c48d92db01888d32bae9dccf779062bc05ad0916a3ae2918deda5e1b171 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m-sysupgrade.bin
+ubiquiti-nanostation-m 0.11.4+tackin 90196c48d92db01888d32bae9dccf779062bc05ad0916a3ae2918deda5e1b171 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m-sysupgrade.bin
+ubiquiti-nanostation-m 0.11.4+tackin a4c405ceabb674d1c1f15c65b0ee412dd1db91e26a5f32f2688babf3275e73128835f2a0936bd8aae4381348cfaaf15d2243a1622abf32cd96d148862c30e7d4 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m-sysupgrade.bin
+ubiquiti-nanostation-m2 0.11.4+tackin 90196c48d92db01888d32bae9dccf779062bc05ad0916a3ae2918deda5e1b171 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m2-sysupgrade.bin
+ubiquiti-nanostation-m2 0.11.4+tackin 90196c48d92db01888d32bae9dccf779062bc05ad0916a3ae2918deda5e1b171 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m2-sysupgrade.bin
+ubiquiti-nanostation-m2 0.11.4+tackin a4c405ceabb674d1c1f15c65b0ee412dd1db91e26a5f32f2688babf3275e73128835f2a0936bd8aae4381348cfaaf15d2243a1622abf32cd96d148862c30e7d4 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m2-sysupgrade.bin
+ubiquiti-nanostation-m5 0.11.4+tackin 90196c48d92db01888d32bae9dccf779062bc05ad0916a3ae2918deda5e1b171 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m5-sysupgrade.bin
+ubiquiti-nanostation-m5 0.11.4+tackin 90196c48d92db01888d32bae9dccf779062bc05ad0916a3ae2918deda5e1b171 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m5-sysupgrade.bin
+ubiquiti-nanostation-m5 0.11.4+tackin a4c405ceabb674d1c1f15c65b0ee412dd1db91e26a5f32f2688babf3275e73128835f2a0936bd8aae4381348cfaaf15d2243a1622abf32cd96d148862c30e7d4 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m5-sysupgrade.bin
+ubiquiti-loco-m-xw 0.11.4+tackin ee589eb61085e1846b0f43c5c7fc2cb2b17c971e1120837c806e4c3adf53c8bb 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-loco-m-xw-sysupgrade.bin
+ubiquiti-loco-m-xw 0.11.4+tackin ee589eb61085e1846b0f43c5c7fc2cb2b17c971e1120837c806e4c3adf53c8bb gluon-fftr-0.11.4+tackin-ubiquiti-loco-m-xw-sysupgrade.bin
+ubiquiti-loco-m-xw 0.11.4+tackin bb7d4ea302920b527883288f7189ab8451eb4536e0db3edfd4f9b37b8172f600139eaf7285c9816dacc14631478e13053b5e2c6812004441f42eb1b9c159530d gluon-fftr-0.11.4+tackin-ubiquiti-loco-m-xw-sysupgrade.bin
+ubiquiti-nanostation-loco-m2-xw 0.11.4+tackin ee589eb61085e1846b0f43c5c7fc2cb2b17c971e1120837c806e4c3adf53c8bb 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-loco-m2-xw-sysupgrade.bin
+ubiquiti-nanostation-loco-m2-xw 0.11.4+tackin ee589eb61085e1846b0f43c5c7fc2cb2b17c971e1120837c806e4c3adf53c8bb gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-loco-m2-xw-sysupgrade.bin
+ubiquiti-nanostation-loco-m2-xw 0.11.4+tackin bb7d4ea302920b527883288f7189ab8451eb4536e0db3edfd4f9b37b8172f600139eaf7285c9816dacc14631478e13053b5e2c6812004441f42eb1b9c159530d gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-loco-m2-xw-sysupgrade.bin
+ubiquiti-nanostation-loco-m5-xw 0.11.4+tackin ee589eb61085e1846b0f43c5c7fc2cb2b17c971e1120837c806e4c3adf53c8bb 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-loco-m5-xw-sysupgrade.bin
+ubiquiti-nanostation-loco-m5-xw 0.11.4+tackin ee589eb61085e1846b0f43c5c7fc2cb2b17c971e1120837c806e4c3adf53c8bb gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-loco-m5-xw-sysupgrade.bin
+ubiquiti-nanostation-loco-m5-xw 0.11.4+tackin bb7d4ea302920b527883288f7189ab8451eb4536e0db3edfd4f9b37b8172f600139eaf7285c9816dacc14631478e13053b5e2c6812004441f42eb1b9c159530d gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-loco-m5-xw-sysupgrade.bin
+ubiquiti-nanostation-m-xw 0.11.4+tackin c0765d51fc9bf5a37078f6efb734e8100e34b4a859779e7c1a8ebd9873f268ac 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m-xw-sysupgrade.bin
+ubiquiti-nanostation-m-xw 0.11.4+tackin c0765d51fc9bf5a37078f6efb734e8100e34b4a859779e7c1a8ebd9873f268ac gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m-xw-sysupgrade.bin
+ubiquiti-nanostation-m-xw 0.11.4+tackin 5fceaedef3df920622ca3eec52d61b0b44b5eb049dc142d67077b4d72cb5c48653281fbc84f3afc0fc2faa9e4426c81e74e3aad5afec42ba88c00b8a697b9db1 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m-xw-sysupgrade.bin
+ubiquiti-nanostation-m2-xw 0.11.4+tackin c0765d51fc9bf5a37078f6efb734e8100e34b4a859779e7c1a8ebd9873f268ac 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m2-xw-sysupgrade.bin
+ubiquiti-nanostation-m2-xw 0.11.4+tackin c0765d51fc9bf5a37078f6efb734e8100e34b4a859779e7c1a8ebd9873f268ac gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m2-xw-sysupgrade.bin
+ubiquiti-nanostation-m2-xw 0.11.4+tackin 5fceaedef3df920622ca3eec52d61b0b44b5eb049dc142d67077b4d72cb5c48653281fbc84f3afc0fc2faa9e4426c81e74e3aad5afec42ba88c00b8a697b9db1 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m2-xw-sysupgrade.bin
+ubiquiti-nanostation-m5-xw 0.11.4+tackin c0765d51fc9bf5a37078f6efb734e8100e34b4a859779e7c1a8ebd9873f268ac 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m5-xw-sysupgrade.bin
+ubiquiti-nanostation-m5-xw 0.11.4+tackin c0765d51fc9bf5a37078f6efb734e8100e34b4a859779e7c1a8ebd9873f268ac gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m5-xw-sysupgrade.bin
+ubiquiti-nanostation-m5-xw 0.11.4+tackin 5fceaedef3df920622ca3eec52d61b0b44b5eb049dc142d67077b4d72cb5c48653281fbc84f3afc0fc2faa9e4426c81e74e3aad5afec42ba88c00b8a697b9db1 gluon-fftr-0.11.4+tackin-ubiquiti-nanostation-m5-xw-sysupgrade.bin
+ubiquiti-rocket-m-xw 0.11.4+tackin 598f5d924cbc2e949c3ee421d9691d198b258712b0dc84658711eae4f68f1522 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m-xw-sysupgrade.bin
+ubiquiti-rocket-m-xw 0.11.4+tackin 598f5d924cbc2e949c3ee421d9691d198b258712b0dc84658711eae4f68f1522 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m-xw-sysupgrade.bin
+ubiquiti-rocket-m-xw 0.11.4+tackin ea8a8a4fe8b519903789f2b639cedc637182f4161fcae022a75995aafdb34528a62de96d32ab63e551ed018007bcc7e90bc3786cc2321c30db4f74e1d88be398 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m-xw-sysupgrade.bin
+ubiquiti-rocket-m2-xw 0.11.4+tackin 598f5d924cbc2e949c3ee421d9691d198b258712b0dc84658711eae4f68f1522 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m2-xw-sysupgrade.bin
+ubiquiti-rocket-m2-xw 0.11.4+tackin 598f5d924cbc2e949c3ee421d9691d198b258712b0dc84658711eae4f68f1522 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m2-xw-sysupgrade.bin
+ubiquiti-rocket-m2-xw 0.11.4+tackin ea8a8a4fe8b519903789f2b639cedc637182f4161fcae022a75995aafdb34528a62de96d32ab63e551ed018007bcc7e90bc3786cc2321c30db4f74e1d88be398 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m2-xw-sysupgrade.bin
+ubiquiti-rocket-m5-xw 0.11.4+tackin 598f5d924cbc2e949c3ee421d9691d198b258712b0dc84658711eae4f68f1522 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m5-xw-sysupgrade.bin
+ubiquiti-rocket-m5-xw 0.11.4+tackin 598f5d924cbc2e949c3ee421d9691d198b258712b0dc84658711eae4f68f1522 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m5-xw-sysupgrade.bin
+ubiquiti-rocket-m5-xw 0.11.4+tackin ea8a8a4fe8b519903789f2b639cedc637182f4161fcae022a75995aafdb34528a62de96d32ab63e551ed018007bcc7e90bc3786cc2321c30db4f74e1d88be398 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m5-xw-sysupgrade.bin
+ubiquiti-rocket-m-ti 0.11.4+tackin 43ec9eec6e7008718f62fef5809b0daec7d40687a987ffe20286c74868d8b741 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m-ti-sysupgrade.bin
+ubiquiti-rocket-m-ti 0.11.4+tackin 43ec9eec6e7008718f62fef5809b0daec7d40687a987ffe20286c74868d8b741 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m-ti-sysupgrade.bin
+ubiquiti-rocket-m-ti 0.11.4+tackin 5829d0f3c8282ef4fa2fbf4620410510fb7fbc0d2261652a497235d4afbadcf24a4a4c5121c324f3833839a63d203cb58536904b5d7be9ff24a589c390304e98 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m-ti-sysupgrade.bin
+ubiquiti-rocket-m2-ti 0.11.4+tackin 43ec9eec6e7008718f62fef5809b0daec7d40687a987ffe20286c74868d8b741 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m2-ti-sysupgrade.bin
+ubiquiti-rocket-m2-ti 0.11.4+tackin 43ec9eec6e7008718f62fef5809b0daec7d40687a987ffe20286c74868d8b741 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m2-ti-sysupgrade.bin
+ubiquiti-rocket-m2-ti 0.11.4+tackin 5829d0f3c8282ef4fa2fbf4620410510fb7fbc0d2261652a497235d4afbadcf24a4a4c5121c324f3833839a63d203cb58536904b5d7be9ff24a589c390304e98 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m2-ti-sysupgrade.bin
+ubiquiti-rocket-m5-ti 0.11.4+tackin 43ec9eec6e7008718f62fef5809b0daec7d40687a987ffe20286c74868d8b741 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m5-ti-sysupgrade.bin
+ubiquiti-rocket-m5-ti 0.11.4+tackin 43ec9eec6e7008718f62fef5809b0daec7d40687a987ffe20286c74868d8b741 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m5-ti-sysupgrade.bin
+ubiquiti-rocket-m5-ti 0.11.4+tackin 5829d0f3c8282ef4fa2fbf4620410510fb7fbc0d2261652a497235d4afbadcf24a4a4c5121c324f3833839a63d203cb58536904b5d7be9ff24a589c390304e98 gluon-fftr-0.11.4+tackin-ubiquiti-rocket-m5-ti-sysupgrade.bin
+ubiquiti-unifi 0.11.4+tackin e47797deceb4ed7e39dae9d8d6c45f60b08f1854b93ebbd4ea6a516068cfbdf7 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-sysupgrade.bin
+ubiquiti-unifi 0.11.4+tackin e47797deceb4ed7e39dae9d8d6c45f60b08f1854b93ebbd4ea6a516068cfbdf7 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-sysupgrade.bin
+ubiquiti-unifi 0.11.4+tackin f90aff552f8d695c71d435cca903b91d1aebc2f809ca1f01df7032ecbfa77b18a24f10738e18a29c537c9e7fb11c8082143bb05f284984bedee5fc0551717a4c gluon-fftr-0.11.4+tackin-ubiquiti-unifi-sysupgrade.bin
+ubiquiti-unifi-ap 0.11.4+tackin e47797deceb4ed7e39dae9d8d6c45f60b08f1854b93ebbd4ea6a516068cfbdf7 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ap-sysupgrade.bin
+ubiquiti-unifi-ap 0.11.4+tackin e47797deceb4ed7e39dae9d8d6c45f60b08f1854b93ebbd4ea6a516068cfbdf7 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ap-sysupgrade.bin
+ubiquiti-unifi-ap 0.11.4+tackin f90aff552f8d695c71d435cca903b91d1aebc2f809ca1f01df7032ecbfa77b18a24f10738e18a29c537c9e7fb11c8082143bb05f284984bedee5fc0551717a4c gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ap-sysupgrade.bin
+ubiquiti-unifi-ap-lr 0.11.4+tackin e47797deceb4ed7e39dae9d8d6c45f60b08f1854b93ebbd4ea6a516068cfbdf7 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ap-lr-sysupgrade.bin
+ubiquiti-unifi-ap-lr 0.11.4+tackin e47797deceb4ed7e39dae9d8d6c45f60b08f1854b93ebbd4ea6a516068cfbdf7 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ap-lr-sysupgrade.bin
+ubiquiti-unifi-ap-lr 0.11.4+tackin f90aff552f8d695c71d435cca903b91d1aebc2f809ca1f01df7032ecbfa77b18a24f10738e18a29c537c9e7fb11c8082143bb05f284984bedee5fc0551717a4c gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ap-lr-sysupgrade.bin
+ubiquiti-unifi-ap-pro 0.11.4+tackin abc2b482828f37e1bb2b2eec95d7a35f1ad67d00cdab978154e10119301ee1e1 3866628 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ap-pro-sysupgrade.bin
+ubiquiti-unifi-ap-pro 0.11.4+tackin abc2b482828f37e1bb2b2eec95d7a35f1ad67d00cdab978154e10119301ee1e1 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ap-pro-sysupgrade.bin
+ubiquiti-unifi-ap-pro 0.11.4+tackin d70486a20212e4648a7af82f972d0124ca5202181c47b13660e210ab15d7dfc4765bff42344a30a4424f457c0878392c85234feae3579ed86aaf1a8ad45780e3 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ap-pro-sysupgrade.bin
+ubiquiti-unifiap-outdoor 0.11.4+tackin 917a3dca655469a7fc47730b55fc68f5f0b90421db1d53e88d5e5aee182a4cf6 3670020 gluon-fftr-0.11.4+tackin-ubiquiti-unifiap-outdoor-sysupgrade.bin
+ubiquiti-unifiap-outdoor 0.11.4+tackin 917a3dca655469a7fc47730b55fc68f5f0b90421db1d53e88d5e5aee182a4cf6 gluon-fftr-0.11.4+tackin-ubiquiti-unifiap-outdoor-sysupgrade.bin
+ubiquiti-unifiap-outdoor 0.11.4+tackin f21da1db5ac8fc731f61d1d12d88f740c3741b77a70e84edf230b279e6963d936a8a161d4fdfda895b92d040cce75cab485ada16cbdcd5a78b7887e68f4783d0 gluon-fftr-0.11.4+tackin-ubiquiti-unifiap-outdoor-sysupgrade.bin
+ubiquiti-unifiap-outdoor+ 0.11.4+tackin 540c7c6ef2f32d1c73ccc21867a5c2b08f0b5399f9071e7d674443f6c4c22d57 3866628 gluon-fftr-0.11.4+tackin-ubiquiti-unifiap-outdoor+-sysupgrade.bin
+ubiquiti-unifiap-outdoor+ 0.11.4+tackin 540c7c6ef2f32d1c73ccc21867a5c2b08f0b5399f9071e7d674443f6c4c22d57 gluon-fftr-0.11.4+tackin-ubiquiti-unifiap-outdoor+-sysupgrade.bin
+ubiquiti-unifiap-outdoor+ 0.11.4+tackin a0624f76e4dc17d84d26b778f1d2cf1f71cf386928071e70146f2d06a08e89e30d4af849a9d85ec5b84740dca8720335b4f4c4c85ab80fb99f82e9165656a8a4 gluon-fftr-0.11.4+tackin-ubiquiti-unifiap-outdoor+-sysupgrade.bin
+ubiquiti-unifi-ac-lite 0.11.4+tackin 4ec44183e0e381f7b4a806c7ace05386a34863273b3d3de1322c6856dd23d79e 3866628 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ac-lite-sysupgrade.bin
+ubiquiti-unifi-ac-lite 0.11.4+tackin 4ec44183e0e381f7b4a806c7ace05386a34863273b3d3de1322c6856dd23d79e gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ac-lite-sysupgrade.bin
+ubiquiti-unifi-ac-lite 0.11.4+tackin 5ebcbb93fbe97368489654a429b6d9d241b384ded8a90d90c71955736872747e3e4926fbae212f9d1421a59f3549afb5e8ad6e64d9babaa7213f3b52c255bccd gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ac-lite-sysupgrade.bin
+ubiquiti-unifi-ac-mesh 0.11.4+tackin 4ec44183e0e381f7b4a806c7ace05386a34863273b3d3de1322c6856dd23d79e 3866628 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ac-mesh-sysupgrade.bin
+ubiquiti-unifi-ac-mesh 0.11.4+tackin 4ec44183e0e381f7b4a806c7ace05386a34863273b3d3de1322c6856dd23d79e gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ac-mesh-sysupgrade.bin
+ubiquiti-unifi-ac-mesh 0.11.4+tackin 5ebcbb93fbe97368489654a429b6d9d241b384ded8a90d90c71955736872747e3e4926fbae212f9d1421a59f3549afb5e8ad6e64d9babaa7213f3b52c255bccd gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ac-mesh-sysupgrade.bin
+ubiquiti-unifi-ac-lr 0.11.4+tackin 4ec44183e0e381f7b4a806c7ace05386a34863273b3d3de1322c6856dd23d79e 3866628 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ac-lr-sysupgrade.bin
+ubiquiti-unifi-ac-lr 0.11.4+tackin 4ec44183e0e381f7b4a806c7ace05386a34863273b3d3de1322c6856dd23d79e gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ac-lr-sysupgrade.bin
+ubiquiti-unifi-ac-lr 0.11.4+tackin 5ebcbb93fbe97368489654a429b6d9d241b384ded8a90d90c71955736872747e3e4926fbae212f9d1421a59f3549afb5e8ad6e64d9babaa7213f3b52c255bccd gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ac-lr-sysupgrade.bin
+ubiquiti-unifi-ac-pro 0.11.4+tackin 161b035e2c9cd4b913572e28ccd7a84c55987bd70c6bd2adb12c732c560dec56 3997700 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ac-pro-sysupgrade.bin
+ubiquiti-unifi-ac-pro 0.11.4+tackin 161b035e2c9cd4b913572e28ccd7a84c55987bd70c6bd2adb12c732c560dec56 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ac-pro-sysupgrade.bin
+ubiquiti-unifi-ac-pro 0.11.4+tackin 21dfcbcc872a8e3aecfaf198af0483e474d95cbc4ddf2f9cc20d2c0d44da3bdcff79eb0973ad15aa631eccd2f23e07dea8512ab54d0b2c78276770330182ecb4 gluon-fftr-0.11.4+tackin-ubiquiti-unifi-ac-pro-sysupgrade.bin
+wd-my-net-n600 0.11.4+tackin e141a6ace5422966489a3debf651a1abae2c6fe28b6a6ad952be049af125dca9 3670020 gluon-fftr-0.11.4+tackin-wd-my-net-n600-sysupgrade.bin
+wd-my-net-n600 0.11.4+tackin e141a6ace5422966489a3debf651a1abae2c6fe28b6a6ad952be049af125dca9 gluon-fftr-0.11.4+tackin-wd-my-net-n600-sysupgrade.bin
+wd-my-net-n600 0.11.4+tackin 389bfb8f46e20882b710e37603c2d3929fd89755bb20ce50dc6a34b4199a0c88f6136566350fa04e50e544d6cc4bc08a31e59e9d9dc08b9588cb66669f8526a0 gluon-fftr-0.11.4+tackin-wd-my-net-n600-sysupgrade.bin
+wd-my-net-n750 0.11.4+tackin 390d4314a14733b228f704eac9018481a318c89559157e064b27951be3d7d025 3670020 gluon-fftr-0.11.4+tackin-wd-my-net-n750-sysupgrade.bin
+wd-my-net-n750 0.11.4+tackin 390d4314a14733b228f704eac9018481a318c89559157e064b27951be3d7d025 gluon-fftr-0.11.4+tackin-wd-my-net-n750-sysupgrade.bin
+wd-my-net-n750 0.11.4+tackin 3d679cf432e79d5e7aaffb9ea8670d8e96534463769d4410faea89aca6a3dd8e6eb2bf7b12cd9f407b178c55bda1b6adc705d4aec5fbceb1ccd049344ac172e3 gluon-fftr-0.11.4+tackin-wd-my-net-n750-sysupgrade.bin
+d-link-dir-615-rev-c1 0.11.4+tackin a01b46bfd4e1f920682c86f22518d0c6f35c8d08500258f1f46975cad62f5761 3407876 gluon-fftr-0.11.4+tackin-d-link-dir-615-rev-c1-sysupgrade.bin
+d-link-dir-615-rev-c1 0.11.4+tackin a01b46bfd4e1f920682c86f22518d0c6f35c8d08500258f1f46975cad62f5761 gluon-fftr-0.11.4+tackin-d-link-dir-615-rev-c1-sysupgrade.bin
+d-link-dir-615-rev-c1 0.11.4+tackin 08a3153d1ac1079edd55fa51152fbe5a43fc291843129099178881076b246cb126016875347bb58653a8e8d20cbbf744203df225ec9467a3e79892a1b10d82e4 gluon-fftr-0.11.4+tackin-d-link-dir-615-rev-c1-sysupgrade.bin
+tp-link-tl-wa701n-nd-v1 0.11.4+tackin d1dada0764334817ad57336b1c57bf88147c8b329fc921db736d96ce6c5f8db1 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa701n-nd-v1-sysupgrade.bin
+tp-link-tl-wa701n-nd-v1 0.11.4+tackin d1dada0764334817ad57336b1c57bf88147c8b329fc921db736d96ce6c5f8db1 gluon-fftr-0.11.4+tackin-tp-link-tl-wa701n-nd-v1-sysupgrade.bin
+tp-link-tl-wa701n-nd-v1 0.11.4+tackin f03ac4e2ff478ca24f444847966c63f817a76c27eedcdbc7fa21cbe929ee8cbac6b5f0b0c1d3157a80e2465e5290f45a084d4f375fdfc29fcfc62669c08a258d gluon-fftr-0.11.4+tackin-tp-link-tl-wa701n-nd-v1-sysupgrade.bin
+tp-link-tl-wa701n-nd-v2 0.11.4+tackin fb08ba92bbd905cdca1e59c31c399c60d847458e87d0a0bc5edf6d36de959c01 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa701n-nd-v2-sysupgrade.bin
+tp-link-tl-wa701n-nd-v2 0.11.4+tackin fb08ba92bbd905cdca1e59c31c399c60d847458e87d0a0bc5edf6d36de959c01 gluon-fftr-0.11.4+tackin-tp-link-tl-wa701n-nd-v2-sysupgrade.bin
+tp-link-tl-wa701n-nd-v2 0.11.4+tackin bf96fbbd7bc4c6049fb241590e8ae83e3246cffe804ed9393373d134e2f48cc1ab3a33d454d14b545766d3b7bf1bdeb05d6eaa356bcf75673b0b41b1c85bbd46 gluon-fftr-0.11.4+tackin-tp-link-tl-wa701n-nd-v2-sysupgrade.bin
+tp-link-tl-wa7210n-v2 0.11.4+tackin 5ec2d76469e152c1fb6c86f712cb7f857d3d02632c68e2fd3e672f2cb29ebff5 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa7210n-v2-sysupgrade.bin
+tp-link-tl-wa7210n-v2 0.11.4+tackin 5ec2d76469e152c1fb6c86f712cb7f857d3d02632c68e2fd3e672f2cb29ebff5 gluon-fftr-0.11.4+tackin-tp-link-tl-wa7210n-v2-sysupgrade.bin
+tp-link-tl-wa7210n-v2 0.11.4+tackin fd1e72cafbf46ad037e0c017d93da171a51477778b461a79787b1473dcd3f492b1cb32505d9614abfdd0921c89217fcfbc8b4a47498b48abc3fe67797e96181e gluon-fftr-0.11.4+tackin-tp-link-tl-wa7210n-v2-sysupgrade.bin
+tp-link-tl-wa7510n-v1 0.11.4+tackin 8402aefa0d27db2a82eec4a0d79bdd10829e1596fa1ddb0cfc271a3c72198a1f 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa7510n-v1-sysupgrade.bin
+tp-link-tl-wa7510n-v1 0.11.4+tackin 8402aefa0d27db2a82eec4a0d79bdd10829e1596fa1ddb0cfc271a3c72198a1f gluon-fftr-0.11.4+tackin-tp-link-tl-wa7510n-v1-sysupgrade.bin
+tp-link-tl-wa7510n-v1 0.11.4+tackin 557ce3881c41b250381c610441498adf3873f32db4e2b72b8493e29ebf7350d935b7ad19b9773bf751c76e5c789ce1ebbe462f810bde11b818add4d0ac0737b6 gluon-fftr-0.11.4+tackin-tp-link-tl-wa7510n-v1-sysupgrade.bin
+tp-link-tl-wr703n-v1 0.11.4+tackin 163f58bfc0a6d40b071a9bfa131647cf865d4ee726775475847d007da2a255ab 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr703n-v1-sysupgrade.bin
+tp-link-tl-wr703n-v1 0.11.4+tackin 163f58bfc0a6d40b071a9bfa131647cf865d4ee726775475847d007da2a255ab gluon-fftr-0.11.4+tackin-tp-link-tl-wr703n-v1-sysupgrade.bin
+tp-link-tl-wr703n-v1 0.11.4+tackin 91f2863cd87e53b58ebaa55f53793ef212552c135fbbf99dca56f99b5d58bd473f6fb7a529c85523d8efdf5b03fcb3080dd53f506ddbd19369805bd1b156f269 gluon-fftr-0.11.4+tackin-tp-link-tl-wr703n-v1-sysupgrade.bin
+tp-link-tl-wr710n-v2 0.11.4+tackin 6c336314616cfeb3d0a0a237fa07dfbed604e81bc5e5d967b7c3919dca809157 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr710n-v2-sysupgrade.bin
+tp-link-tl-wr710n-v2 0.11.4+tackin 6c336314616cfeb3d0a0a237fa07dfbed604e81bc5e5d967b7c3919dca809157 gluon-fftr-0.11.4+tackin-tp-link-tl-wr710n-v2-sysupgrade.bin
+tp-link-tl-wr710n-v2 0.11.4+tackin 5e83242646d19cfdf8b109fb8fccd6783a89b0ffaa8ddef4d7bce6722dc31f86d0f8c78bdea32106a11b1b4d95f36117f9100286af2e3c0750d99b1e6cd8bc3b gluon-fftr-0.11.4+tackin-tp-link-tl-wr710n-v2-sysupgrade.bin
+tp-link-tl-wr740n-nd-v1 0.11.4+tackin eeafc0906b50dec33ce558dbd5c17352ef2465185b54e16d3c7ce95b82a115b6 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr740n-nd-v1-sysupgrade.bin
+tp-link-tl-wr740n-nd-v1 0.11.4+tackin eeafc0906b50dec33ce558dbd5c17352ef2465185b54e16d3c7ce95b82a115b6 gluon-fftr-0.11.4+tackin-tp-link-tl-wr740n-nd-v1-sysupgrade.bin
+tp-link-tl-wr740n-nd-v1 0.11.4+tackin 83ae23a7f599b65ab9b3e35e1789d1ed0b445ac680a8f5eef2b8e8695b40974169a4ed15839fccb6d132bb64440d3193bd44e94ed8e1b26a5849b569032d90d1 gluon-fftr-0.11.4+tackin-tp-link-tl-wr740n-nd-v1-sysupgrade.bin
+tp-link-tl-wr740n-nd-v3 0.11.4+tackin b396b11bae2ac6f80909313f3764d43925e9b193b22a2a5fc4c0a6278d093b88 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr740n-nd-v3-sysupgrade.bin
+tp-link-tl-wr740n-nd-v3 0.11.4+tackin b396b11bae2ac6f80909313f3764d43925e9b193b22a2a5fc4c0a6278d093b88 gluon-fftr-0.11.4+tackin-tp-link-tl-wr740n-nd-v3-sysupgrade.bin
+tp-link-tl-wr740n-nd-v3 0.11.4+tackin deea607c2dcd417c865a217214fab1c3c08e4ab6603fdd82c111a55093bb2cac17f7f5e5e1bd9a541a76a0acb988e417e9d6eeb9ce9234505b6f7f82527e365e gluon-fftr-0.11.4+tackin-tp-link-tl-wr740n-nd-v3-sysupgrade.bin
+tp-link-tl-wr740n-nd-v4 0.11.4+tackin 91142d1ef59f3229a82feed5ec0f8d776c85958a916309752fc4b439a2a83ebc 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr740n-nd-v4-sysupgrade.bin
+tp-link-tl-wr740n-nd-v4 0.11.4+tackin 91142d1ef59f3229a82feed5ec0f8d776c85958a916309752fc4b439a2a83ebc gluon-fftr-0.11.4+tackin-tp-link-tl-wr740n-nd-v4-sysupgrade.bin
+tp-link-tl-wr740n-nd-v4 0.11.4+tackin f110ebbbaa0f98a904d276ec7e177f996a5c7364fbc8e0fad573007e4cf069e133bd03800a4d09ef2e3f35e6f02ae5594da0a014b55d00e6f3f5ee9389929844 gluon-fftr-0.11.4+tackin-tp-link-tl-wr740n-nd-v4-sysupgrade.bin
+tp-link-tl-wr740n-nd-v5 0.11.4+tackin d57b23903a84ea74033eb2c4b1cc9d758daceb6c65936f8fc8f728800d7b7bbd 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr740n-nd-v5-sysupgrade.bin
+tp-link-tl-wr740n-nd-v5 0.11.4+tackin d57b23903a84ea74033eb2c4b1cc9d758daceb6c65936f8fc8f728800d7b7bbd gluon-fftr-0.11.4+tackin-tp-link-tl-wr740n-nd-v5-sysupgrade.bin
+tp-link-tl-wr740n-nd-v5 0.11.4+tackin e1d6866c828b66a68905e0187f6ee51aa800105c83dfac2e0761598038963ce8c5779e84c8a6081004e651d6edb4f4b6208ac1b75a2d7100b825144f793db3c5 gluon-fftr-0.11.4+tackin-tp-link-tl-wr740n-nd-v5-sysupgrade.bin
+tp-link-tl-wr741n-nd-v1 0.11.4+tackin af21df604bb37c335c023df698acbae0318178039aed857cc19d6006e3556e36 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr741n-nd-v1-sysupgrade.bin
+tp-link-tl-wr741n-nd-v1 0.11.4+tackin af21df604bb37c335c023df698acbae0318178039aed857cc19d6006e3556e36 gluon-fftr-0.11.4+tackin-tp-link-tl-wr741n-nd-v1-sysupgrade.bin
+tp-link-tl-wr741n-nd-v1 0.11.4+tackin 789019f195b53a9eb1cff507c93e9c248384b70f900a1336434c6f07ca32b1c2964c1347079f03778a07f290d4bbacc6d0684f64578e2fec8c4158363f5f6a26 gluon-fftr-0.11.4+tackin-tp-link-tl-wr741n-nd-v1-sysupgrade.bin
+tp-link-tl-wr741n-nd-v2 0.11.4+tackin af21df604bb37c335c023df698acbae0318178039aed857cc19d6006e3556e36 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr741n-nd-v2-sysupgrade.bin
+tp-link-tl-wr741n-nd-v2 0.11.4+tackin af21df604bb37c335c023df698acbae0318178039aed857cc19d6006e3556e36 gluon-fftr-0.11.4+tackin-tp-link-tl-wr741n-nd-v2-sysupgrade.bin
+tp-link-tl-wr741n-nd-v2 0.11.4+tackin 789019f195b53a9eb1cff507c93e9c248384b70f900a1336434c6f07ca32b1c2964c1347079f03778a07f290d4bbacc6d0684f64578e2fec8c4158363f5f6a26 gluon-fftr-0.11.4+tackin-tp-link-tl-wr741n-nd-v2-sysupgrade.bin
+tp-link-tl-wr741n-nd-v4 0.11.4+tackin c661239499626e76eade3b1f1b2059d77ee258bc38e73082adf613111706f5e6 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr741n-nd-v4-sysupgrade.bin
+tp-link-tl-wr741n-nd-v4 0.11.4+tackin c661239499626e76eade3b1f1b2059d77ee258bc38e73082adf613111706f5e6 gluon-fftr-0.11.4+tackin-tp-link-tl-wr741n-nd-v4-sysupgrade.bin
+tp-link-tl-wr741n-nd-v4 0.11.4+tackin c6c436f669567c116afdfeb6f43e0ed794844aadd7f7be25c54ed87b164dac299349096c9dac6fdef0d7e8f740b351c1fc6e348e6fb8cdcf32dce1c6bc9688e8 gluon-fftr-0.11.4+tackin-tp-link-tl-wr741n-nd-v4-sysupgrade.bin
+tp-link-tl-wr741n-nd-v5 0.11.4+tackin d57b23903a84ea74033eb2c4b1cc9d758daceb6c65936f8fc8f728800d7b7bbd 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr741n-nd-v5-sysupgrade.bin
+tp-link-tl-wr741n-nd-v5 0.11.4+tackin d57b23903a84ea74033eb2c4b1cc9d758daceb6c65936f8fc8f728800d7b7bbd gluon-fftr-0.11.4+tackin-tp-link-tl-wr741n-nd-v5-sysupgrade.bin
+tp-link-tl-wr741n-nd-v5 0.11.4+tackin e1d6866c828b66a68905e0187f6ee51aa800105c83dfac2e0761598038963ce8c5779e84c8a6081004e651d6edb4f4b6208ac1b75a2d7100b825144f793db3c5 gluon-fftr-0.11.4+tackin-tp-link-tl-wr741n-nd-v5-sysupgrade.bin
+tp-link-tl-wr743n-nd-v1 0.11.4+tackin bdd9923ef374ed89e3a3af49b45f974cc4153acdd4132ad809826b6a7dcb19df 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr743n-nd-v1-sysupgrade.bin
+tp-link-tl-wr743n-nd-v1 0.11.4+tackin bdd9923ef374ed89e3a3af49b45f974cc4153acdd4132ad809826b6a7dcb19df gluon-fftr-0.11.4+tackin-tp-link-tl-wr743n-nd-v1-sysupgrade.bin
+tp-link-tl-wr743n-nd-v1 0.11.4+tackin 2ad9cfbe6fa2c66a1158f575530fb8d4a749a240b77decc0eac7f2fba8813e06ac211f66db0cddc544eeadc2e2f2518ecf1ba9aceaf9ee8cbe67212e2f8662c2 gluon-fftr-0.11.4+tackin-tp-link-tl-wr743n-nd-v1-sysupgrade.bin
+tp-link-tl-wr743n-nd-v2 0.11.4+tackin fbb265eea98da0227c3b8adbc9ff9f83ac472b6ab8eb95d2574f783f0c6e115e 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr743n-nd-v2-sysupgrade.bin
+tp-link-tl-wr743n-nd-v2 0.11.4+tackin fbb265eea98da0227c3b8adbc9ff9f83ac472b6ab8eb95d2574f783f0c6e115e gluon-fftr-0.11.4+tackin-tp-link-tl-wr743n-nd-v2-sysupgrade.bin
+tp-link-tl-wr743n-nd-v2 0.11.4+tackin 29cfbba7b689ebb9fe2acf40cb2103f34387acc3992e4216370a5086e57a9e46d46815b1cf7362a09b1919df3679081ec19b24e7008f26a68b6bf5e74573bc50 gluon-fftr-0.11.4+tackin-tp-link-tl-wr743n-nd-v2-sysupgrade.bin
+tp-link-tl-wa801n-nd-v1 0.11.4+tackin 5b9628f6200afe1b76db13ccb74c2b4d5a426eb372451fdcd7d5b413f02f08de 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa801n-nd-v1-sysupgrade.bin
+tp-link-tl-wa801n-nd-v1 0.11.4+tackin 5b9628f6200afe1b76db13ccb74c2b4d5a426eb372451fdcd7d5b413f02f08de gluon-fftr-0.11.4+tackin-tp-link-tl-wa801n-nd-v1-sysupgrade.bin
+tp-link-tl-wa801n-nd-v1 0.11.4+tackin 64834f0444300944e7b29e4edca948a67e801af34226168e4edfd9134af05bed8f07c6f2a8aabd7626d2c06172ac36aa3cf3ac029e2f7bc56f30ccfc3ec06c77 gluon-fftr-0.11.4+tackin-tp-link-tl-wa801n-nd-v1-sysupgrade.bin
+tp-link-tl-wa801n-nd-v2 0.11.4+tackin 9e79f239859ec35f2c14adf9f13735c7bf06f4768f9e9d02206480f99bc021e1 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa801n-nd-v2-sysupgrade.bin
+tp-link-tl-wa801n-nd-v2 0.11.4+tackin 9e79f239859ec35f2c14adf9f13735c7bf06f4768f9e9d02206480f99bc021e1 gluon-fftr-0.11.4+tackin-tp-link-tl-wa801n-nd-v2-sysupgrade.bin
+tp-link-tl-wa801n-nd-v2 0.11.4+tackin 1aa278e5f36d959777b9e084b3c146b4a0b237a1f5798f2016efd9a66fd4b0d7f4a440c3d4698b4de58467138f8a1a5e556b7ac42beeb93cebb90defa4faf449 gluon-fftr-0.11.4+tackin-tp-link-tl-wa801n-nd-v2-sysupgrade.bin
+tp-link-tl-wa801n-nd-v3 0.11.4+tackin 094fe9f05ec5f2c55d39e3c99768a208b88447165aace15b87304128bc828e57 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa801n-nd-v3-sysupgrade.bin
+tp-link-tl-wa801n-nd-v3 0.11.4+tackin 094fe9f05ec5f2c55d39e3c99768a208b88447165aace15b87304128bc828e57 gluon-fftr-0.11.4+tackin-tp-link-tl-wa801n-nd-v3-sysupgrade.bin
+tp-link-tl-wa801n-nd-v3 0.11.4+tackin 8bcdc99be5caa96cc886696b0c1a67a0ba6884bb9b56a0d77d3f712de29409d8cd0e79345a219acb249d832e6e2b5cd6ad0eceb2cbf3910a15483aeb068cb079 gluon-fftr-0.11.4+tackin-tp-link-tl-wa801n-nd-v3-sysupgrade.bin
+tp-link-tl-wr841n-nd-v3 0.11.4+tackin 2db6e4cfc65b6aa79930930bc1be7ac07ad6d2664331b76201af9e6d852ab59c 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v3-sysupgrade.bin
+tp-link-tl-wr841n-nd-v3 0.11.4+tackin 2db6e4cfc65b6aa79930930bc1be7ac07ad6d2664331b76201af9e6d852ab59c gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v3-sysupgrade.bin
+tp-link-tl-wr841n-nd-v3 0.11.4+tackin b9973a3ddcb5b5bf5796ff98b36407266d27217b89b4d02d2d509e646dea9d05e83c2999dd69d1298c42ff0002f47b45370019287293f1e93698cc4a4d3fbe77 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v3-sysupgrade.bin
+tp-link-tl-wr841n-nd-v5 0.11.4+tackin 92292e3eea0998af9b078ba1b826dede0822ba7e0b9e609fce8d28e3a976af61 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v5-sysupgrade.bin
+tp-link-tl-wr841n-nd-v5 0.11.4+tackin 92292e3eea0998af9b078ba1b826dede0822ba7e0b9e609fce8d28e3a976af61 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v5-sysupgrade.bin
+tp-link-tl-wr841n-nd-v5 0.11.4+tackin c72bb5ec2c641b20c8a1c009cbf7614e77c6dbccc2f0855f596e7f31e9aa029376b65fb6d8b251648e7a9c874ab061cdcd129952f8ec76ae0f4cc47a75b33a0d gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v5-sysupgrade.bin
+tp-link-tl-wr841n-nd-v7 0.11.4+tackin cec2b1735bcf06f6170c3a2e1b33b52c5a380ca6994617ae04794c4584c2b584 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v7-sysupgrade.bin
+tp-link-tl-wr841n-nd-v7 0.11.4+tackin cec2b1735bcf06f6170c3a2e1b33b52c5a380ca6994617ae04794c4584c2b584 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v7-sysupgrade.bin
+tp-link-tl-wr841n-nd-v7 0.11.4+tackin 18bee583254651c36ca463eb5ab6bcca09f02fb5c3c8bbf828ceaba2a195c5c84de7bc7f90fae4389dd285a12b2a628f5f8ed68744ad2cf4b84417ef98639717 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v7-sysupgrade.bin
+tp-link-tl-wr841n-nd-v8 0.11.4+tackin 6233792bfbbf83d9ad29b284704b096c616009e730f5d423af3a5bc86d99ed85 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v8-sysupgrade.bin
+tp-link-tl-wr841n-nd-v8 0.11.4+tackin 6233792bfbbf83d9ad29b284704b096c616009e730f5d423af3a5bc86d99ed85 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v8-sysupgrade.bin
+tp-link-tl-wr841n-nd-v8 0.11.4+tackin 1ef99be4d2f71dac4ee50301e0a7cebf92df5cb759ba9eeba044fd4bcc5df4966caf065657f08cc62d899c0b0fdfa95c14d269637cbc2dcbc144a13458c8b8b1 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v8-sysupgrade.bin
+tp-link-tl-wr841n-nd-v9 0.11.4+tackin 2322ff83308b868a0404b1e917b821784fe26185479cc328fe4e9f1658feb7f1 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v9-sysupgrade.bin
+tp-link-tl-wr841n-nd-v9 0.11.4+tackin 2322ff83308b868a0404b1e917b821784fe26185479cc328fe4e9f1658feb7f1 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v9-sysupgrade.bin
+tp-link-tl-wr841n-nd-v9 0.11.4+tackin 31ae104ea6960728456b517f9cd75ab0026b99af5fc0ccb9b0d5cb16cb8d7cdb06d6aef695028d01e1739af597ef08faa84a1fdccdd0f965a0d3fde0d270f6f4 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v9-sysupgrade.bin
+tp-link-tl-wr841n-nd-v10 0.11.4+tackin 0c5913b134fd8d1b8e54b1a0ece53c3b307f32a2fd916b7a806c1a7e8d0251bc 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v10-sysupgrade.bin
+tp-link-tl-wr841n-nd-v10 0.11.4+tackin 0c5913b134fd8d1b8e54b1a0ece53c3b307f32a2fd916b7a806c1a7e8d0251bc gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v10-sysupgrade.bin
+tp-link-tl-wr841n-nd-v10 0.11.4+tackin ec74f0c745539f239acf9bf62c1201f64bc7b0adb211035ebcce68d0de0a75b708b51c7414ce91a06142d02c19aec432cc442bd524cd7b6234d28dff5690df9d gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v10-sysupgrade.bin
+tp-link-tl-wr841n-nd-v11 0.11.4+tackin 838b2885dcf5dfdadb1b7ad600e2b61c6df97d8f3fd86944a9b5da8861cc9714 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v11-sysupgrade.bin
+tp-link-tl-wr841n-nd-v11 0.11.4+tackin 838b2885dcf5dfdadb1b7ad600e2b61c6df97d8f3fd86944a9b5da8861cc9714 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v11-sysupgrade.bin
+tp-link-tl-wr841n-nd-v11 0.11.4+tackin b03b0898cd3b91fe788f64300360678a0760b99a6aec8e16eeb18405293bfeee2cfb2195127ea7746d2dcd440f8ce2327a4b942a1977a2d6c1283108425f6158 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v11-sysupgrade.bin
+tp-link-tl-wr841n-nd-v12 0.11.4+tackin e79f994567290528e3bcfccd790e63097ff5f966ca60cfa7e881579872f02297 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v12-sysupgrade.bin
+tp-link-tl-wr841n-nd-v12 0.11.4+tackin e79f994567290528e3bcfccd790e63097ff5f966ca60cfa7e881579872f02297 gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v12-sysupgrade.bin
+tp-link-tl-wr841n-nd-v12 0.11.4+tackin c29ed72072a10a9abc11eccaa95ec4b1c266ec18b62e3b4a9136bb8bbfa576566911b812f78f5e7e75a7994e678633e24a19aefad67b7db7f7049beabeb3ed6e gluon-fftr-0.11.4+tackin-tp-link-tl-wr841n-nd-v12-sysupgrade.bin
+tp-link-tl-wr843n-nd-v1 0.11.4+tackin 554beba67c3f7d65ddc12cb660bf004ff2ec87a5d941082d9d4ebf9006e3ff06 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr843n-nd-v1-sysupgrade.bin
+tp-link-tl-wr843n-nd-v1 0.11.4+tackin 554beba67c3f7d65ddc12cb660bf004ff2ec87a5d941082d9d4ebf9006e3ff06 gluon-fftr-0.11.4+tackin-tp-link-tl-wr843n-nd-v1-sysupgrade.bin
+tp-link-tl-wr843n-nd-v1 0.11.4+tackin e07effd5ff90dcb73d316324b7da15da0026d5c0a962b468e30382bd2e467bbcc52bb5b6af6ac081ca1ca4bf82fe284e96a88a30bd7888035c086f8890611ee2 gluon-fftr-0.11.4+tackin-tp-link-tl-wr843n-nd-v1-sysupgrade.bin
+tp-link-tl-wr941n-nd-v2 0.11.4+tackin 977923c077f6dd9256023d83b2c1503490954c8cc823d8081e166f58787cb8db 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v2-sysupgrade.bin
+tp-link-tl-wr941n-nd-v2 0.11.4+tackin 977923c077f6dd9256023d83b2c1503490954c8cc823d8081e166f58787cb8db gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v2-sysupgrade.bin
+tp-link-tl-wr941n-nd-v2 0.11.4+tackin eb5bf977f0180bb9619c2ded6d661485a8ba2d46ff5528adfc8d882723c111e0ae8ce949512260582b8d5189a79a28270fd43e693fd34dbcfc55472feb78483d gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v2-sysupgrade.bin
+tp-link-tl-wr941n-nd-v3 0.11.4+tackin 977923c077f6dd9256023d83b2c1503490954c8cc823d8081e166f58787cb8db 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v3-sysupgrade.bin
+tp-link-tl-wr941n-nd-v3 0.11.4+tackin 977923c077f6dd9256023d83b2c1503490954c8cc823d8081e166f58787cb8db gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v3-sysupgrade.bin
+tp-link-tl-wr941n-nd-v3 0.11.4+tackin eb5bf977f0180bb9619c2ded6d661485a8ba2d46ff5528adfc8d882723c111e0ae8ce949512260582b8d5189a79a28270fd43e693fd34dbcfc55472feb78483d gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v3-sysupgrade.bin
+tp-link-tl-wr941n-nd-v4 0.11.4+tackin 8a465b0aae37307c910f274b5771a5e437ae36f904eec9cc5a6d240de878532a 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v4-sysupgrade.bin
+tp-link-tl-wr941n-nd-v4 0.11.4+tackin 8a465b0aae37307c910f274b5771a5e437ae36f904eec9cc5a6d240de878532a gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v4-sysupgrade.bin
+tp-link-tl-wr941n-nd-v4 0.11.4+tackin 34cd439b5f849a3bfb2f49011a069b96b68b9527d793990f491b60b3a26ea9137a670beb66e7889f6f5030727891e33fefa20e8af897a3725ecee5926784e195 gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v4-sysupgrade.bin
+tp-link-tl-wr940n-v1 0.11.4+tackin 8a465b0aae37307c910f274b5771a5e437ae36f904eec9cc5a6d240de878532a 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v1-sysupgrade.bin
+tp-link-tl-wr940n-v1 0.11.4+tackin 8a465b0aae37307c910f274b5771a5e437ae36f904eec9cc5a6d240de878532a gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v1-sysupgrade.bin
+tp-link-tl-wr940n-v1 0.11.4+tackin 34cd439b5f849a3bfb2f49011a069b96b68b9527d793990f491b60b3a26ea9137a670beb66e7889f6f5030727891e33fefa20e8af897a3725ecee5926784e195 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v1-sysupgrade.bin
+tp-link-tl-wr941n-nd-v5 0.11.4+tackin 05935acf5ec70d91d1238fc24abb955426d23e34e3c4d8973450cc3743a0aac3 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v5-sysupgrade.bin
+tp-link-tl-wr941n-nd-v5 0.11.4+tackin 05935acf5ec70d91d1238fc24abb955426d23e34e3c4d8973450cc3743a0aac3 gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v5-sysupgrade.bin
+tp-link-tl-wr941n-nd-v5 0.11.4+tackin 7dc0f57316d63cb67850534af5a94a757824d1bf32665a99ecebd8c75087aa50c80e99402d6dcf9b696e01f0f2edef809e0093f071fe511905ad37ef3e1adef4 gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v5-sysupgrade.bin
+tp-link-tl-wr940n-v2 0.11.4+tackin 05935acf5ec70d91d1238fc24abb955426d23e34e3c4d8973450cc3743a0aac3 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v2-sysupgrade.bin
+tp-link-tl-wr940n-v2 0.11.4+tackin 05935acf5ec70d91d1238fc24abb955426d23e34e3c4d8973450cc3743a0aac3 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v2-sysupgrade.bin
+tp-link-tl-wr940n-v2 0.11.4+tackin 7dc0f57316d63cb67850534af5a94a757824d1bf32665a99ecebd8c75087aa50c80e99402d6dcf9b696e01f0f2edef809e0093f071fe511905ad37ef3e1adef4 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v2-sysupgrade.bin
+tp-link-tl-wr941n-nd-v6 0.11.4+tackin 5aa144acddd2621421eb25f31ddfe5bad2b8a8b976a2c8264c5855edff5531f8 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v6-sysupgrade.bin
+tp-link-tl-wr941n-nd-v6 0.11.4+tackin 5aa144acddd2621421eb25f31ddfe5bad2b8a8b976a2c8264c5855edff5531f8 gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v6-sysupgrade.bin
+tp-link-tl-wr941n-nd-v6 0.11.4+tackin 1e6dce8111240a253ba7ce1c46908d454b4dbf1ad6eb852a905406e2f7bddac38df41e9bf874a8b1e385ace5ae1eff82c1b306c2eecdeee5d38c78f4440241b4 gluon-fftr-0.11.4+tackin-tp-link-tl-wr941n-nd-v6-sysupgrade.bin
+tp-link-tl-wr940n-v3 0.11.4+tackin 5aa144acddd2621421eb25f31ddfe5bad2b8a8b976a2c8264c5855edff5531f8 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v3-sysupgrade.bin
+tp-link-tl-wr940n-v3 0.11.4+tackin 5aa144acddd2621421eb25f31ddfe5bad2b8a8b976a2c8264c5855edff5531f8 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v3-sysupgrade.bin
+tp-link-tl-wr940n-v3 0.11.4+tackin 1e6dce8111240a253ba7ce1c46908d454b4dbf1ad6eb852a905406e2f7bddac38df41e9bf874a8b1e385ace5ae1eff82c1b306c2eecdeee5d38c78f4440241b4 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v3-sysupgrade.bin
+tp-link-tl-wr940n-v4 0.11.4+tackin ef1c1db8870b6fda155ee0c0e461db9f24c073850f62518ac62515abaf82d920 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v4-sysupgrade.bin
+tp-link-tl-wr940n-v4 0.11.4+tackin ef1c1db8870b6fda155ee0c0e461db9f24c073850f62518ac62515abaf82d920 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v4-sysupgrade.bin
+tp-link-tl-wr940n-v4 0.11.4+tackin 5e022631b6113d956925924df97dc6f2e2a8d2127dee551ccb212ad1b1b23d8bf122a025bb44ba6abec5a79dfb83bebd2faa8822096e4e17f3b0f6e2fe69bfa5 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v4-sysupgrade.bin
+tp-link-tl-wr940n-v5 0.11.4+tackin ef1c1db8870b6fda155ee0c0e461db9f24c073850f62518ac62515abaf82d920 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v5-sysupgrade.bin
+tp-link-tl-wr940n-v5 0.11.4+tackin ef1c1db8870b6fda155ee0c0e461db9f24c073850f62518ac62515abaf82d920 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v5-sysupgrade.bin
+tp-link-tl-wr940n-v5 0.11.4+tackin 5e022631b6113d956925924df97dc6f2e2a8d2127dee551ccb212ad1b1b23d8bf122a025bb44ba6abec5a79dfb83bebd2faa8822096e4e17f3b0f6e2fe69bfa5 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v5-sysupgrade.bin
+tp-link-tl-wr940n-v6 0.11.4+tackin fddaa32f5bb523cf1145b2cac04ca54a46d157602f3aadecddf5168db7d790f0 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v6-sysupgrade.bin
+tp-link-tl-wr940n-v6 0.11.4+tackin fddaa32f5bb523cf1145b2cac04ca54a46d157602f3aadecddf5168db7d790f0 gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v6-sysupgrade.bin
+tp-link-tl-wr940n-v6 0.11.4+tackin 892b237212c1b0708826d0e8d0a934b757ed65fb6cb5999322f6cf306ffb4c788c9e80744f56b2afc54f8380d6c8032156e541f9829d4def1608d96eda8a363e gluon-fftr-0.11.4+tackin-tp-link-tl-wr940n-v6-sysupgrade.bin
+tp-link-tl-wa730re-v1 0.11.4+tackin d88fa4f97088e2c81cc437fda4277f4830c62fb6d1adcf611757d194f8b97a2a 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa730re-v1-sysupgrade.bin
+tp-link-tl-wa730re-v1 0.11.4+tackin d88fa4f97088e2c81cc437fda4277f4830c62fb6d1adcf611757d194f8b97a2a gluon-fftr-0.11.4+tackin-tp-link-tl-wa730re-v1-sysupgrade.bin
+tp-link-tl-wa730re-v1 0.11.4+tackin 6b439a7d5dfad91ac5831a57e7401548dbd617ba5d74e89af90fe9ef5ebad829abcf3ab8c1639a36d7459cb26f9aaf7d51e7d79addb171cfb3696e695d95020f gluon-fftr-0.11.4+tackin-tp-link-tl-wa730re-v1-sysupgrade.bin
+tp-link-tl-wa750re-v1 0.11.4+tackin 1ed34ec663a8162973ab398ea1727fbb4ff6116131b1e2b1ad645d28b91217dc 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa750re-v1-sysupgrade.bin
+tp-link-tl-wa750re-v1 0.11.4+tackin 1ed34ec663a8162973ab398ea1727fbb4ff6116131b1e2b1ad645d28b91217dc gluon-fftr-0.11.4+tackin-tp-link-tl-wa750re-v1-sysupgrade.bin
+tp-link-tl-wa750re-v1 0.11.4+tackin 9cc4ef78205b3e2bbf918302eeee0a2f9b3209c59a04feba27bb20e167dff15d90a0582c11fbbd0d23addd4771a2e992d792a641db16accf3908e2f9f6c1fedb gluon-fftr-0.11.4+tackin-tp-link-tl-wa750re-v1-sysupgrade.bin
+tp-link-tl-wa830re-v1 0.11.4+tackin d8ff0e23e58b55078e23f7059df462e05307a7e42c5f539a6bb5bb6c4976ae94 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa830re-v1-sysupgrade.bin
+tp-link-tl-wa830re-v1 0.11.4+tackin d8ff0e23e58b55078e23f7059df462e05307a7e42c5f539a6bb5bb6c4976ae94 gluon-fftr-0.11.4+tackin-tp-link-tl-wa830re-v1-sysupgrade.bin
+tp-link-tl-wa830re-v1 0.11.4+tackin 25ddbf7db74c3f0b2ddb4049ad1f020220f2d4d59d9c989442cc4b12003f8e0ef6d4f2e3b263395d7db9944acdde19310a817dfa355fd5f341a51429e020f0a4 gluon-fftr-0.11.4+tackin-tp-link-tl-wa830re-v1-sysupgrade.bin
+tp-link-tl-wa830re-v2 0.11.4+tackin ca27c9849f9affe2e34e6ee1ee39f5d23a90fc9150b4294020b354788cae7e65 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa830re-v2-sysupgrade.bin
+tp-link-tl-wa830re-v2 0.11.4+tackin ca27c9849f9affe2e34e6ee1ee39f5d23a90fc9150b4294020b354788cae7e65 gluon-fftr-0.11.4+tackin-tp-link-tl-wa830re-v2-sysupgrade.bin
+tp-link-tl-wa830re-v2 0.11.4+tackin 48b8af974959124ddd5ec6f410d691817613233549a85103049b5689b604a9374f68c5e6ebe5c51b9711384937c164e11ccde71ce4ab54c32bd9cd4137decd46 gluon-fftr-0.11.4+tackin-tp-link-tl-wa830re-v2-sysupgrade.bin
+tp-link-tl-wa850re-v1 0.11.4+tackin 2c65f5a82f706a38155e5f169e31e85a215565bd9ed17913a2cafe229fb22ec7 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa850re-v1-sysupgrade.bin
+tp-link-tl-wa850re-v1 0.11.4+tackin 2c65f5a82f706a38155e5f169e31e85a215565bd9ed17913a2cafe229fb22ec7 gluon-fftr-0.11.4+tackin-tp-link-tl-wa850re-v1-sysupgrade.bin
+tp-link-tl-wa850re-v1 0.11.4+tackin 770f83479a873049c4e93bfe265f40157efa14a459284ad3d8fc01e339eab1f15fd9c6b9037d2b383e7da50a07d6453409069a340ce8651eb00977ad5fd521a3 gluon-fftr-0.11.4+tackin-tp-link-tl-wa850re-v1-sysupgrade.bin
+tp-link-tl-wa860re-v1 0.11.4+tackin 656ef31d80b4429bfa42c0b79e0c413dd90a9be23ab252a2074158c6250ad6dd 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa860re-v1-sysupgrade.bin
+tp-link-tl-wa860re-v1 0.11.4+tackin 656ef31d80b4429bfa42c0b79e0c413dd90a9be23ab252a2074158c6250ad6dd gluon-fftr-0.11.4+tackin-tp-link-tl-wa860re-v1-sysupgrade.bin
+tp-link-tl-wa860re-v1 0.11.4+tackin d61259ec93469ff17a0fb387c67edf4f514176f4054400fa4129e8ceee6532643a942b5974723a1b1df0f362400e4b5c6e388b361c928d76525cf9d8d61815a7 gluon-fftr-0.11.4+tackin-tp-link-tl-wa860re-v1-sysupgrade.bin
+tp-link-tl-wa901n-nd-v1 0.11.4+tackin 1c494d15e9f8586145b76cd1b188387be5e263d21a2b61ccfa0ec53d2a119df3 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v1-sysupgrade.bin
+tp-link-tl-wa901n-nd-v1 0.11.4+tackin 1c494d15e9f8586145b76cd1b188387be5e263d21a2b61ccfa0ec53d2a119df3 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v1-sysupgrade.bin
+tp-link-tl-wa901n-nd-v1 0.11.4+tackin fa347592664d0595d3ee18b45d9712c14e4ca6a79850b3e93d869b7bc10bf22a33744cd1f32a4572c59a0b8db313b60673fe441471f7954c716a146cbb2ab66c gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v1-sysupgrade.bin
+tp-link-tl-wa901n-nd-v2 0.11.4+tackin 2cb76d7020bdf203e40285e6081f78bb888ce80422e71dbd21b110f04fad11f6 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v2-sysupgrade.bin
+tp-link-tl-wa901n-nd-v2 0.11.4+tackin 2cb76d7020bdf203e40285e6081f78bb888ce80422e71dbd21b110f04fad11f6 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v2-sysupgrade.bin
+tp-link-tl-wa901n-nd-v2 0.11.4+tackin a232e5b554d339e1b09827e574d64f833a103cd115813c45e6aa3f182bde207de2399cc4d072381db7eeeb40d7f7e34d100f47f016d3740c5658c7d3d41f8d51 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v2-sysupgrade.bin
+tp-link-tl-wa901n-nd-v3 0.11.4+tackin 3b81e43cfe60052e1f38275c952f89948026f38dd06bf52de080356e2d02e9ed 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v3-sysupgrade.bin
+tp-link-tl-wa901n-nd-v3 0.11.4+tackin 3b81e43cfe60052e1f38275c952f89948026f38dd06bf52de080356e2d02e9ed gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v3-sysupgrade.bin
+tp-link-tl-wa901n-nd-v3 0.11.4+tackin 996782ae5cb1f88d0e053d6cac9c1d574b83d48910a1f032c851caae616b54be69f6f3a7731ae91fb383a53a18a258bb3ecd27e6c452210eb7ae9a39349c3ee9 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v3-sysupgrade.bin
+tp-link-tl-wa901n-nd-v4 0.11.4+tackin 616e168352ce84a3deff17b3aa0f6b141b6b11f4c5b4f65bfbb1df947f675c36 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v4-sysupgrade.bin
+tp-link-tl-wa901n-nd-v4 0.11.4+tackin 616e168352ce84a3deff17b3aa0f6b141b6b11f4c5b4f65bfbb1df947f675c36 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v4-sysupgrade.bin
+tp-link-tl-wa901n-nd-v4 0.11.4+tackin 815659e87ed6e1059b9a956da1ba56073de9cf0de1c701b64da167f8ab0c57b4cc7c4f3e09d7678a0c6b82854fa842a126cad68dcd450265d3382b4d5c6d87e7 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v4-sysupgrade.bin
+tp-link-tl-wa901n-nd-v5 0.11.4+tackin 3e8442fed0a9571ae222cfbb2f0fef5990d440ccef771ff2f2e6513c8758d105 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v5-sysupgrade.bin
+tp-link-tl-wa901n-nd-v5 0.11.4+tackin 3e8442fed0a9571ae222cfbb2f0fef5990d440ccef771ff2f2e6513c8758d105 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v5-sysupgrade.bin
+tp-link-tl-wa901n-nd-v5 0.11.4+tackin 18f593484c2024a7fd19a727b45ddf34e6811d3be23e6cbffd2bb93124459255fd1d5e9d882c1d94df3eb00200c4aead7a7cebf1d3c5a81c42e2c1c1870921b3 gluon-fftr-0.11.4+tackin-tp-link-tl-wa901n-nd-v5-sysupgrade.bin
+tp-link-tl-mr13u-v1 0.11.4+tackin 334a1d076b76ae9dfc2f719c9f70edab8d8431feb38f3419f45c216405196cbf 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-mr13u-v1-sysupgrade.bin
+tp-link-tl-mr13u-v1 0.11.4+tackin 334a1d076b76ae9dfc2f719c9f70edab8d8431feb38f3419f45c216405196cbf gluon-fftr-0.11.4+tackin-tp-link-tl-mr13u-v1-sysupgrade.bin
+tp-link-tl-mr13u-v1 0.11.4+tackin 41a6132e4dd493340b2a68c682560485ee0810c25f1b870bee9a2decae6d0e35f14cf776abe995b93d604e5f3847c87d9817a6b2007a84915dcdc1e46e9b796f gluon-fftr-0.11.4+tackin-tp-link-tl-mr13u-v1-sysupgrade.bin
+tp-link-tl-mr3020-v1 0.11.4+tackin 2c3621512eaef8a55c8fc779f9fa007fada54adba1f3178be6476f25cdd26e35 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3020-v1-sysupgrade.bin
+tp-link-tl-mr3020-v1 0.11.4+tackin 2c3621512eaef8a55c8fc779f9fa007fada54adba1f3178be6476f25cdd26e35 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3020-v1-sysupgrade.bin
+tp-link-tl-mr3020-v1 0.11.4+tackin 414b339b776b41fe5b1627f82e35e08e28831eae86d42a8aeab772da96c3d0b85a6b580792ab9c463e5753451e0dedc1695cff95da3e570ce809747f2c9660bd gluon-fftr-0.11.4+tackin-tp-link-tl-mr3020-v1-sysupgrade.bin
+tp-link-tl-mr3040-v1 0.11.4+tackin 3bc1859b5a38c2578d6642c7e2dcb88ed7e280849f22755f99efbdbcd1bdd676 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3040-v1-sysupgrade.bin
+tp-link-tl-mr3040-v1 0.11.4+tackin 3bc1859b5a38c2578d6642c7e2dcb88ed7e280849f22755f99efbdbcd1bdd676 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3040-v1-sysupgrade.bin
+tp-link-tl-mr3040-v1 0.11.4+tackin 46491da71ee83e23f00935a977f6f390779c67570ce053bbdeb02a9a2f49e4e23fef5cb9e2f0c954fd6b09b554dcacbf00e4ddba5dacb03b07e3a73d3dbdbfe9 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3040-v1-sysupgrade.bin
+tp-link-tl-mr3040-v2 0.11.4+tackin a3f34ec6855dd96a4be3e856296dfd1cd6de7a4a1ad6aa490b82aa50f4235b66 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3040-v2-sysupgrade.bin
+tp-link-tl-mr3040-v2 0.11.4+tackin a3f34ec6855dd96a4be3e856296dfd1cd6de7a4a1ad6aa490b82aa50f4235b66 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3040-v2-sysupgrade.bin
+tp-link-tl-mr3040-v2 0.11.4+tackin aaa241574ea7d033861335e0165c8622116990c9c703463fafe0b1f4f1967682b21645809f5605742dec8302b5db8332ab932371cd8caaff45bbeb1b76b10be3 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3040-v2-sysupgrade.bin
+tp-link-tl-mr3220-v1 0.11.4+tackin 3d4ded45c1d1d499fb4aa4553d1d8128c207397329292300b60d037ece6a90f0 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3220-v1-sysupgrade.bin
+tp-link-tl-mr3220-v1 0.11.4+tackin 3d4ded45c1d1d499fb4aa4553d1d8128c207397329292300b60d037ece6a90f0 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3220-v1-sysupgrade.bin
+tp-link-tl-mr3220-v1 0.11.4+tackin 18e6e338184af91e09b20a14405ff56e21afac42bc6c80177fe2d9e0905ee39bc03c8b4f1f15a8d2412a723a46dc9ca3bfd37ba24a9acb34675d34618d16e847 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3220-v1-sysupgrade.bin
+tp-link-tl-mr3220-v2 0.11.4+tackin 968de964b77a5cc94afe819d9f6bc58490f995cceb11f2f381386750a7a2d9f3 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3220-v2-sysupgrade.bin
+tp-link-tl-mr3220-v2 0.11.4+tackin 968de964b77a5cc94afe819d9f6bc58490f995cceb11f2f381386750a7a2d9f3 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3220-v2-sysupgrade.bin
+tp-link-tl-mr3220-v2 0.11.4+tackin 31894c86832918a28fd45558b16d6e3b0a09c517159caaea7881f9ee7b3e904e69898e467bdccc9943a0aa07c5877c4cdc1f47803015b2f0e961cef9f68d66f1 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3220-v2-sysupgrade.bin
+tp-link-tl-mr3420-v1 0.11.4+tackin 5defe7867905f2342e7acf987223ee1dd9c20e1b24ba5e3e4cb1f3e9f6c6ccae 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3420-v1-sysupgrade.bin
+tp-link-tl-mr3420-v1 0.11.4+tackin 5defe7867905f2342e7acf987223ee1dd9c20e1b24ba5e3e4cb1f3e9f6c6ccae gluon-fftr-0.11.4+tackin-tp-link-tl-mr3420-v1-sysupgrade.bin
+tp-link-tl-mr3420-v1 0.11.4+tackin 6f376456fa0325fb7b083ba45a60d9563b97f1ce5777d8f4110102cfc1514f8e10816926bd19fda925236cbf81947f934ed2c163d71565b94fa8b0fd62bb5bb3 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3420-v1-sysupgrade.bin
+tp-link-tl-mr3420-v2 0.11.4+tackin a86121db06442b71c9aae36b4899172413245f8c7cdd7eb7b4a1a269b7932378 3407876 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3420-v2-sysupgrade.bin
+tp-link-tl-mr3420-v2 0.11.4+tackin a86121db06442b71c9aae36b4899172413245f8c7cdd7eb7b4a1a269b7932378 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3420-v2-sysupgrade.bin
+tp-link-tl-mr3420-v2 0.11.4+tackin 652fdcded6e6f8925f5b20854512f5f1870de935296deb4353540aca883a8896afc8f79a3fae692ba4b99046e5b249b3426888e155a736c9c07b7818ce54fd77 gluon-fftr-0.11.4+tackin-tp-link-tl-mr3420-v2-sysupgrade.bin
+netgear-wndr3700v4 0.11.4+tackin 16b43862e124cb91e854e6e80a2d128ea4918577dcc26e19d63f4dd28bf1eb44 4464640 gluon-fftr-0.11.4+tackin-netgear-wndr3700v4-sysupgrade.tar
+netgear-wndr3700v4 0.11.4+tackin 16b43862e124cb91e854e6e80a2d128ea4918577dcc26e19d63f4dd28bf1eb44 gluon-fftr-0.11.4+tackin-netgear-wndr3700v4-sysupgrade.tar
+netgear-wndr3700v4 0.11.4+tackin 02fca59e5fe52d58ace73647614aa3088477eb3009c919e301a2d10a8e1c38b3fb2cc34f064b66a86044b6d7d434ced617c500cc22dc71c1b4990e72720855b2 gluon-fftr-0.11.4+tackin-netgear-wndr3700v4-sysupgrade.tar
+netgear-wndr4300 0.11.4+tackin 01ad4fa82e29643ec80f334b3376b832432c66b90992941b6822198d8de68b6f 4464640 gluon-fftr-0.11.4+tackin-netgear-wndr4300-sysupgrade.tar
+netgear-wndr4300 0.11.4+tackin 01ad4fa82e29643ec80f334b3376b832432c66b90992941b6822198d8de68b6f gluon-fftr-0.11.4+tackin-netgear-wndr4300-sysupgrade.tar
+netgear-wndr4300 0.11.4+tackin 7551b74dd5a94731393cce9c3161545d19abc859a829cf8a0a3e09a3eab6a57e6d3c7f187d4a781c97c96ac50ff41402e16668f9991495e46b44addeffd44f4e gluon-fftr-0.11.4+tackin-netgear-wndr4300-sysupgrade.tar
+zyxel-nbg6716 0.11.4+tackin 215d216e2216ff23db4c68e436ad750d0e95cd048d41e9e4624416ced5cd4df3 4730880 gluon-fftr-0.11.4+tackin-zyxel-nbg6716-sysupgrade.tar
+zyxel-nbg6716 0.11.4+tackin 215d216e2216ff23db4c68e436ad750d0e95cd048d41e9e4624416ced5cd4df3 gluon-fftr-0.11.4+tackin-zyxel-nbg6716-sysupgrade.tar
+zyxel-nbg6716 0.11.4+tackin e142a73a978f72a30b22c12078d1c363276d37673151b5a6f432b84d560adc4ff1005d555394c11c34490280a0fec0c56be2e85e22f79d2d86779c6a6162cb96 gluon-fftr-0.11.4+tackin-zyxel-nbg6716-sysupgrade.tar
+tp-link-tl-wdr4900-v1 0.11.4+tackin 71be06fc91657af1a3ddf3c48d2166848e9194b593058c1df9ba379d23ae7f64 5111812 gluon-fftr-0.11.4+tackin-tp-link-tl-wdr4900-v1-sysupgrade.bin
+tp-link-tl-wdr4900-v1 0.11.4+tackin 71be06fc91657af1a3ddf3c48d2166848e9194b593058c1df9ba379d23ae7f64 gluon-fftr-0.11.4+tackin-tp-link-tl-wdr4900-v1-sysupgrade.bin
+tp-link-tl-wdr4900-v1 0.11.4+tackin 4dc6a3481fb3bca32a03411295b97e3b37988ac6b541b2ebac1a001bc1d3536f33c14eca246c9c59a4e15dd73760a03b77bd5860147552a2bab2a96d77d5c252 gluon-fftr-0.11.4+tackin-tp-link-tl-wdr4900-v1-sysupgrade.bin
+ubnt-erx 0.11.4+tackin ec7c8e9721c0b161011cb7762ed8f3677819b9f6b7c491b108211cc4b01a6fa1 3410097 gluon-fftr-0.11.4+tackin-ubnt-erx-sysupgrade.tar
+ubnt-erx 0.11.4+tackin ec7c8e9721c0b161011cb7762ed8f3677819b9f6b7c491b108211cc4b01a6fa1 gluon-fftr-0.11.4+tackin-ubnt-erx-sysupgrade.tar
+ubnt-erx 0.11.4+tackin d71d4fcc79a2d95f541c165a28cc53080b9a5a033fcb246ecbb21a753cc3f51ba131ad57a1907270cf50f4900bce9da9044f4a0d5f2f46dcc98fb3514071a394 gluon-fftr-0.11.4+tackin-ubnt-erx-sysupgrade.tar
+ubnt-erx-sfp 0.11.4+tackin 356da5308dd70141a458387be20b6921aaa08d1479a6aad173ef7ec7a902b28b 3758261 gluon-fftr-0.11.4+tackin-ubnt-erx-sfp-sysupgrade.tar
+ubnt-erx-sfp 0.11.4+tackin 356da5308dd70141a458387be20b6921aaa08d1479a6aad173ef7ec7a902b28b gluon-fftr-0.11.4+tackin-ubnt-erx-sfp-sysupgrade.tar
+ubnt-erx-sfp 0.11.4+tackin cb7abaa0b5d580e82b020b582a013bf7db0cab26d43e3a1db52debda6aa57c6131b7d061e3af157a043c33ae0181687ed31049cf93728574b0ecb48370593dcb gluon-fftr-0.11.4+tackin-ubnt-erx-sfp-sysupgrade.tar
+x86-generic 0.11.4+tackin bea98d9d58a6ea672fd2fab95109e4c3c5120bf54786fc84f6d3ac275ee17159 9324981 gluon-fftr-0.11.4+tackin-x86-generic-sysupgrade.img.gz
+x86-generic 0.11.4+tackin bea98d9d58a6ea672fd2fab95109e4c3c5120bf54786fc84f6d3ac275ee17159 gluon-fftr-0.11.4+tackin-x86-generic-sysupgrade.img.gz
+x86-generic 0.11.4+tackin d1b0f29d8c96e6005874445c6d54344a00cae76ee6bcabc9158be1a55fccaa761a7f403e0b347a9098309c2f87d34f51b0544a6fa75be98f99f4b722a307141a gluon-fftr-0.11.4+tackin-x86-generic-sysupgrade.img.gz
+x86-kvm 0.11.4+tackin bea98d9d58a6ea672fd2fab95109e4c3c5120bf54786fc84f6d3ac275ee17159 9324981 gluon-fftr-0.11.4+tackin-x86-generic-sysupgrade.img.gz
+x86-kvm 0.11.4+tackin bea98d9d58a6ea672fd2fab95109e4c3c5120bf54786fc84f6d3ac275ee17159 gluon-fftr-0.11.4+tackin-x86-generic-sysupgrade.img.gz
+x86-kvm 0.11.4+tackin d1b0f29d8c96e6005874445c6d54344a00cae76ee6bcabc9158be1a55fccaa761a7f403e0b347a9098309c2f87d34f51b0544a6fa75be98f99f4b722a307141a gluon-fftr-0.11.4+tackin-x86-generic-sysupgrade.img.gz
+x86-xen_domu 0.11.4+tackin bea98d9d58a6ea672fd2fab95109e4c3c5120bf54786fc84f6d3ac275ee17159 9324981 gluon-fftr-0.11.4+tackin-x86-generic-sysupgrade.img.gz
+x86-xen_domu 0.11.4+tackin bea98d9d58a6ea672fd2fab95109e4c3c5120bf54786fc84f6d3ac275ee17159 gluon-fftr-0.11.4+tackin-x86-generic-sysupgrade.img.gz
+x86-xen_domu 0.11.4+tackin d1b0f29d8c96e6005874445c6d54344a00cae76ee6bcabc9158be1a55fccaa761a7f403e0b347a9098309c2f87d34f51b0544a6fa75be98f99f4b722a307141a gluon-fftr-0.11.4+tackin-x86-generic-sysupgrade.img.gz
+x86-geode 0.11.4+tackin 3bf6bd2d61e8cfc5b34b4cfc0570bf3d1db0332a42777f65cffebfbaf4f83172 7602574 gluon-fftr-0.11.4+tackin-x86-geode-sysupgrade.img.gz
+x86-geode 0.11.4+tackin 3bf6bd2d61e8cfc5b34b4cfc0570bf3d1db0332a42777f65cffebfbaf4f83172 gluon-fftr-0.11.4+tackin-x86-geode-sysupgrade.img.gz
+x86-geode 0.11.4+tackin f758fd96d7ef2bc36d51f1e88c13b4ffcf8183d5e53e85ce722d73e678bbd952b0c9ac76f2244a5c4dd9219475325866b5483376080f71817fee3ea7188aae11 gluon-fftr-0.11.4+tackin-x86-geode-sysupgrade.img.gz
+x86-64 0.11.4+tackin a4c80c78caf83f037da7d732a15c4ed0b20ef5b431e1cd427e14ad583da7e5ab 8249972 gluon-fftr-0.11.4+tackin-x86-64-sysupgrade.img.gz
+x86-64 0.11.4+tackin a4c80c78caf83f037da7d732a15c4ed0b20ef5b431e1cd427e14ad583da7e5ab gluon-fftr-0.11.4+tackin-x86-64-sysupgrade.img.gz
+x86-64 0.11.4+tackin 8849d873f562cf7193d2c164ae71412ca0ef8ca03e1ef343558c78cf051e880f92baa9fe8e2465ba7a2758c6f1a4c84d21a0b7340e1930abb1b5c8ed521a8308 gluon-fftr-0.11.4+tackin-x86-64-sysupgrade.img.gz
 ---
-5f484f6083b1f115b82a745e6685bd3590af767d7682f29154e93114f40eac054a30816862a5cff808b27cc7240c28f92ed3644575264960e1bb89ea4729ce06
-58b51be887f66bd91e75a9a59c0616b13346f6f42f72abb86299417d0c0b620d6ced358259661f6f356391c9975a2bfd6784ac504bbc11d5884bcddc18e9780c
+31ba8facbb8e5f981b40cc713c3fabb9e4d4ade2a2ac30e857d27dfd404e210b4cb3e5d77d2f9f9fad9a7b3a3e853d5496907ac7f05927b0ea661273754a080e

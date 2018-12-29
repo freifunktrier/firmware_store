@@ -1,6 +1,6 @@
 # Stable Firmware
 
-Based on gluon 2017.1.8
+Based on gluon 2018.1.3
 
-Next release will be 2018.1.x
+Next release will be 2018.2.x
 
