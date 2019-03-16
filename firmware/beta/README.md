@@ -1,39 +1,15 @@
 # BETA - store
 
-Version 0.11.5 based on Gluon 2018.2
+Version 0.11.6 based on Gluon 2018.2.1
 
 Please only use this firmware-branch if you know how to fix things in case of trouble!
 
-The gluon 2018.1 (our gluon 0.11.1) had a significant bug in the autoupdater.  
-Please see also:  
-[https://github.com/freifunk-gluon/gluon/issues/1496](https://github.com/freifunk-gluon/gluon/issues/1496)  
-[https://forum.freifunk.net/t/gluon-2018-1-x-autoupdater-configverlust-gefahr/19322](https://forum.freifunk.net/t/gluon-2018-1-x-autoupdater-configverlust-gefahr/19322)  
+If every thing workes fine in this version it will be our base for some changes.  
+This gluon-version 2018.2.1 has a gluon-scheduled-domain-switch which will be used for a breaking switch from IBSS to 802.11s.
 
-The bug may lead to losing your node's config, ssh-key i.e. and boot into config-mode after update.  
+My request to beta-users is, to please test this version and report any problems.
 
-So it is no good idea to use "autoupdater -f -b beta" via ssh to update from 0.11.1-beta to our new 0.11.5-beta.  
-The more safer way is to use the sysupgrade-function.  
-
-you may instead do:  
-
-    cd /tmp  
-    wget http://pegol.tackin.de/firmware/beta/sysupgrade/gluon-fftr-0.11.5+tackin.....sysupgrade.bin
- 
-or  
-
-    cd /tmp  
-    wget http://2.updates.services.fftr/firmware/beta/sysupgrade/gluon-fftr-0.11.5+tackin.....sysupgrade.bin  
-(please add the right file for your node-type and node-version)
-
-    echo 3 > /proc/sys/vm/drop_caches  
-    sysupgrade gluon-fftr-0.11.5+tackin....sysupgrade.bin  
-
-
-If you still want/need to take the risk, you may try an autoupdate.  I did my best to make it work and tested it on some routers with no problems.  
-But as the older beta "gluon 0.11.1" also has a minor bug in the "beta.good.signatures", please make sure to first do  
-
-    uci set autoupdater.beta.good_signatures='1'  
-    autoupdater -f -b beta  
+Next releases of this gluon2018.2.1 will only have minor changes to manage the domain-switching.
 
 
 Tackin
