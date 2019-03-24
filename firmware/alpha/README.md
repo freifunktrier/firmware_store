@@ -24,7 +24,7 @@ You also can switch manually to the new settings any time you like via ssh and u
 The commands are:  
 
 ```
-uci set gluon.core.domain="fftr_s11"  
+uci set gluon.core.domain="fftr_11s"  
 gluon-reconfigure  
 reboot  
 ```
