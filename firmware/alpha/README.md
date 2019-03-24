@@ -53,7 +53,7 @@ See: [https://gluon.readthedocs.io/en/v2018.2.x/features/multidomain.html]
 
 
 After frimware-upgrade to 0.11.7 your router should still be in our fftr_ibss -net!!  
-If it comes up in the fftr_s11 -net the firmware does not work as expected and **please report this to me**!!!  
+If it comes up in the fftr_11s -net the firmware does not work as expected and **please report this to me**!!!  
 
 
 
