@@ -16,7 +16,7 @@ This software has a fixed change-set. It will break our old net on the scheduled
 I decided to switch to this new settings at  01. May 2019 04:00:00 MEZ  
 New settings:  
 1.) 802.11s instead of IBSS  
-2.) 2.4HGz-channel 1 instead of channel 2  
+2.) 2.4GHz-channel 1 instead of channel 2  
 
 This software is going to be rolled out for our new stable-release before scheduled switch-time unless any testing problems are reported SOON! **SO PLEASE HELP TESTING THIS FIRMWARE IF YOU CAN!**
 
