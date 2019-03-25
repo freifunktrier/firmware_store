@@ -13,7 +13,7 @@ This releases has minor changes to 0.11.6 to manage the domain-switching.
 
 This software has a fixed change-set. It will break our old net on the scheduled date!!!
 
-I decided to switch to this new settings at  **01. May 2019 04:00:00 MEZ**  
+I decided to switch to this new settings at  **01. May 2019 05:00:00 MEZ**  
 New settings:  
 1.) 802.11s instead of IBSS  
 2.) 2.4GHz-channel 1 instead of channel 2  
