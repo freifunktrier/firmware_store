@@ -599,3 +599,5 @@ x86-geode 0.11.7+tackin 13635174206ef60a237d92712a5b323aaf9a63dda2bc4e1b5fa9dc56
 x86-64 0.11.7+tackin 6d5dfcdd8a86de5560961fafab4badbac038c8c46fb862d2c6de59701cbce9bd 8782005 gluon-fftr-0.11.7+tackin-x86-64-sysupgrade.img.gz
 x86-64 0.11.7+tackin 6d5dfcdd8a86de5560961fafab4badbac038c8c46fb862d2c6de59701cbce9bd gluon-fftr-0.11.7+tackin-x86-64-sysupgrade.img.gz
 x86-64 0.11.7+tackin 3f706b3c30df47769197bdc8b971c83c17add70eff52d2a2d3ce358bd5415296e1f9042c9ff45423288beb9f68ba3b893bfe22ade03dd4d97b310cafd2d00aca gluon-fftr-0.11.7+tackin-x86-64-sysupgrade.img.gz
+---
+7ddb8cc4938ca656947df1b59977f8aaf669ca552c2c8148c95362a00fee140e749f781ea1689560cc48de8a6eb86eb823de9a59405fb45749c2a7758247dd04
