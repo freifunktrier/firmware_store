@@ -1,22 +1,26 @@
-## Stable Firmware
+# stable - store
 
-# Based on gluon 2018.2.1  
+## Version 0.11.8 based on Gluon 2018.2.1
 
-# PLEASE DO NOT USE THIS FIRMWARE ANYMORE !!!  
-## I highly recommend to use our new beta-firmware 0.11.8 after may 1. 2019 !!  
-With this gluon firmware 0.11.7 your router needs up to 120 minutes to start meshing in our new net.
+This firmware has still multi-domain-support. It has an additional domain-set "fftr_11s_c11" to test an alternative environement on channel 11 instead of channel 1.
+You can switch manually to the alternative settings any time you like via ssh and uci to test meshing on channel 11.  
+The commands are:  
 
-==========================================================================  
+```
+uci set gluon.core.domain="fftr_11s_c11"  
+gluon-reconfigure  
+reboot  
+```
 
-# BITTE DIESE FIRMWARE NICHT MEHR BENUTZEN !!!  
-## Ich empfehle sehr, ab dem 1.5.2019 die neue Beta 0.11.8 zu nutzen!  
+and back to the old config:
 
-Die Firmware 0.11.7 benötigt bis zu 120 Minuten bis euer neuer Knoten sich mit unserem neuen Mesh-Netz verbindet.  
-
-
-
-
-Includes our Scheduled-domain-switch to 802.11s, channel 1 and vxlan at 1. May 2019 05:00 MEZ
+```
+uci set gluon.core.domain="fftr_11s"  
+gluon-reconfigure  
+reboot  
+```
 
 
+
+See: [https://gluon.readthedocs.io/en/v2018.2.x/features/multidomain.html]
 
