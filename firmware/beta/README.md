@@ -1,6 +1,6 @@
 # beta- store
 
-## Version 0.11.9 based on Gluon 2018.2.2
+## Version 0.11.10 based on Gluon 2018.2.3
 
 **Please only use this firmware-branch if you know how to fix things in case of trouble!**  
 
