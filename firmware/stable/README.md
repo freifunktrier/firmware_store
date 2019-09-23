@@ -1,26 +1,20 @@
-# stable - store
+# beta- store
 
-## Version 0.11.8 based on Gluon 2018.2.1
+## Version 0.11.10 based on Gluon 2018.2.3
 
-This firmware has still multi-domain-support. It has an additional domain-set "fftr_11s_c11" to test an alternative environement on channel 11 instead of channel 1.
-You can switch manually to the alternative settings any time you like via ssh and uci to test meshing on channel 11.  
-The commands are:  
+**Please only use this firmware-branch if you know how to fix things in case of trouble!**  
 
-```
-uci set gluon.core.domain="fftr_11s_c11"  
-gluon-reconfigure  
-reboot  
-```
 
-and back to the old config:
+This software is going to be rolled out for our new stable-release before scheduled switch-time unless any testing problems are reported SOON! **SO PLEASE HELP TESTING THIS FIRMWARE IF YOU CAN!**
+
+
+To update your Router to this beta via autoupdater:  
 
 ```
-uci set gluon.core.domain="fftr_11s"  
-gluon-reconfigure  
-reboot  
+autoupdater -f -b beta
 ```
 
 
 
-See: [https://gluon.readthedocs.io/en/v2018.2.x/features/multidomain.html]
-
+Yours
+Tackin
