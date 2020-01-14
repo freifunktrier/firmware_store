@@ -1,6 +1,6 @@
 # stable - store
 
-## Version 0.11.11 based on Gluon 2018.2.4
+## Version 0.11.10 based on Gluon 2018.2.3
 
 This firmware has still multi-domain-support. It has an additional domain-set "fftr_11s_c11" to test an alternative environement on channel 11 instead of channel 1.
 You can switch manually to the alternative settings any time you like via ssh and uci to test meshing on channel 11.  
