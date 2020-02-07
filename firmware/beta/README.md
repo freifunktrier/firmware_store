@@ -10,6 +10,10 @@ This software is going to be rolled out for our new stable-release unless any te
 I have changed the BATMAN-config slightly. If you test this firmware please keep an eye on the performance of the mesh-net.
 If you think mesh-transfer decreased with this firmware please give me a note!
 
+**Gloun 2019.1.x has "breaking changes" which might cause some problems.**
+see: https://forum.freifunk.net/t/gluon-2019-1-x-knoten-erscheinen-nicht-in-der-map-respondd/21164/14
+
+
 To update your Router to this beta via autoupdater:  
 
 ```
