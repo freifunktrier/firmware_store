@@ -1,13 +1,13 @@
 # stable - store
 
-## Version 0.13.3 based on Gluon 2020.1.1
+## Version 0.11.11 based on Gluon 2018.2.4
 
-This firmware has still multi-domain-support. It has an additional domain-set "fftr_c11" to test an alternative environement on channel 11 instead of channel 1.
+This firmware has still multi-domain-support. It has an additional domain-set "fftr_11s_c11" to test an alternative environement on channel 11 instead of channel 1.
 You can switch manually to the alternative settings any time you like via ssh and uci to test meshing on channel 11.  
 The commands are:  
 
 ```
-uci set gluon.core.domain="fftr_c11"  
+uci set gluon.core.domain="fftr_11s_c11"  
 gluon-reconfigure  
 reboot  
 ```
@@ -15,7 +15,7 @@ reboot
 and back to the old config:
 
 ```
-uci set gluon.core.domain="fftr"  
+uci set gluon.core.domain="fftr_11s"  
 gluon-reconfigure  
 reboot  
 ```
