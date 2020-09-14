@@ -1,5 +1,5 @@
 BRANCH=stable
-DATE=2020-09-07 18:25:38+02:00
+DATE=2020-09-13 18:25:38+02:00
 PRIORITY=2
 
 tp-link-tl-wdr3600-v1 0.14.2+tackin 5868b7693d0fbc27cf686e51745e04cbd51b8efab75e4eb07feb91d26b45ab3b 5046276 gluon-fftr-0.14.2+tackin-tp-link-tl-wdr3600-v1-sysupgrade.bin
@@ -875,3 +875,5 @@ x86-legacy 0.14.2+tackin 457c12bac6d6bb1741b99bf12ccc60b5f42b315d5b457249f23a72a
 x86-64 0.14.2+tackin 2a78a4928b51dab6c0aa95515df3c5db3e37f4f6425c43c78afb9393622675ab 12139402 gluon-fftr-0.14.2+tackin-x86-64-sysupgrade.img.gz
 x86-64 0.14.2+tackin 2a78a4928b51dab6c0aa95515df3c5db3e37f4f6425c43c78afb9393622675ab gluon-fftr-0.14.2+tackin-x86-64-sysupgrade.img.gz
 x86-64 0.14.2+tackin f2610e46f0fa49439e210f9ba412061a2d85e0536f82fd74c139f41668475f511fbd48a12e1ecab8a1ffc582c1d10369b053493f0b3f6eced82f839bb887d3af gluon-fftr-0.14.2+tackin-x86-64-sysupgrade.img.gz
+---
+fbe043f9ae599501215ae2039b7e4b7664da454532fd6f877a57e63081eaac053ba37f96fd14c75043cafc826b2ec7aeb715f37c00e23dfa1cea48beb92fba09
