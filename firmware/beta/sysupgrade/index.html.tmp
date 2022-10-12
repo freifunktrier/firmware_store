@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Index of /gluon/sysupgrade/</title>
+<style type="text/css">
+a, a:active {text-decoration: none; color: blue;}
+a:visited {color: #48468F;}
+a:hover, a:focus {text-decoration: underline; color: red;}
+body {background-color: #F5F5F5;}
+h2 {margin-bottom: 12px;}
+table {margin-left: 12px;}
+th, td { font: 90% monospace; text-align: left;}
+th { font-weight: bold; padding-right: 14px; padding-bottom: 3px;}
+td {padding-right: 14px;}
+td.s, th.s {text-align: right;}
+div.list { background-color: white; border-top: 1px solid #646464; border-bottom: 1px solid #646464; padding-top: 10px; padding-bottom: 14px;}
+div.foot { font: 90% monospace; color: #787878; padding-top: 4px;}
+</style>
+</head>
+<body>
+<h2>Index of /gluon/sysupgrade/</h2>
+<div class="list">
+<table summary="Directory Listing" cellpadding="0" cellspacing="0">
+<thead><tr><th class="n">Name</th><th class="m">Last Modified</th><th class="s">Size</th><th class="t">Type</th></tr></thead>
+<tbody>
+<tr class="d"><td class="n"><a href="../">..</a>/</td><td class="m">&nbsp;</td><td class="s">- &nbsp;</td><td class="t">Directory</td></tr>
+<tr><td class="n"><a href="alpha.manifest">alpha.manifest</a></td><td class="m">2022-Oct-07 23:03:51</td><td class="s">43.5K</td><td class="t">text/cache-manifest</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-8devices-jalapeno-sysupgrade.bin">gluon-fftr-0.16.2+tackin-8devices-jalapeno-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">7.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-aerohive-hiveap-330-sysupgrade.bin">gluon-fftr-0.16.2+tackin-aerohive-hiveap-330-sysupgrade.bin</a></td><td class="m">2022-Oct-07 11:06:29</td><td class="s">12.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-alfa-network-ap121f-sysupgrade.bin">gluon-fftr-0.16.2+tackin-alfa-network-ap121f-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-aruba-ap-303-sysupgrade.bin">gluon-fftr-0.16.2+tackin-aruba-ap-303-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-aruba-ap-303h-sysupgrade.bin">gluon-fftr-0.16.2+tackin-aruba-ap-303h-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-aruba-ap-365-sysupgrade.bin">gluon-fftr-0.16.2+tackin-aruba-ap-365-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-aruba-instant-on-ap11-sysupgrade.bin">gluon-fftr-0.16.2+tackin-aruba-instant-on-ap11-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-aruba-instant-on-ap11d-sysupgrade.bin">gluon-fftr-0.16.2+tackin-aruba-instant-on-ap11d-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-aruba-instant-on-ap17-sysupgrade.bin">gluon-fftr-0.16.2+tackin-aruba-instant-on-ap17-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-asus-rt-ac51u-sysupgrade.bin">gluon-fftr-0.16.2+tackin-asus-rt-ac51u-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:13</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-asus-rt-ac57u-sysupgrade.bin">gluon-fftr-0.16.2+tackin-asus-rt-ac57u-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:29</td><td class="s">6.0M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-avm-fritz-box-4020-sysupgrade.bin">gluon-fftr-0.16.2+tackin-avm-fritz-box-4020-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:11</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-avm-fritz-box-4040-sysupgrade.bin">gluon-fftr-0.16.2+tackin-avm-fritz-box-4040-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-avm-fritz-box-7312-sysupgrade.bin">gluon-fftr-0.16.2+tackin-avm-fritz-box-7312-sysupgrade.bin</a></td><td class="m">2022-Oct-06 22:38:44</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-avm-fritz-box-7360-sl-sysupgrade.bin">gluon-fftr-0.16.2+tackin-avm-fritz-box-7360-sl-sysupgrade.bin</a></td><td class="m">2022-Oct-06 21:43:27</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-avm-fritz-box-7360-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-avm-fritz-box-7360-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 21:43:27</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-avm-fritz-box-7360-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-avm-fritz-box-7360-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 21:43:27</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-avm-fritz-box-7362-sl-sysupgrade.bin">gluon-fftr-0.16.2+tackin-avm-fritz-box-7362-sl-sysupgrade.bin</a></td><td class="m">2022-Oct-06 21:43:27</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-avm-fritz-box-7412-sysupgrade.bin">gluon-fftr-0.16.2+tackin-avm-fritz-box-7412-sysupgrade.bin</a></td><td class="m">2022-Oct-06 21:43:27</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-avm-fritz-box-7530-sysupgrade.bin">gluon-fftr-0.16.2+tackin-avm-fritz-box-7530-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-avm-fritz-repeater-1200-sysupgrade.bin">gluon-fftr-0.16.2+tackin-avm-fritz-repeater-1200-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-avm-fritz-wlan-repeater-300e-sysupgrade.bin">gluon-fftr-0.16.2+tackin-avm-fritz-wlan-repeater-300e-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-avm-fritz-wlan-repeater-450e-sysupgrade.bin">gluon-fftr-0.16.2+tackin-avm-fritz-wlan-repeater-450e-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:11</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-buffalo-wzr-600dhp-sysupgrade.bin">gluon-fftr-0.16.2+tackin-buffalo-wzr-600dhp-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:08</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-buffalo-wzr-hp-ag300h-sysupgrade.bin">gluon-fftr-0.16.2+tackin-buffalo-wzr-hp-ag300h-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:11</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-buffalo-wzr-hp-g300nh-rtl8366s-sysupgrade.bin">gluon-fftr-0.16.2+tackin-buffalo-wzr-hp-g300nh-rtl8366s-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:11</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-cudy-wr1000-sysupgrade.bin">gluon-fftr-0.16.2+tackin-cudy-wr1000-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-cudy-wr2100-sysupgrade.bin">gluon-fftr-0.16.2+tackin-cudy-wr2100-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:28</td><td class="s">6.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-d-link-dap-1330-a1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-d-link-dap-1330-a1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-d-link-dap-1365-a1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-d-link-dap-1365-a1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:05</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-d-link-dap-2660-a1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-d-link-dap-2660-a1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-d-link-dir-505-sysupgrade.bin">gluon-fftr-0.16.2+tackin-d-link-dir-505-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:11</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-d-link-dir-860l-b1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-d-link-dir-860l-b1-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:29</td><td class="s">5.9M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-d-link-dir825b1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-d-link-dir825b1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">4.8M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-devolo-wifi-pro-1200e-sysupgrade.bin">gluon-fftr-0.16.2+tackin-devolo-wifi-pro-1200e-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:04</td><td class="s">5.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-devolo-wifi-pro-1200i-sysupgrade.bin">gluon-fftr-0.16.2+tackin-devolo-wifi-pro-1200i-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-devolo-wifi-pro-1750c-sysupgrade.bin">gluon-fftr-0.16.2+tackin-devolo-wifi-pro-1750c-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-devolo-wifi-pro-1750e-sysupgrade.bin">gluon-fftr-0.16.2+tackin-devolo-wifi-pro-1750e-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:08</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-devolo-wifi-pro-1750i-sysupgrade.bin">gluon-fftr-0.16.2+tackin-devolo-wifi-pro-1750i-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-devolo-wifi-pro-1750x-sysupgrade.bin">gluon-fftr-0.16.2+tackin-devolo-wifi-pro-1750x-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:07</td><td class="s">5.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-engenius-ens620ext-sysupgrade.bin">gluon-fftr-0.16.2+tackin-engenius-ens620ext-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">7.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-enterasys-ws-ap3705-sysupgrade.bin">gluon-fftr-0.16.2+tackin-enterasys-ws-ap3705-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-enterasys-ws-ap3710i-sysupgrade.bin">gluon-fftr-0.16.2+tackin-enterasys-ws-ap3710i-sysupgrade.bin</a></td><td class="m">2022-Oct-07 11:06:29</td><td class="s">6.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-extreme-networks-ws-ap3825i-sysupgrade.bin">gluon-fftr-0.16.2+tackin-extreme-networks-ws-ap3825i-sysupgrade.bin</a></td><td class="m">2022-Oct-07 11:06:29</td><td class="s">6.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-friendlyelec-nanopi-r2s-sysupgrade.img.gz">gluon-fftr-0.16.2+tackin-friendlyelec-nanopi-r2s-sysupgrade.img.gz</a></td><td class="m">2022-Oct-07 15:05:02</td><td class="s">9.1M</td><td class="t">application/gzip</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-friendlyelec-nanopi-r4s-sysupgrade.img.gz">gluon-fftr-0.16.2+tackin-friendlyelec-nanopi-r4s-sysupgrade.img.gz</a></td><td class="m">2022-Oct-07 15:05:02</td><td class="s">9.1M</td><td class="t">application/gzip</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl-mt300a-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl-mt300a-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:14</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl-mt300n-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl-mt300n-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:14</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl-mt300n-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl-mt300n-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl-mt750-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl-mt750-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:14</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl.inet-6416-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl.inet-6416-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl.inet-gl-ap1300-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl.inet-gl-ap1300-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">7.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl.inet-gl-ar150-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl.inet-gl-ar150-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:07</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl.inet-gl-ar300m-lite-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl.inet-gl-ar300m-lite-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:09</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl.inet-gl-ar300m-nor-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl.inet-gl-ar300m-nor-sysupgrade.bin</a></td><td class="m">2022-Oct-06 19:10:05</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl.inet-gl-ar750-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl.inet-gl-ar750-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:09</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl.inet-gl-ar750s-nor-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl.inet-gl-ar750s-nor-sysupgrade.bin</a></td><td class="m">2022-Oct-06 19:10:05</td><td class="s">6.0M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl.inet-gl-b1300-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl.inet-gl-b1300-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl.inet-gl-usb150-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl.inet-gl-usb150-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:04</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl.inet-microuter-n300-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl.inet-microuter-n300-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-gl.inet-vixmini-sysupgrade.bin">gluon-fftr-0.16.2+tackin-gl.inet-vixmini-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-joy-it-jt-or750i-sysupgrade.bin">gluon-fftr-0.16.2+tackin-joy-it-jt-or750i-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:06</td><td class="s">5.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-lemaker-banana-pi-sysupgrade.img.gz">gluon-fftr-0.16.2+tackin-lemaker-banana-pi-sysupgrade.img.gz</a></td><td class="m">2022-Oct-07 15:52:27</td><td class="s">7.8M</td><td class="t">application/gzip</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-linksys-e8450-ubi-sysupgrade.itb">gluon-fftr-0.16.2+tackin-linksys-e8450-ubi-sysupgrade.itb</a></td><td class="m">2022-Oct-06 23:43:54</td><td class="s">9.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-linksys-ea6350v3-sysupgrade.bin">gluon-fftr-0.16.2+tackin-linksys-ea6350v3-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-mikrotik-discg-5acd-sysupgrade.bin">gluon-fftr-0.16.2+tackin-mikrotik-discg-5acd-sysupgrade.bin</a></td><td class="m">2022-Oct-06 21:14:35</td><td class="s">6.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-mikrotik-routerboard-951ui-2nd-hap-sysupgrade.bin">gluon-fftr-0.16.2+tackin-mikrotik-routerboard-951ui-2nd-hap-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:04:36</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-mikrotik-sxtsq-5-ac-rbsxtsqg-5acd-sysupgrade.bin">gluon-fftr-0.16.2+tackin-mikrotik-sxtsq-5-ac-rbsxtsqg-5acd-sysupgrade.bin</a></td><td class="m">2022-Oct-06 21:14:35</td><td class="s">6.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-dgn3500b-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-dgn3500b-sysupgrade.bin</a></td><td class="m">2022-Oct-06 22:38:44</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-ex3700-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-ex3700-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:13</td><td class="s">5.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-ex3800-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-ex3800-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:13</td><td class="s">5.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-ex6100v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-ex6100v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-ex6150-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-ex6150-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:29</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-ex6150v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-ex6150v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-nighthawk-x4s-r7800-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-nighthawk-x4s-r7800-sysupgrade.bin</a></td><td class="m">2022-Oct-06 21:27:36</td><td class="s">6.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-r6020-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-r6020-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-r6120-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-r6120-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-r6220-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-r6220-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:29</td><td class="s">5.9M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-r6260-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-r6260-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:29</td><td class="s">6.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-wac104-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-wac104-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:28</td><td class="s">5.9M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-wax202-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-wax202-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:29</td><td class="s">6.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-wndr3700-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-wndr3700-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:10</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-wndr3700-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-wndr3700-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:11</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-wndr3700-v4-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-wndr3700-v4-sysupgrade.bin</a></td><td class="m">2022-Oct-06 19:10:05</td><td class="s">7.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-wndr3800-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-wndr3800-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:08</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-wndr3800ch-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-wndr3800ch-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:07</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-wnr2200-16m-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-wnr2200-16m-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-netgear-wnr2200-8m-sysupgrade.bin">gluon-fftr-0.16.2+tackin-netgear-wnr2200-8m-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:11</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-nexx-wt3020-8m-sysupgrade.bin">gluon-fftr-0.16.2+tackin-nexx-wt3020-8m-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:14</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-nexx-wt3020ad-sysupgrade.bin">gluon-fftr-0.16.2+tackin-nexx-wt3020ad-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:14</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-nexx-wt3020f-sysupgrade.bin">gluon-fftr-0.16.2+tackin-nexx-wt3020f-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:14</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-nexx-wt3020h-sysupgrade.bin">gluon-fftr-0.16.2+tackin-nexx-wt3020h-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:14</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ocedo-koala-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ocedo-koala-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ocedo-panda-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ocedo-panda-sysupgrade.bin</a></td><td class="m">2022-Oct-07 11:06:29</td><td class="s">7.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ocedo-raccoon-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ocedo-raccoon-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-onion-omega-sysupgrade.bin">gluon-fftr-0.16.2+tackin-onion-omega-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-a40-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-a40-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:09</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-a42-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-a42-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-a60-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-a60-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:09</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-a62-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-a62-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.9M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-mr1750-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-mr1750-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:09</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-mr1750-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-mr1750-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:10</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-mr600-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-mr600-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:09</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-mr600-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-mr600-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-mr900-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-mr900-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:04</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-mr900-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-mr900-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-om2p-hs-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-om2p-hs-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-om2p-hs-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-om2p-hs-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:10</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-om2p-hs-v3-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-om2p-hs-v3-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-om2p-hs-v4-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-om2p-hs-v4-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:05</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-om2p-lc-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-om2p-lc-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:10</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-om2p-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-om2p-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:10</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-om2p-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-om2p-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:10</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-om2p-v4-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-om2p-v4-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-om5p-ac-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-om5p-ac-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-om5p-ac-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-om5p-ac-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:10</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-om5p-an-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-om5p-an-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-openmesh-om5p-sysupgrade.bin">gluon-fftr-0.16.2+tackin-openmesh-om5p-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:10</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-plasma-cloud-pa1200-sysupgrade.bin">gluon-fftr-0.16.2+tackin-plasma-cloud-pa1200-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-plasma-cloud-pa2200-sysupgrade.bin">gluon-fftr-0.16.2+tackin-plasma-cloud-pa2200-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.9M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-plasma-cloud-pa300-sysupgrade.bin">gluon-fftr-0.16.2+tackin-plasma-cloud-pa300-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-plasma-cloud-pa300e-sysupgrade.bin">gluon-fftr-0.16.2+tackin-plasma-cloud-pa300e-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-raspberrypi-2-model-b-sysupgrade.img.gz">gluon-fftr-0.16.2+tackin-raspberrypi-2-model-b-sysupgrade.img.gz</a></td><td class="m">2022-Oct-07 22:03:34</td><td class="s">18.5M</td><td class="t">application/gzip</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-raspberrypi-model-b-sysupgrade.img.gz">gluon-fftr-0.16.2+tackin-raspberrypi-model-b-sysupgrade.img.gz</a></td><td class="m">2022-Oct-07 21:07:33</td><td class="s">14.2M</td><td class="t">application/gzip</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ravpower-rp-wd009-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ravpower-rp-wd009-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-siemens-ws-ap3610-sysupgrade.bin">gluon-fftr-0.16.2+tackin-siemens-ws-ap3610-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:05</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-sophos-red-15w-rev.1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-sophos-red-15w-rev.1-sysupgrade.bin</a></td><td class="m">2022-Oct-07 08:51:45</td><td class="s">7.0M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-a7-v5-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-a7-v5-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:08</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c2-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c2-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:14</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c20-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c20-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:14</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c20-v4-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c20-v4-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c20-v5-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c20-v5-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c20i-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c20i-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:14</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c5-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c5-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:09</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c50-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c50-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:14</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c50-v3-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c50-v3-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c50-v4-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c50-v4-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c59-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c59-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.9M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c6-v2-eu-ru-jp-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c6-v2-eu-ru-jp-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.8M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c7-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c7-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:08</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c7-v4-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c7-v4-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:05</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-archer-c7-v5-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-archer-c7-v5-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:04</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-cpe210-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-cpe210-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">7.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-cpe210-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-cpe210-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">7.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-cpe210-v3-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-cpe210-v3-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">7.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-cpe220-v3-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-cpe220-v3-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:05</td><td class="s">7.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-cpe510-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-cpe510-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:07</td><td class="s">7.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-cpe510-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-cpe510-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:07</td><td class="s">7.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-cpe510-v3-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-cpe510-v3-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:06</td><td class="s">7.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-cpe710-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-cpe710-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:04</td><td class="s">15.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-eap225-outdoor-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-eap225-outdoor-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:06</td><td class="s">5.8M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-re200-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-re200-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-re305-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-re305-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">4.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-re450-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-re450-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:06</td><td class="s">5.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-re500-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-re500-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:29</td><td class="s">6.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-re650-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-re650-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:28</td><td class="s">6.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-td-w8970-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-td-w8970-sysupgrade.bin</a></td><td class="m">2022-Oct-06 21:43:27</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-mr3020-v3-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-mr3020-v3-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-mr3420-v5-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-mr3420-v5-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-wa801nd-v5-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-wa801nd-v5-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-wdr3500-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-wdr3500-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:04</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-wdr3600-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-wdr3600-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-wdr4300-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-wdr4300-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-wr1043n-v5-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-wr1043n-v5-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-wr1043nd-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-wr1043nd-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:05</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-wr1043nd-v3-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-wr1043nd-v3-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:05</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-wr1043nd-v4-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-wr1043nd-v4-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:07</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-wr810n-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-wr810n-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-wr841n-v13-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-wr841n-v13-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-wr842n-v3-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-wr842n-v3-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-tl-wr902ac-v3-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-tl-wr902ac-v3-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-wbs210-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-wbs210-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:05</td><td class="s">7.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-wbs210-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-wbs210-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">7.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-tp-link-wbs510-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-tp-link-wbs510-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:05</td><td class="s">7.4M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-edgerouter-x-sfp-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-edgerouter-x-sfp-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:29</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-edgerouter-x-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-edgerouter-x-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:28</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-nanobeam-m5-xw-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-nanobeam-m5-xw-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-nanostation-loco-m-xw-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-nanostation-loco-m-xw-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:05</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-nanostation-m-xw-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-nanostation-m-xw-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-unifi-6-lite-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-unifi-6-lite-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:28</td><td class="s">6.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-unifi-6-lr-v1-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-unifi-6-lr-v1-sysupgrade.bin</a></td><td class="m">2022-Oct-06 23:43:54</td><td class="s">8.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-unifi-ac-lite-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-unifi-ac-lite-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:05</td><td class="s">5.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-unifi-ac-lr-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-unifi-ac-lr-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:06</td><td class="s">5.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-unifi-ac-mesh-pro-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-unifi-ac-mesh-pro-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-unifi-ac-mesh-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-unifi-ac-mesh-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.6M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-unifi-ac-pro-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-unifi-ac-pro-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-unifi-ap-lr-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-unifi-ap-lr-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:04</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-unifi-ap-outdoor%2B-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-unifi-ap-outdoor+-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:03</td><td class="s">6.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-unifi-ap-pro-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-unifi-ap-pro-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:04</td><td class="s">6.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-ubiquiti-unifi-ap-sysupgrade.bin">gluon-fftr-0.16.2+tackin-ubiquiti-unifi-ap-sysupgrade.bin</a></td><td class="m">2022-Oct-06 18:54:04</td><td class="s">5.3M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-vocore2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-vocore2-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-x86-64-sysupgrade.img.gz">gluon-fftr-0.16.2+tackin-x86-64-sysupgrade.img.gz</a></td><td class="m">2022-Oct-07 20:20:12</td><td class="s">13.4M</td><td class="t">application/gzip</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-x86-generic-sysupgrade.img.gz">gluon-fftr-0.16.2+tackin-x86-generic-sysupgrade.img.gz</a></td><td class="m">2022-Oct-07 17:01:30</td><td class="s">12.6M</td><td class="t">application/gzip</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-x86-geode-sysupgrade.img.gz">gluon-fftr-0.16.2+tackin-x86-geode-sysupgrade.img.gz</a></td><td class="m">2022-Oct-07 18:03:32</td><td class="s">7.9M</td><td class="t">application/gzip</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-x86-legacy-sysupgrade.img.gz">gluon-fftr-0.16.2+tackin-x86-legacy-sysupgrade.img.gz</a></td><td class="m">2022-Oct-07 19:07:30</td><td class="s">12.9M</td><td class="t">application/gzip</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-xiaomi-mi-router-3g-v2-sysupgrade.bin">gluon-fftr-0.16.2+tackin-xiaomi-mi-router-3g-v2-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:28</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-xiaomi-mi-router-4a-100m-edition-sysupgrade.bin">gluon-fftr-0.16.2+tackin-xiaomi-mi-router-4a-100m-edition-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-xiaomi-mi-router-4a-100m-international-edition-sysupgrade.bin">gluon-fftr-0.16.2+tackin-xiaomi-mi-router-4a-100m-international-edition-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-xiaomi-mi-router-4a-gigabit-edition-sysupgrade.bin">gluon-fftr-0.16.2+tackin-xiaomi-mi-router-4a-gigabit-edition-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:28</td><td class="s">5.7M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-xiaomi-mi-router-4c-sysupgrade.bin">gluon-fftr-0.16.2+tackin-xiaomi-mi-router-4c-sysupgrade.bin</a></td><td class="m">2022-Oct-07 14:00:15</td><td class="s">5.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-xiaomi-miwifi-mini-sysupgrade.bin">gluon-fftr-0.16.2+tackin-xiaomi-miwifi-mini-sysupgrade.bin</a></td><td class="m">2022-Oct-07 12:01:14</td><td class="s">5.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-xiaomi-redmi-router-ax6s-sysupgrade.bin">gluon-fftr-0.16.2+tackin-xiaomi-redmi-router-ax6s-sysupgrade.bin</a></td><td class="m">2022-Oct-06 23:43:54</td><td class="s">8.1M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-zbtlink-zbt-wg3526-16m-sysupgrade.bin">gluon-fftr-0.16.2+tackin-zbtlink-zbt-wg3526-16m-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:29</td><td class="s">6.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-zbtlink-zbt-wg3526-32m-sysupgrade.bin">gluon-fftr-0.16.2+tackin-zbtlink-zbt-wg3526-32m-sysupgrade.bin</a></td><td class="m">2022-Oct-07 13:04:29</td><td class="s">6.2M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-zyxel-nbg6617-sysupgrade.bin">gluon-fftr-0.16.2+tackin-zyxel-nbg6617-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">6.5M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="gluon-fftr-0.16.2%2Btackin-zyxel-wre6606-sysupgrade.bin">gluon-fftr-0.16.2+tackin-zyxel-wre6606-sysupgrade.bin</a></td><td class="m">2022-Oct-06 20:19:21</td><td class="s">7.0M</td><td class="t">application/octet-stream</td></tr>
+<tr><td class="n"><a href="stable.manifest">stable.manifest</a></td><td class="m">2022-Oct-07 22:04:31</td><td class="s">43.4K</td><td class="t">text/cache-manifest</td></tr>
+</tbody>
+</table>
+</div>
+<div class="foot">lighttpd/1.4.59</div>
+
+<script type="text/javascript">
+// <!--
+
+var click_column;
+var name_column = 0;
+var date_column = 1;
+var size_column = 2;
+var type_column = 3;
+var prev_span = null;
+
+if (typeof(String.prototype.localeCompare) === 'undefined') {
+ String.prototype.localeCompare = function(str, locale, options) {
+   return ((this == str) ? 0 : ((this > str) ? 1 : -1));
+ };
+}
+
+if (typeof(String.prototype.toLocaleUpperCase) === 'undefined') {
+ String.prototype.toLocaleUpperCase = function() {
+  return this.toUpperCase();
+ };
+}
+
+function get_inner_text(el) {
+ if((typeof el == 'string')||(typeof el == 'undefined'))
+  return el;
+ if(el.innerText)
+  return el.innerText;
+ else {
+  var str = "";
+  var cs = el.childNodes;
+  var l = cs.length;
+  for (i=0;i<l;i++) {
+   if (cs[i].nodeType==1) str += get_inner_text(cs[i]);
+   else if (cs[i].nodeType==3) str += cs[i].nodeValue;
+  }
+ }
+ return str;
+}
+
+function isdigit(c) {
+ return (c >= '0' && c <= '9');
+}
+
+function unit_multiplier(unit) {
+ return (unit=='K') ? 1000
+      : (unit=='M') ? 1000000
+      : (unit=='G') ? 1000000000
+      : (unit=='T') ? 1000000000000
+      : (unit=='P') ? 1000000000000000
+      : (unit=='E') ? 1000000000000000000 : 1;
+}
+
+var li_date_regex=/(\d{4})-(\w{3})-(\d{2}) (\d{2}):(\d{2}):(\d{2})/;
+
+var li_mon = ['Jan','Feb','Mar','Apr','May','Jun',
+              'Jul','Aug','Sep','Oct','Nov','Dec'];
+
+function li_mon_num(mon) {
+ var i; for (i = 0; i < 12 && mon != li_mon[i]; ++i); return i;
+}
+
+function li_date_cmp(s1, s2) {
+ var dp1 = li_date_regex.exec(s1)
+ var dp2 = li_date_regex.exec(s2)
+ for (var i = 1; i < 7; ++i) {
+  var cmp = (2 != i)
+   ? parseInt(dp1[i]) - parseInt(dp2[i])
+   : li_mon_num(dp1[2]) - li_mon_num(dp2[2]);
+  if (0 != cmp) return cmp;
+ }
+ return 0;
+}
+
+function sortfn_then_by_name(a,b,sort_column) {
+ if (sort_column == name_column || sort_column == type_column) {
+  var ad = (a.cells[type_column].innerHTML === 'Directory');
+  var bd = (b.cells[type_column].innerHTML === 'Directory');
+  if (ad != bd) return (ad ? -1 : 1);
+ }
+ var at = get_inner_text(a.cells[sort_column]);
+ var bt = get_inner_text(b.cells[sort_column]);
+ var cmp;
+ if (sort_column == name_column) {
+  if (at == '..') return -1;
+  if (bt == '..') return  1;
+ }
+ if (a.cells[sort_column].className == 'int') {
+  cmp = parseInt(at)-parseInt(bt);
+ } else if (sort_column == date_column) {
+  var ad = isdigit(at.substr(0,1));
+  var bd = isdigit(bt.substr(0,1));
+  if (ad != bd) return (!ad ? -1 : 1);
+  cmp = li_date_cmp(at,bt);
+ } else if (sort_column == size_column) {
+  var ai = parseInt(at, 10) * unit_multiplier(at.substr(-1,1));
+  var bi = parseInt(bt, 10) * unit_multiplier(bt.substr(-1,1));
+  if (at.substr(0,1) == '-') ai = -1;
+  if (bt.substr(0,1) == '-') bi = -1;
+  cmp = ai - bi;
+ } else {
+  cmp = at.toLocaleUpperCase().localeCompare(bt.toLocaleUpperCase());
+  if (0 != cmp) return cmp;
+  cmp = at.localeCompare(bt);
+ }
+ if (0 != cmp || sort_column == name_column) return cmp;
+ return sortfn_then_by_name(a,b,name_column);
+}
+
+function sortfn(a,b) {
+ return sortfn_then_by_name(a,b,click_column);
+}
+
+function resort(lnk) {
+ var span = lnk.childNodes[1];
+ var table = lnk.parentNode.parentNode.parentNode.parentNode;
+ var rows = new Array();
+ for (j=1;j<table.rows.length;j++)
+  rows[j-1] = table.rows[j];
+ click_column = lnk.parentNode.cellIndex;
+ rows.sort(sortfn);
+
+ if (prev_span != null) prev_span.innerHTML = '';
+ if (span.getAttribute('sortdir')=='down') {
+  span.innerHTML = '&uarr;';
+  span.setAttribute('sortdir','up');
+  rows.reverse();
+ } else {
+  span.innerHTML = '&darr;';
+  span.setAttribute('sortdir','down');
+ }
+ for (i=0;i<rows.length;i++)
+  table.tBodies[0].appendChild(rows[i]);
+ prev_span = span;
+}
+
+function init_sort(init_sort_column, ascending) {
+ var tables = document.getElementsByTagName("table");
+ for (var i = 0; i < tables.length; i++) {
+  var table = tables[i];
+  //var c = table.getAttribute("class")
+  //if (-1 != c.split(" ").indexOf("sort")) {
+   var row = table.rows[0].cells;
+   for (var j = 0; j < row.length; j++) {
+    var n = row[j];
+    if (n.childNodes.length == 1 && n.childNodes[0].nodeType == 3) {
+     var link = document.createElement("a");
+     var title = n.childNodes[0].nodeValue.replace(/:$/, "");
+     link.appendChild(document.createTextNode(title));
+     link.setAttribute("href", "#");
+     link.setAttribute("class", "sortheader");
+     link.setAttribute("onclick", "resort(this);return false;");
+     var arrow = document.createElement("span");
+     arrow.setAttribute("class", "sortarrow");
+     arrow.appendChild(document.createTextNode(":"));
+     link.appendChild(arrow)
+     n.replaceChild(link, n.firstChild);
+    }
+   }
+   var lnk = row[init_sort_column].firstChild;
+   if (ascending) {
+    var span = lnk.childNodes[1];
+    span.setAttribute('sortdir','down');
+   }
+   resort(lnk);
+  //}
+ }
+}
+
+init_sort(0, 0);
+
+// -->
+</script>
+
+</body>
+</html>
