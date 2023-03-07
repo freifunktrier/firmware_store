@@ -1,4 +1,4 @@
-# stable-store
+# beta-store
 
 ## Version 0.16.4 based on Gluon 2022.1.3
 
