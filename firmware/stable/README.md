@@ -1,14 +1,9 @@
 # stable-store
 
-## Version 0.16.4 based on Gluon 2022.1.3
+## Version 0.16.5 based on Gluon 2022.1.4
 
-This version fixes issues with Gluon 2022.1.x
+This version fixes issues with Gluon 2022.1.x and adds new supported hardware.
 
-For more detailed informations please read release-notes: https://gluon.readthedocs.io/en/latest/releases/v2022.1.3.html
+For more detailed informations please read release-notes: https://gluon.readthedocs.io/en/latest/releases/v2022.1.4.html
 
-To update your Router to this stable via autoupdater:  
-
-```
-autoupdater -f - b stable
-```
 
