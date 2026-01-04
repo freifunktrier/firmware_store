@@ -1,9 +1,9 @@
 # beta-store
 
-## Version 0.17.4 based on Gluon 2023.2.2
+## Version 0.18.0 based on Gluon 2025.1
 
-This version fixes issues with Gluon 2023.2.1 and adds new supported hardware.
+This version adds new supported hardware.
 
-For more detailed informations please read release-notes: https://gluon.readthedocs.io/en/latest/releases/v2023.2.2.html
+For more detailed informations please read release-notes: https://gluon.readthedocs.io/en/latest/releases/v2025.1.html
 
 
