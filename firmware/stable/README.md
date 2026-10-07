@@ -1,8 +1,9 @@
-# stable-store
+# Stable-store
 
-## Version 0.17.3 based on Gluon 2023.2.1
+## Version 0.18.2 based on Gluon 2025.1.3
 
+This version adds new supported hardware.
 
-For more detailed informations please read release-notes: https://gluon.readthedocs.io/en/latest/releases/v2023.2.1.html
+For more detailed informations please read release-notes: https://gluon.readthedocs.io/en/latest/releases/v2025.1.3.html
 
 
